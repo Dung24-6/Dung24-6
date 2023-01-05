@@ -9,9 +9,11 @@
 [![Github star](https://img.shields.io/github/stars/Dung24-6?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Dung24-6?tab=repositories)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jonlnyy/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dung24-6)
-[![Dung's github stats](https://github-readme-stats.vercel.app/api?username=Dung24-6&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
+  </div>
+[![Dung's github stats](https://github-readme-stats.vercel.app/api?username=Dung24-6&theme=blue-green)](https://github.com/Dung24-6)
+  
+
 
 ## My favorite tools and technologies ⚙️ 
 
