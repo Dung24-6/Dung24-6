@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
+<div align="justify">
 
-- 👋 Hi, I’m @Dung24-6-2002
-Gmail : hadung24062002@gmail.com
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.facebook.com/jonlnyy/)
 [![Name](https://img.shields.io/badge/Ha%20Van-Quoc%20Dung-green)](https://www.facebook.com/jonlnyy/)
 ![Profile views](https://gpvc.arturio.dev/Dung24-6)
@@ -10,7 +10,8 @@ Gmail : hadung24062002@gmail.com
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jonlnyy/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dung24-6)
 [![Dung's github stats](https://github-readme-stats.vercel.app/api?username=Dung24-6&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+  
+</div>
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
