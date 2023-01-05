@@ -11,7 +11,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dung24-6)
   
   </div>
-[![Dung's github stats](https://github-readme-stats.vercel.app/api?username=Dung24-6&theme=blue-green)](https://github.com/Dung24-6)
+[![Dung's github stats](https://github-readme-stats.vercel.app/api?username=Dung24-6&theme=blue-green)(https://github.com/Dung24-6)
   
 
 
