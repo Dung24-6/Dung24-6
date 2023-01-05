@@ -23,6 +23,8 @@
 Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming and in the future I want to learn more things.
 
 </p>
+
+## Git contributions
   
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
