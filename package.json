@@ -1,0 +1,23 @@
+{
+  "name": "dung24-6",
+  "version": "1.0.0",
+  "description": "![Header](./github-header-image.png)",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dung24-6/Dung24-6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dung24-6/Dung24-6/issues"
+  },
+  "homepage": "https://github.com/Dung24-6/Dung24-6#readme",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
