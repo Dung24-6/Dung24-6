@@ -24,7 +24,7 @@ const generate = async () => {
 
   if (!quote) return;
 
-  fs.appendFileSync("README.md", `_**${quote}**_\n\n${author}`);
+  fs.appendFileSync("README.md", `\n_**${quote}**_\n\n${author}\n`);
 };
 
 generate();
