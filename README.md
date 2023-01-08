@@ -86,3 +86,7 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
 _**I know for sure that what we dwell on is who we become.**_
 
 Oprah Winfrey
+
+_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
+
+Lorii Myers
