@@ -82,13 +82,6 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
       <br>mongoDB
     </td>
   </tr>
-_**When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.**_
-
-Anuj Somany
-
-_**When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.**_
-
-Anuj Somany
 
 _**I know for sure that what we dwell on is who we become.**_
 
