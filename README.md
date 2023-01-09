@@ -90,3 +90,7 @@ Oprah Winfrey
 _**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
 
 Lorii Myers
+
+_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
+
+Matthew Keith Groves
