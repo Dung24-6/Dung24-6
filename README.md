@@ -98,3 +98,7 @@ Matthew Keith Groves
 _**A man who has no imagination has no wings.**_
 
 Mohamad Ali
+
+_**The journey of a thousand miles begins with one step.**_
+
+Lao Tzu
