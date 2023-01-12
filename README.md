@@ -83,25 +83,6 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
     </td>
   </tr>
 
-_**I know for sure that what we dwell on is who we become.**_
-
-Oprah Winfrey
-
-_**An aspirational diet will have you dreaming of success; but it's the attachment of expectations and tangible goals that feeds the desire, persistence, and fortitude required to make the win.**_
-
-Lorii Myers
-
-_**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**_
-
-Matthew Keith Groves
-
-_**A man who has no imagination has no wings.**_
-
-Mohamad Ali
-
-_**The journey of a thousand miles begins with one step.**_
-
-Lao Tzu
 
 _**Winning is nice if you don't lose your integrity in the process.**_
 
