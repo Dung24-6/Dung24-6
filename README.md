@@ -102,3 +102,7 @@ Mohamad Ali
 _**The journey of a thousand miles begins with one step.**_
 
 Lao Tzu
+
+_**Winning is nice if you don't lose your integrity in the process.**_
+
+Arnold Horshak
