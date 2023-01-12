@@ -87,3 +87,7 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
 _**Winning is nice if you don't lose your integrity in the process.**_
 
 Arnold Horshak
+
+_**Winning is nice if you don't lose your integrity in the process.**_
+
+Arnold Horshak
