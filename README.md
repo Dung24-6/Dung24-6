@@ -89,3 +89,7 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
 _**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
 
 Mohamad Ali
+
+_**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
+
+Mohamad Ali
