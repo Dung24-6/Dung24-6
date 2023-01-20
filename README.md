@@ -84,41 +84,7 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
   </tr>
 
 
-_**Winning is nice if you don't lose your integrity in the process.**_
 
-Arnold Horshak
-
-_**Winning is nice if you don't lose your integrity in the process.**_
-
-Arnold Horshak
-
-_**Winning is not everything, but the effort to win is.**_
-
-Zig Ziglar
-
-_**Your fears, your critics, your heroes, your villains: They are fictions you perceive as reality. Choose to see through them. Choose to let them go.**_
-
-Isaac Lidsky
-
-_**The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe.**_
-
-Lorii Myers
-
-_**Think in terms of opportunities and solutions instead of problems, disappointment, and failure.**_
-
-Lorii Myers
-
-_**Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.**_
-
-Napoleon Bonaparte
-
-_**It wasn't raining when Noah built the ark..**_
-
-Howard Ruff
-
-_**Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.**_
-
-John Gardner
 
 _**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
 
