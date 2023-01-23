@@ -104,3 +104,7 @@ Bruce Lee
 _**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**_
 
 Henry David Thoreau
+
+_**Winning is nice if you don't lose your integrity in the process.**_
+
+Arnold Horshak
