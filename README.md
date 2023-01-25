@@ -112,3 +112,7 @@ Arnold Horshak
 _**In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.**_
 
 Vincent Van Gogh
+
+_**There's such a thin line between winning and losing.**_
+
+John R. Tunis
