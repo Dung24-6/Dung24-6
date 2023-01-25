@@ -86,32 +86,7 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
 
 
 
-_**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
 
-Mohamad Ali
-
-_**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**_
-
-Mohamad Ali
-
-_**One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.**_
-
-Bruce Lee
-
-_**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**_
-
-Henry David Thoreau
-
-_**Winning is nice if you don't lose your integrity in the process.**_
-
-Arnold Horshak
-
-_**In spite of everything I shall rise again: I will take up my pencil, which I have forsaken in my great discouragement, and I will go on with my drawing.**_
-
-Vincent Van Gogh
 
 _**There's such a thin line between winning and losing.**_
 
