@@ -6,7 +6,8 @@
 [![Name](https://img.shields.io/badge/Ha%20Van-Quoc%20Dung-green)](https://www.facebook.com/jonlnyy/)&nbsp;&nbsp;
 ![Profile views](https://gpvc.arturio.dev/Dung24-6)&nbsp;&nbsp;
 [![Github followers](https://img.shields.io/github/followers/Dung24-6?style=social)](https://github.com/Dung24-6?tab=followers)&nbsp;&nbsp;
-[![Github star](https://img.shields.io/github/stars/Dung24-6?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Dung24-6?tab=repositories)&nbsp;&nbsp;
+<!--- [![Github star](https://img.shields.io/github/stars/Dung24-6?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/Dung24-6?tab=repositories)&nbsp;&nbsp; -->
+[![Github star](https://img.shields.io/github/stars/Dung24-6?affiliations=OWNER&style=social)](https://github.com/Dung24-6?tab=repositories)&nbsp;&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jonlnyy/)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dung24-6)&nbsp;&nbsp;
 
