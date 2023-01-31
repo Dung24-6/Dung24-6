@@ -92,30 +92,4 @@ _**There's such a thin line between winning and losing.**_
 
 John R. Tunis
 
-_**There's such a thin line between winning and losing.**_
 
-John R. Tunis
-
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
-
-George Bernard Shaw
-
-_**I am an optimist. It does not seem too much use being anything else..**_
-
-Winston Churchill
-
-_**Stop complaining. Start creating.**_
-
-Dale Patridge
-
-_**Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.**_
-
-G. Kingsley Ward
-
-_**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**_
-
-Sally Blount
-
-_**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**_
-
-Charles F. Kettering
