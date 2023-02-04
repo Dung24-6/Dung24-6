@@ -127,3 +127,7 @@ Brene Brown
 _**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**_
 
 Barbara Pletcher
+
+_**Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.**_
+
+Christiane Northrup
