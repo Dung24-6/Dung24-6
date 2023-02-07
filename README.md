@@ -95,3 +95,7 @@ _**There's such a thin line between winning and losing.**_
 John R. Tunis
 
 
+
+_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
+
+Veronica A. Shoffstall
