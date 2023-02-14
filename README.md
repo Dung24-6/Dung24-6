@@ -123,3 +123,7 @@ Lorii Myers
 _**Persistence is very important. You should not give up unless you are forced to give up.**_
 
 Elon Musk
+
+_**If you want to make your dreams come true, the first thing you have to do is wake up.**_
+
+J.M. Power
