@@ -127,3 +127,7 @@ Elon Musk
 _**If you want to make your dreams come true, the first thing you have to do is wake up.**_
 
 J.M. Power
+
+_**Keep a positive mind. Remember, a failed attempt doesn't make you a failure-giving up does.**_
+
+Lorii Myers
