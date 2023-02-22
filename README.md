@@ -119,3 +119,7 @@ Kevin Turner
 _**Stop complaining. Start creating.**_
 
 Dale Patridge
+
+_**If you cannot do great things, do small things in a great way.**_
+
+Napoleon Hill
