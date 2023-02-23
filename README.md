@@ -123,3 +123,7 @@ Dale Patridge
 _**If you cannot do great things, do small things in a great way.**_
 
 Napoleon Hill
+
+_**Failure is the condiment that gives success its flavor.**_
+
+Truman Capote
