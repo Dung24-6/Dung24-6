@@ -127,3 +127,7 @@ Napoleon Hill
 _**Failure is the condiment that gives success its flavor.**_
 
 Truman Capote
+
+_**Things are not bad in themselves, but our cowardice makes them so.**_
+
+Michel de Montaigne
