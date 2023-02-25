@@ -131,3 +131,7 @@ Truman Capote
 _**Things are not bad in themselves, but our cowardice makes them so.**_
 
 Michel de Montaigne
+
+_**Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!**_
+
+Daireth Winehouse
