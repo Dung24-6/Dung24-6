@@ -94,3 +94,7 @@ _**There's such a thin line between winning and losing.**_
 
 John R. Tunis
 
+
+_**The man who has confidence in himself gains the confidence of others.**_
+
+Hasidic Proverb
