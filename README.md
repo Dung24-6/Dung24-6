@@ -102,3 +102,7 @@ Hasidic Proverb
 _**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
 
 Dale Carnegie
+
+_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
+
+Lorii Myers
