@@ -95,34 +95,4 @@ _**There's such a thin line between winning and losing.**_
 John R. Tunis
 
 
-_**The man who has confidence in himself gains the confidence of others.**_
 
-Hasidic Proverb
-
-_**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**_
-
-Dale Carnegie
-
-_**People rise to the occasion without hesitation when they feel inspired and challenged.**_
-
-Lorii Myers
-
-_**Stress is like a pulse, if you have it you are alive.**_
-
-Steve Maraboli
-
-_**Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.**_
-
-Veronica A. Shoffstall
-
-_**Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.**_
-
-Voltaire
-
-_**When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.**_
-
-Anuj Somany
-
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
-
-Larry Page
