@@ -100,3 +100,7 @@ John R. Tunis
 _**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
 
 Larry Page
+
+_**There's such a thin line between winning and losing.**_
+
+John R. Tunis
