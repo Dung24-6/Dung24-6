@@ -104,3 +104,7 @@ Larry Page
 _**There's such a thin line between winning and losing.**_
 
 John R. Tunis
+
+_**Whether you think you can or think you can't, you're right..**_
+
+Henry Ford
