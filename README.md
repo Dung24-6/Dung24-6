@@ -108,3 +108,7 @@ John R. Tunis
 _**Whether you think you can or think you can't, you're right..**_
 
 Henry Ford
+
+_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
+
+Jack Ma
