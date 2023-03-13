@@ -96,31 +96,3 @@ John R. Tunis
 
 
 
-
-_**If you're changing the world, you're working on important things. You're excited to get up in the morning.**_
-
-Larry Page
-
-_**There's such a thin line between winning and losing.**_
-
-John R. Tunis
-
-_**Whether you think you can or think you can't, you're right..**_
-
-Henry Ford
-
-_**I keep asking myself these three questions.. What do you have? What do you want? What will you give up?**_
-
-Jack Ma
-
-_**Some men see things as they are and say why.. I dream things that never were and say why not.**_
-
-George Bernard Shaw
-
-_**Winning is nice if you don't lose your integrity in the process.**_
-
-Arnold Horshak
-
-_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
-
-John Muir
