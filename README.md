@@ -104,3 +104,7 @@ John Muir
 _**Find a purpose in life so big it will challenge every capacity to be at your best.**_
 
 David O. McKay
+
+_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
+
+Lorii Myers
