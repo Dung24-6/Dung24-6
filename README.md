@@ -116,3 +116,7 @@ G. Kingsley Ward
 _**I am an optimist. It does not seem too much use being anything else..**_
 
 Winston Churchill
+
+_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
+
+Phil Grimshaw
