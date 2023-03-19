@@ -97,30 +97,4 @@ John R. Tunis
 
 
 
-_**Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.**_
 
-John Muir
-
-_**Find a purpose in life so big it will challenge every capacity to be at your best.**_
-
-David O. McKay
-
-_**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**_
-
-Lorii Myers
-
-_**An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!**_
-
-G. Kingsley Ward
-
-_**I am an optimist. It does not seem too much use being anything else..**_
-
-Winston Churchill
-
-_**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
-
-Phil Grimshaw
-
-_**Sustenance! Your health is always the best prescription.**_
-
-Lorii Myers
