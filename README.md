@@ -120,3 +120,7 @@ Winston Churchill
 _**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**_
 
 Phil Grimshaw
+
+_**Sustenance! Your health is always the best prescription.**_
+
+Lorii Myers
