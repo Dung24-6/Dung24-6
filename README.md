@@ -98,3 +98,7 @@ John R. Tunis
 
 
 
+
+_**Sustenance! Your health is always the best prescription.**_
+
+Lorii Myers
