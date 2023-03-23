@@ -114,3 +114,7 @@ Ganesh
 _**It is easy to sit up and take notice, What is difficult is getting up and taking action.**_
 
 Honore de Balzac
+
+_**If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.**_
+
+Jack Ma
