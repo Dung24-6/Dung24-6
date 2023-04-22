@@ -98,24 +98,3 @@ John R. Tunis
 
 
 
-
-
-_**Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.**_
-
-Brene Brown
-
-_**Great things are done by a series of small things brought together.**_
-
-Vincent Van Gogh
-
-_**I wanted to achieve something essential in life, something that is not measured by money or position in society. The mountains are not stadiums where I satisfy my ambitions to achieve. They are my cathedrals, the houses of my religion. In the mountains I attempt to understand my life. They are the way I practice my religion. In the mountains I celebrate creation, on each journey I am reborn.**_
-
-Anatoli Boukreev
-
-_**I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.**_
-
-Steve Jobs
-
-_**Hang Out with People Who are Better than You.**_
-
-Warren Buffett
