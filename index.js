@@ -3,10 +3,15 @@ const fs = require("fs");
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.rest/qod?language=en");
+    const { data } = await fetch.get("https://quotes.rest/qod?language=en");
+    if (data) {
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
-
+    }
+    else return {
+      qoute: "Do what you Love, Love what you do",
+      author: "Roy T. Bennett",
+    }
     console.log("new quote", `"${quote}"`);
 
     return {
