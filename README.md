@@ -4,7 +4,7 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://www.facebook.com/jonlnyy/)&nbsp;&nbsp;
 [![Name](https://img.shields.io/badge/Ha%20Van-Quoc%20Dung-green)](https://www.facebook.com/jonlnyy/)&nbsp;&nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=Dung24-6)&nbsp;&nbsp;
+![Profile views](https://komarev.com/ghpvc/?username=Dung24-6&base=1000)&nbsp;&nbsp;
 [![Github followers](https://img.shields.io/github/followers/Dung24-6?style=social)](https://github.com/Dung24-6?tab=followers)
 [![Github star](https://img.shields.io/github/stars/Dung24-6?affiliations=OWNER&style=social)](https://github.com/Dung24-6?tab=repositories)&nbsp;
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/jonlnyy/)&nbsp;&nbsp;
