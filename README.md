@@ -94,3 +94,7 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
 _**It is not uncommon for people to spend their whole life waiting to start living.**_
 
 Eckhart Tolle
+
+_**All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.**_
+
+Rudolf Arnheim
