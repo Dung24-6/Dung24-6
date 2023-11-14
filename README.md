@@ -90,18 +90,6 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
 
 
 
-_**There's such a thin line between winning and losingaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.**_
-
-John R. Tunis
-
-
-
-
-
-
-_**Love and compassion open our own inner life, reducing stress, distrust and loneliness.**_
-
-Dalai Lama
 
 _**It is not uncommon for people to spend their whole life waiting to start living.**_
 
