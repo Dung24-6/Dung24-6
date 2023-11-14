@@ -4,7 +4,7 @@ const fetch = require('node-fetch');
 
 const getQuote = async () => {
   try {
-    const { data } = await fetch("https://quotes.rest/qod?language=en");
+    const { data } = await axios.get("https://quotes.rest/qod?language=en");
     if (data) {
     const quote = data.contents.quotes[0].quote;
     const author = data.contents.quotes[0].author;
