@@ -1,17 +1,17 @@
 const axios = require("axios");
 const fs = require("fs");
-const fetch = require('node-fetch');
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://quotes.rest/qod?language=en");
+    const { data } = await axios.get("https://api.quotable.io/quotes/random");
+    let quote = "Do what you Love, Love what you do";
+    let author = "Roy T. Bennett";
     if (data) {
-    const quote = data.contents.quotes[0].quote;
-    const author = data.contents.quotes[0].author;
+      quote = data[0].content;
+      author = data[0].author;
     }
     else return {
-      qoute: "Do what you Love, Love what you do",
-      author: "Roy T. Bennett",
+      quote, author,
     }
     console.log("new quote", `"${quote}"`);
 
@@ -20,7 +20,7 @@ const getQuote = async () => {
       author,
     };
   } catch (err) {
-    console.error(err.message);
+    console.error(err);
     return {};
   }
 };
