@@ -102,3 +102,7 @@ Rudolf Arnheim
 _**Everything that happens as it should, and if you observe carefully, you will find this to be so.**_
 
 Marcus Aurelius
+
+_**Your sacred space is where you can find yourself again and again.**_
+
+Joseph Campbell
