@@ -106,3 +106,7 @@ Marcus Aurelius
 _**Your sacred space is where you can find yourself again and again.**_
 
 Joseph Campbell
+
+_**A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.**_
+
+David Brinkley
