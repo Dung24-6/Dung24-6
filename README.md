@@ -110,3 +110,7 @@ Joseph Campbell
 _**A successful person is one who can lay a firm foundation with the bricks that others throw at him or her.**_
 
 David Brinkley
+
+_**A man's growth is seen in the successive choirs of his friends**_
+
+Ralph Waldo Emerson
