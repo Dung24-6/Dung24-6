@@ -114,3 +114,7 @@ David Brinkley
 _**A man's growth is seen in the successive choirs of his friends**_
 
 Ralph Waldo Emerson
+
+_**He who lives in harmony with himself lives in harmony with the universe.**_
+
+Marcus Aurelius
