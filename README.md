@@ -118,3 +118,7 @@ Ralph Waldo Emerson
 _**He who lives in harmony with himself lives in harmony with the universe.**_
 
 Marcus Aurelius
+
+_**Life is just a chance to grow a soul.**_
+
+A. Powell Davies
