@@ -122,3 +122,7 @@ Marcus Aurelius
 _**Life is just a chance to grow a soul.**_
 
 A. Powell Davies
+
+_**Until you make peace with who you are, you'll never be content with what you have.**_
+
+Doris Mortman
