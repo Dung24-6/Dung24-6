@@ -126,3 +126,7 @@ A. Powell Davies
 _**Until you make peace with who you are, you'll never be content with what you have.**_
 
 Doris Mortman
+
+_**I always wanted to be somebody, but I should have been more specific.**_
+
+Lily Tomlin
