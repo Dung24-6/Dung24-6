@@ -130,3 +130,7 @@ Doris Mortman
 _**I always wanted to be somebody, but I should have been more specific.**_
 
 Lily Tomlin
+
+_**The secret of business is to know something that nobody else knows.**_
+
+Aristotle Onassis
