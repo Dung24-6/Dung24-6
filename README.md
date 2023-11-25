@@ -138,3 +138,7 @@ Aristotle Onassis
 _**Cleverness is not wisdom.**_
 
 Euripides
+
+_**It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.**_
+
+Epictetus
