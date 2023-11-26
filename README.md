@@ -142,3 +142,7 @@ Euripides
 _**It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.**_
 
 Epictetus
+
+_**Nine-tenths of wisdom is being wise in time.**_
+
+Theodore Roosevelt
