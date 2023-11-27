@@ -146,3 +146,7 @@ Epictetus
 _**Nine-tenths of wisdom is being wise in time.**_
 
 Theodore Roosevelt
+
+_**The awareness of our own strength makes us modest.**_
+
+Paul Cézanne
