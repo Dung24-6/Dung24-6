@@ -150,3 +150,7 @@ Theodore Roosevelt
 _**The awareness of our own strength makes us modest.**_
 
 Paul Cézanne
+
+_**It is the quality of our work which will please God, not the quantity.**_
+
+Mahatma Gandhi
