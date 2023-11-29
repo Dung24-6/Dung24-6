@@ -154,3 +154,7 @@ Paul Cézanne
 _**It is the quality of our work which will please God, not the quantity.**_
 
 Mahatma Gandhi
+
+_**First say to yourself what you would be; and then do what you have to do.**_
+
+Epictetus
