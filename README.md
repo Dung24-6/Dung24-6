@@ -170,3 +170,7 @@ Leonardo da Vinci
 _**To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best.**_
 
 Margaret Thatcher
+
+_**I had three chairs in my house; one for solitude, two for friendship, three for society.**_
+
+Henry David Thoreau
