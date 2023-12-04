@@ -174,3 +174,7 @@ Margaret Thatcher
 _**I had three chairs in my house; one for solitude, two for friendship, three for society.**_
 
 Henry David Thoreau
+
+_**Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.**_
+
+Henry Wadsworth Longfellow
