@@ -190,3 +190,7 @@ Robert Frost
 _**The first step to getting the things you want out of life is this: decide what you want.**_
 
 Ben Stein
+
+_**Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.**_
+
+Johann Kaspar Lavater
