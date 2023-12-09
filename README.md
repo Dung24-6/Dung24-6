@@ -194,3 +194,7 @@ Ben Stein
 _**Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship.**_
 
 Johann Kaspar Lavater
+
+_**When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.**_
+
+Confucius
