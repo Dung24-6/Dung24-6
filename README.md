@@ -198,3 +198,7 @@ Johann Kaspar Lavater
 _**When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self.**_
 
 Confucius
+
+_**Your mind will answer most questions if you learn to relax and wait for the answer.**_
+
+William Burroughs
