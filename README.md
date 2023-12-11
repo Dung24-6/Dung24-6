@@ -202,3 +202,7 @@ Confucius
 _**Your mind will answer most questions if you learn to relax and wait for the answer.**_
 
 William Burroughs
+
+_**Believe you can and you're halfway there.**_
+
+Theodore Roosevelt
