@@ -206,3 +206,7 @@ William Burroughs
 _**Believe you can and you're halfway there.**_
 
 Theodore Roosevelt
+
+_**Friendship is Love without his wings!**_
+
+Lord Byron
