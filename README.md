@@ -218,3 +218,7 @@ Calvin Coolidge
 _**What is necessary to change a person is to change his awareness of himself.**_
 
 Abraham Maslow
+
+_**One fails forward toward success.**_
+
+Charles F. Kettering
