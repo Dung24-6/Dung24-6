@@ -230,3 +230,7 @@ Eckhart Tolle
 _**The function of wisdom is to discriminate between good and evil.**_
 
 Cicero
+
+_**To bring anything into your life, imagine that it's already there.**_
+
+Richard Bach
