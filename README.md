@@ -234,3 +234,7 @@ Cicero
 _**To bring anything into your life, imagine that it's already there.**_
 
 Richard Bach
+
+_**There is only one corner of the universe you can be certain of improving, and that's your own self.**_
+
+Aldous Huxley
