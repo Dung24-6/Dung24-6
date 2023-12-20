@@ -238,3 +238,7 @@ Richard Bach
 _**There is only one corner of the universe you can be certain of improving, and that's your own self.**_
 
 Aldous Huxley
+
+_**I'm not interested in age. People who tell me their age are silly. You're as old as you feel.**_
+
+Elizabeth Arden
