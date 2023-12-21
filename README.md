@@ -242,3 +242,7 @@ Aldous Huxley
 _**I'm not interested in age. People who tell me their age are silly. You're as old as you feel.**_
 
 Elizabeth Arden
+
+_**Tell me and I forget. Teach me and I remember. Involve me and I learn.**_
+
+Benjamin Franklin
