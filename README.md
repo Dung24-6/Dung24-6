@@ -246,3 +246,7 @@ Elizabeth Arden
 _**Tell me and I forget. Teach me and I remember. Involve me and I learn.**_
 
 Benjamin Franklin
+
+_**Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.**_
+
+Ralph Waldo Emerson
