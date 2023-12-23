@@ -250,3 +250,7 @@ Benjamin Franklin
 _**Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.**_
 
 Ralph Waldo Emerson
+
+_**Football is football and talent is talent. But the mindset of your team makes all the difference.**_
+
+Robert Griffin III
