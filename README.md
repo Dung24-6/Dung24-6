@@ -254,3 +254,7 @@ Ralph Waldo Emerson
 _**Football is football and talent is talent. But the mindset of your team makes all the difference.**_
 
 Robert Griffin III
+
+_**Action is the foundational key to all success.**_
+
+Pablo Picasso
