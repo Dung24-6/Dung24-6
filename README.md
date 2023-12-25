@@ -258,3 +258,7 @@ Robert Griffin III
 _**Action is the foundational key to all success.**_
 
 Pablo Picasso
+
+_**He who is contented is rich.**_
+
+Laozi
