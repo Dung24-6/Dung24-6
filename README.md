@@ -262,3 +262,7 @@ Pablo Picasso
 _**He who is contented is rich.**_
 
 Laozi
+
+_**A friend is a gift you give yourself.**_
+
+Robert Louis Stevenson
