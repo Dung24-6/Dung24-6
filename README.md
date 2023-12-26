@@ -135,3 +135,7 @@ _**The secret of business is to know something that nobody else knows.**_
 
 Aristotle Onassis
 
+
+_**Always seek out the seed of triumph in every adversity.**_
+
+Og Mandino
