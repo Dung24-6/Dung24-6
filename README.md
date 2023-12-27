@@ -139,3 +139,7 @@ Aristotle Onassis
 _**Always seek out the seed of triumph in every adversity.**_
 
 Og Mandino
+
+_**We must become the change we want to see.**_
+
+Mahatma Gandhi
