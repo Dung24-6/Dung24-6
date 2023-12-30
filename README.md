@@ -151,3 +151,7 @@ John F. Kennedy
 _**Wisdom comes alone through suffering.**_
 
 Aeschylus
+
+_**A prudent question is one half of wisdom.**_
+
+Francis Bacon
