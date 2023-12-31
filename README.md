@@ -155,3 +155,7 @@ Aeschylus
 _**A prudent question is one half of wisdom.**_
 
 Francis Bacon
+
+_**Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.**_
+
+Dale Carnegie
