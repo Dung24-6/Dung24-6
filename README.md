@@ -159,3 +159,7 @@ Francis Bacon
 _**Most of the important things in the world have been accomplished by people who have kept on trying when there seemed to be no hope at all.**_
 
 Dale Carnegie
+
+_**Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.**_
+
+William Shakespeare
