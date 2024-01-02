@@ -163,3 +163,7 @@ Dale Carnegie
 _**Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them.**_
 
 William Shakespeare
+
+_**No man is free who is not master of himself.**_
+
+Epictetus
