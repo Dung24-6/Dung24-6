@@ -175,3 +175,7 @@ Alan Watts
 _**The greatest gift of life is friendship, and I have received it.**_
 
 Hubert Humphrey
+
+_**Who sows virtue reaps honor.**_
+
+Leonardo da Vinci
