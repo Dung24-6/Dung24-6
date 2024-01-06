@@ -179,3 +179,7 @@ Hubert Humphrey
 _**Who sows virtue reaps honor.**_
 
 Leonardo da Vinci
+
+_**True friendship can afford true knowledge. It does not depend on darkness and ignorance.**_
+
+Henry David Thoreau
