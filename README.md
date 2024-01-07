@@ -183,3 +183,7 @@ Leonardo da Vinci
 _**True friendship can afford true knowledge. It does not depend on darkness and ignorance.**_
 
 Henry David Thoreau
+
+_**Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.**_
+
+Oscar Wilde
