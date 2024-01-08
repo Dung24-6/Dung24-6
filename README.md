@@ -187,3 +187,7 @@ Henry David Thoreau
 _**Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.**_
 
 Oscar Wilde
+
+_**To listen well is as powerful a means of communication and influence as to talk well.**_
+
+John Marshall
