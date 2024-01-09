@@ -191,3 +191,7 @@ Oscar Wilde
 _**To listen well is as powerful a means of communication and influence as to talk well.**_
 
 John Marshall
+
+_**Friendship may, and often does, grow into love, but love never subsides into friendship.**_
+
+Lord Byron
