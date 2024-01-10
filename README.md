@@ -195,3 +195,7 @@ John Marshall
 _**Friendship may, and often does, grow into love, but love never subsides into friendship.**_
 
 Lord Byron
+
+_**Never apologize for showing feeling. When you do so, you apologize for truth.**_
+
+Benjamin Disraeli
