@@ -199,3 +199,7 @@ Lord Byron
 _**Never apologize for showing feeling. When you do so, you apologize for truth.**_
 
 Benjamin Disraeli
+
+_**When you learn, teach. When you get, give.**_
+
+Maya Angelou
