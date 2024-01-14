@@ -211,3 +211,7 @@ Carlos Castaneda
 _**Action is eloquence.**_
 
 William Shakespeare
+
+_**If only wed stop trying to be happy wed have a pretty good time.**_
+
+Edith Wharton
