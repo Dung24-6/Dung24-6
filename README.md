@@ -215,3 +215,7 @@ William Shakespeare
 _**If only wed stop trying to be happy wed have a pretty good time.**_
 
 Edith Wharton
+
+_**By accepting yourself and being fully what you are, your presence can make others happy.**_
+
+Jane Roberts
