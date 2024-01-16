@@ -219,3 +219,7 @@ Edith Wharton
 _**By accepting yourself and being fully what you are, your presence can make others happy.**_
 
 Jane Roberts
+
+_**I think and that is all that I am.**_
+
+Wayne Dyer
