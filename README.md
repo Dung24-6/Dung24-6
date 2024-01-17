@@ -223,3 +223,7 @@ Jane Roberts
 _**I think and that is all that I am.**_
 
 Wayne Dyer
+
+_**You can always count on Americans to do the right thing - after they've tried everything else.**_
+
+Winston Churchill
