@@ -227,3 +227,7 @@ Wayne Dyer
 _**You can always count on Americans to do the right thing - after they've tried everything else.**_
 
 Winston Churchill
+
+_**The superior man blames himself. The inferior man blames others.**_
+
+Don Shula
