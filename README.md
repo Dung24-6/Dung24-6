@@ -231,3 +231,7 @@ Winston Churchill
 _**The superior man blames himself. The inferior man blames others.**_
 
 Don Shula
+
+_**Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.**_
+
+George Washington
