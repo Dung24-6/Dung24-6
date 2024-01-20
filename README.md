@@ -235,3 +235,7 @@ Don Shula
 _**Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.**_
 
 George Washington
+
+_**Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!**_
+
+Charlotte Perkins Gilman
