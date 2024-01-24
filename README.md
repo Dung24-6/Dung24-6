@@ -251,3 +251,7 @@ Ralph Waldo Emerson
 _**They can conquer who believe they can.**_
 
 Virgil
+
+_**We are wiser than we know.**_
+
+Ralph Waldo Emerson
