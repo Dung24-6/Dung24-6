@@ -263,3 +263,7 @@ Chuck Swindoll
 _**The best way to predict your future is to create it.**_
 
 Peter Drucker
+
+_**The way you see people is the way you treat them, and the way you treat them is what they become.**_
+
+Johann Wolfgang von Goethe
