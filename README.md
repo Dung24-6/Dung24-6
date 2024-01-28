@@ -267,3 +267,7 @@ Peter Drucker
 _**The way you see people is the way you treat them, and the way you treat them is what they become.**_
 
 Johann Wolfgang von Goethe
+
+_**Arriving at one point is the starting point to another.**_
+
+John Dewey
