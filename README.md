@@ -271,3 +271,7 @@ Johann Wolfgang von Goethe
 _**Arriving at one point is the starting point to another.**_
 
 John Dewey
+
+_**Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another.**_
+
+Eustace Budgell
