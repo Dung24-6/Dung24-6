@@ -103,3 +103,7 @@ Napoleon
 _**Even an animal, if you show genuine affection, gradually trust develops... If you always showing bad face and beating, how can you develop friendship?**_
 
 Dalai Lama
+
+_**Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along.**_
+
+George Herbert
