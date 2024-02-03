@@ -115,3 +115,7 @@ Jean de La Bruyère
 _**Action may not always bring happiness; but there is no happiness without action.**_
 
 Benjamin Disraeli
+
+_**Imagination will often carry us to worlds that never were. But without it we go nowhere.**_
+
+Carl Sagan
