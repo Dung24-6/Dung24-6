@@ -119,3 +119,7 @@ Benjamin Disraeli
 _**Imagination will often carry us to worlds that never were. But without it we go nowhere.**_
 
 Carl Sagan
+
+_**O, what a tangled web we weave when first we practice to deceive!**_
+
+Walter Scott
