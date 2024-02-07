@@ -131,3 +131,7 @@ Leonardo da Vinci
 _**When your desires are strong enough you will appear to possess superhuman powers to achieve.**_
 
 Napoleon Hill
+
+_**He who is fixed to a star does not change his mind.**_
+
+Leonardo da Vinci
