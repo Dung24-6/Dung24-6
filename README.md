@@ -135,3 +135,7 @@ Napoleon Hill
 _**He who is fixed to a star does not change his mind.**_
 
 Leonardo da Vinci
+
+_**Friendship is a very taxing and arduous form of leisure activity.**_
+
+Mortimer J. Adler
