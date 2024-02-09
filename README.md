@@ -139,3 +139,7 @@ Leonardo da Vinci
 _**Friendship is a very taxing and arduous form of leisure activity.**_
 
 Mortimer J. Adler
+
+_**Men are disturbed not by things, but by the view which they take of them.**_
+
+Epictetus
