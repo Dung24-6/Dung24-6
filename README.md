@@ -143,3 +143,7 @@ Mortimer J. Adler
 _**Men are disturbed not by things, but by the view which they take of them.**_
 
 Epictetus
+
+_**Nothing will work unless you do.**_
+
+Maya Angelou
