@@ -151,3 +151,7 @@ Maya Angelou
 _**There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.**_
 
 Confucius
+
+_**Do not give your attention to what others do or fail to do; give it to what you do or fail to do.**_
+
+Dhammapada
