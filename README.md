@@ -155,3 +155,7 @@ Confucius
 _**Do not give your attention to what others do or fail to do; give it to what you do or fail to do.**_
 
 Dhammapada
+
+_**Friendship... is not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything.**_
+
+Muhammad Ali
