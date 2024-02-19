@@ -163,3 +163,7 @@ Muhammad Ali
 _**Without some goals and some efforts to reach it, no man can live.**_
 
 John Dewey
+
+_**The biggest adventure you can ever take is to live the life of your dreams.**_
+
+Oprah Winfrey
