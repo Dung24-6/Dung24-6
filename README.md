@@ -167,3 +167,7 @@ John Dewey
 _**The biggest adventure you can ever take is to live the life of your dreams.**_
 
 Oprah Winfrey
+
+_**How we spend our days is, of course, how we spend our lives.**_
+
+Annie Dillard
