@@ -171,3 +171,7 @@ Oprah Winfrey
 _**How we spend our days is, of course, how we spend our lives.**_
 
 Annie Dillard
+
+_**Never put off till tomorrow what you can do today.**_
+
+Thomas Jefferson
