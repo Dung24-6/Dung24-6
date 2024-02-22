@@ -175,3 +175,7 @@ Annie Dillard
 _**Never put off till tomorrow what you can do today.**_
 
 Thomas Jefferson
+
+_**It has never been my object to record my dreams, just to realize them.**_
+
+Man Ray
