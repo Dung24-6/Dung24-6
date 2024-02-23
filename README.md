@@ -179,3 +179,7 @@ Thomas Jefferson
 _**It has never been my object to record my dreams, just to realize them.**_
 
 Man Ray
+
+_**Spread love everywhere you go. Let no one ever come to you without leaving happier.**_
+
+Mother Teresa
