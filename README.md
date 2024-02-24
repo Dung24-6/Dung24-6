@@ -183,3 +183,7 @@ Man Ray
 _**Spread love everywhere you go. Let no one ever come to you without leaving happier.**_
 
 Mother Teresa
+
+_**I don't believe in failure. It's not failure if you enjoyed the process.**_
+
+Oprah Winfrey
