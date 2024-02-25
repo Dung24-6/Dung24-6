@@ -187,3 +187,7 @@ Mother Teresa
 _**I don't believe in failure. It's not failure if you enjoyed the process.**_
 
 Oprah Winfrey
+
+_**Wise men make more opportunities than they find.**_
+
+Francis Bacon
