@@ -191,3 +191,7 @@ Oprah Winfrey
 _**Wise men make more opportunities than they find.**_
 
 Francis Bacon
+
+_**Every man is a volume if you know how to read him.**_
+
+William Ellery Channing
