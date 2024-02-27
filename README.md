@@ -195,3 +195,7 @@ Francis Bacon
 _**Every man is a volume if you know how to read him.**_
 
 William Ellery Channing
+
+_**We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.**_
+
+Stephen Covey
