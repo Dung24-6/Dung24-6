@@ -199,3 +199,7 @@ William Ellery Channing
 _**We are not animals. We are not a product of what has happened to us in our past. We have the power of choice.**_
 
 Stephen Covey
+
+_**The time to repair the roof is when the sun is shining.**_
+
+John F. Kennedy
