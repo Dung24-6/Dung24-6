@@ -203,3 +203,7 @@ Stephen Covey
 _**The time to repair the roof is when the sun is shining.**_
 
 John F. Kennedy
+
+_**Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.**_
+
+Jean-Paul Sartre
