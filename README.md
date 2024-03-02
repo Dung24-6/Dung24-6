@@ -211,3 +211,7 @@ Jean-Paul Sartre
 _**Wisdom is the supreme part of happiness.**_
 
 Sophocles
+
+_**Ignorant men raise questions that wise men answered a thousand years ago.**_
+
+Johann Wolfgang von Goethe
