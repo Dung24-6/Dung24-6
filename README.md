@@ -215,3 +215,7 @@ Sophocles
 _**Ignorant men raise questions that wise men answered a thousand years ago.**_
 
 Johann Wolfgang von Goethe
+
+_**You are always free to change your mind and choose a different future, or a different past.**_
+
+Richard Bach
