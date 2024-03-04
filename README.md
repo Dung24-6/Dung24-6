@@ -219,3 +219,7 @@ Johann Wolfgang von Goethe
 _**You are always free to change your mind and choose a different future, or a different past.**_
 
 Richard Bach
+
+_**The bird of paradise alights only upon the hand that does not grasp.**_
+
+John Berry
