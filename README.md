@@ -223,3 +223,7 @@ Richard Bach
 _**The bird of paradise alights only upon the hand that does not grasp.**_
 
 John Berry
+
+_**It's better to be a lion for a day than a sheep all your life.**_
+
+Elizabeth Kenny
