@@ -99,3 +99,7 @@ Eckhart Tolle
 _**Ideas pull the trigger, but instinct loads the gun.**_
 
 Don Marquis
+
+_**Love is blind; friendship closes its eyes.**_
+
+Friedrich Nietzsche
