@@ -107,3 +107,7 @@ Friedrich Nietzsche
 _**We may encounter many defeats, but we must not be defeated.**_
 
 Maya Angelou
+
+_**Wisdom and penetration are the fruit of experience, not the lessons of retirement and leisure. Great necessities call out great virtues.**_
+
+Abigail Adams
