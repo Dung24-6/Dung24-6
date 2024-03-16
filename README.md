@@ -135,3 +135,7 @@ François de La Rochefoucauld
 _**A friend is, as it were, a second self.**_
 
 Cicero
+
+_**Nothing great was ever achieved without enthusiasm.**_
+
+Ralph Waldo Emerson
