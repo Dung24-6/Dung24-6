@@ -147,3 +147,7 @@ Nelson Mandela
 _**True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation.**_
 
 George Washington
+
+_**We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.**_
+
+Ralph Waldo Emerson
