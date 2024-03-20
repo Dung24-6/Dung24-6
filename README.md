@@ -151,3 +151,7 @@ George Washington
 _**We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light.**_
 
 Ralph Waldo Emerson
+
+_**Every artist dips his brush in his own soul, and paints his own nature into his pictures.**_
+
+Henry Ward Beecher
