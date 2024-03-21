@@ -155,3 +155,7 @@ Ralph Waldo Emerson
 _**Every artist dips his brush in his own soul, and paints his own nature into his pictures.**_
 
 Henry Ward Beecher
+
+_**Most folks are as happy as they make up their minds to be.**_
+
+Abraham Lincoln
