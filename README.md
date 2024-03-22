@@ -159,3 +159,7 @@ Henry Ward Beecher
 _**Most folks are as happy as they make up their minds to be.**_
 
 Abraham Lincoln
+
+_**To invent, you need a good imagination and a pile of junk.**_
+
+Thomas Edison
