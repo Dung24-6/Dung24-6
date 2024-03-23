@@ -163,3 +163,7 @@ Abraham Lincoln
 _**To invent, you need a good imagination and a pile of junk.**_
 
 Thomas Edison
+
+_**Everyone thinks of changing the world, but no one thinks of changing himself.**_
+
+Leo Tolstoy
