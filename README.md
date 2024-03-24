@@ -167,3 +167,7 @@ Thomas Edison
 _**Everyone thinks of changing the world, but no one thinks of changing himself.**_
 
 Leo Tolstoy
+
+_**Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.**_
+
+Carl Jung
