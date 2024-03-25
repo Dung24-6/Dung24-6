@@ -171,3 +171,7 @@ Leo Tolstoy
 _**Your vision will become clear only when you can look into your own heart. Who looks outside, dreams, who looks inside, awakes.**_
 
 Carl Jung
+
+_**Never do things others can do and will do, if there are things others cannot do or will not do.**_
+
+Amelia Earhart
