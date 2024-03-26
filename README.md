@@ -175,3 +175,7 @@ Carl Jung
 _**Never do things others can do and will do, if there are things others cannot do or will not do.**_
 
 Amelia Earhart
+
+_**I am a man of fixed and unbending principles, the first of which is to be flexible at all times.**_
+
+Everett Dirksen
