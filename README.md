@@ -183,3 +183,7 @@ Everett Dirksen
 _**If only wed stop trying to be happy wed have a pretty good time.**_
 
 Edith Wharton
+
+_**You can't stop the waves, but you can learn to surf.**_
+
+Jon Kabat-Zinn
