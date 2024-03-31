@@ -195,3 +195,7 @@ Denis Waitley
 _**An invasion of armies can be resisted, but not an idea whose time has come.**_
 
 Victor Hugo
+
+_**Waste no more time arguing about what a good man should be. Be one.**_
+
+Marcus Aurelius
