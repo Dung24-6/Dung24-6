@@ -96,3 +96,7 @@ _**It is not uncommon for people to spend their whole life waiting to start livi
 Eckhart Tolle
 
 
+
+_**As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.**_
+
+The Buddha
