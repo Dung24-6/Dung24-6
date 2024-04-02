@@ -100,3 +100,7 @@ Eckhart Tolle
 _**As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed.**_
 
 The Buddha
+
+_**We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.**_
+
+Arthur Ashe
