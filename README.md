@@ -104,3 +104,7 @@ The Buddha
 _**We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy.**_
 
 Arthur Ashe
+
+_**Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.**_
+
+Oscar Wilde
