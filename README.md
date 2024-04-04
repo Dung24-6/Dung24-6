@@ -108,3 +108,7 @@ Arthur Ashe
 _**Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.**_
 
 Oscar Wilde
+
+_**I am of the opinion that my life belongs to the community, and as long as I live it is my privilege to do for it whatever I can.**_
+
+Bernard Shaw
