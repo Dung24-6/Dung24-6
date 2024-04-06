@@ -116,3 +116,7 @@ Bernard Shaw
 _**In the middle of every difficulty lies opportunity.**_
 
 Albert Einstein
+
+_**Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.**_
+
+Lou Holtz
