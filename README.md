@@ -120,3 +120,7 @@ Albert Einstein
 _**Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it.**_
 
 Lou Holtz
+
+_**The important thing is this: to be able at any moment to sacrifice what we are for what we could become.**_
+
+Charles Du Bos
