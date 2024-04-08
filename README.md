@@ -124,3 +124,7 @@ Lou Holtz
 _**The important thing is this: to be able at any moment to sacrifice what we are for what we could become.**_
 
 Charles Du Bos
+
+_**Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.**_
+
+Laozi
