@@ -128,3 +128,7 @@ Charles Du Bos
 _**Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.**_
 
 Laozi
+
+_**Communications tools don't get socially interesting until they get technologically boring.**_
+
+Clay Shirky
