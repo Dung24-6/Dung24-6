@@ -132,3 +132,7 @@ Laozi
 _**Communications tools don't get socially interesting until they get technologically boring.**_
 
 Clay Shirky
+
+_**A thing long expected takes the form of the unexpected when at last it comes.**_
+
+Mark Twain
