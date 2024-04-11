@@ -136,3 +136,7 @@ Clay Shirky
 _**A thing long expected takes the form of the unexpected when at last it comes.**_
 
 Mark Twain
+
+_**Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.**_
+
+Washington Irving
