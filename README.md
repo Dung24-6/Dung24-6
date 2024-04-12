@@ -140,3 +140,7 @@ Mark Twain
 _**Sweet is the memory of distant friends! Like the mellow rays of the departing sun, it falls tenderly, yet sadly, on the heart.**_
 
 Washington Irving
+
+_**The invariable mark of wisdom is to see the miraculous in the common.**_
+
+Ralph Waldo Emerson
