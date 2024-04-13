@@ -144,3 +144,7 @@ Washington Irving
 _**The invariable mark of wisdom is to see the miraculous in the common.**_
 
 Ralph Waldo Emerson
+
+_**Just because something doesn't do what you planned it to do doesn't mean it's useless.**_
+
+Thomas Edison
