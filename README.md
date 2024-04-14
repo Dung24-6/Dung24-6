@@ -148,3 +148,7 @@ Ralph Waldo Emerson
 _**Just because something doesn't do what you planned it to do doesn't mean it's useless.**_
 
 Thomas Edison
+
+_**Where all think alike, no one thinks very much.**_
+
+Walter Lippmann
