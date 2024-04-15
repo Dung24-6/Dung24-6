@@ -152,3 +152,7 @@ Thomas Edison
 _**Where all think alike, no one thinks very much.**_
 
 Walter Lippmann
+
+_**Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.**_
+
+Billie Jean King
