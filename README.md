@@ -156,3 +156,7 @@ Walter Lippmann
 _**Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity.**_
 
 Billie Jean King
+
+_**The man of knowledge must be able not only to love his enemies but also to hate his friends.**_
+
+Friedrich Nietzsche
