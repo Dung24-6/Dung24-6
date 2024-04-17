@@ -160,3 +160,7 @@ Billie Jean King
 _**The man of knowledge must be able not only to love his enemies but also to hate his friends.**_
 
 Friedrich Nietzsche
+
+_**When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.**_
+
+Abraham Lincoln
