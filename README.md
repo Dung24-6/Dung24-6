@@ -168,3 +168,7 @@ Abraham Lincoln
 _**A thing well said will be wit in all languages.**_
 
 John Dryden
+
+_**True happiness means forging a strong spirit that is undefeated, no matter how trying our circumstances.**_
+
+Daisaku Ikeda
