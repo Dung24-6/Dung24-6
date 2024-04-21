@@ -176,3 +176,7 @@ Daisaku Ikeda
 _**Life is really simple, but we insist on making it complicated.**_
 
 Confucius
+
+_**In wartime, truth is so precious that she should always be attended by a bodyguard of lies.**_
+
+Winston Churchill
