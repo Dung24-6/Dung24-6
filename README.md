@@ -188,3 +188,7 @@ Confucius
 _**Do not wait for leaders; do it alone, person to person.**_
 
 Mother Teresa
+
+_**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
+
+Robert Graves
