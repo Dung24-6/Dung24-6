@@ -192,3 +192,7 @@ Mother Teresa
 _**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
 
 Robert Graves
+
+_**Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.**_
+
+Benjamin Franklin
