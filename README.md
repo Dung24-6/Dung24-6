@@ -196,3 +196,7 @@ Robert Graves
 _**Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.**_
 
 Benjamin Franklin
+
+_**Our shared values define us more than our differences. And acknowledging those shared values can see us through our challenges today if we have the wisdom to trust in them again.**_
+
+John McCain
