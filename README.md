@@ -204,3 +204,7 @@ John McCain
 _**The greatest mistake you can make in life is to be continually fearing you will make one.**_
 
 Elbert Hubbard
+
+_**Every gift from a friend is a wish for your happiness.**_
+
+Richard Bach
