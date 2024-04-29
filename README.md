@@ -208,3 +208,7 @@ Elbert Hubbard
 _**Every gift from a friend is a wish for your happiness.**_
 
 Richard Bach
+
+_**It is fatal to enter any war without the will to win it.**_
+
+Douglas MacArthur
