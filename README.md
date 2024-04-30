@@ -212,3 +212,7 @@ Richard Bach
 _**It is fatal to enter any war without the will to win it.**_
 
 Douglas MacArthur
+
+_**If the stars should appear but one night every thousand years how man would marvel and adore.**_
+
+Ralph Waldo Emerson
