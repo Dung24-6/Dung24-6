@@ -216,3 +216,7 @@ Douglas MacArthur
 _**If the stars should appear but one night every thousand years how man would marvel and adore.**_
 
 Ralph Waldo Emerson
+
+_**You need chaos in your soul to give birth to a dancing star.**_
+
+Friedrich Nietzsche
