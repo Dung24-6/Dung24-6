@@ -224,3 +224,7 @@ Friedrich Nietzsche
 _**Strong people make as many mistakes as weak people. Difference is that strong people admit their mistakes, laugh at them, learn from them. That is how they become strong.**_
 
 Richard Needham
+
+_**I decided that it was not wisdom that enabled poets to write their poetry, but a kind of instinct or inspiration, such as you find in seers and prophets who deliver all their sublime messages without knowing in the least what they mean.**_
+
+Isocrates
