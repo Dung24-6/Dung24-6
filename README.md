@@ -100,3 +100,7 @@ Eckhart Tolle
 _**Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.**_
 
 H. Jackson Brown Jr.
+
+_**You can stand tall without standing on someone. You can be a victor without having victims.**_
+
+Harriet Woods
