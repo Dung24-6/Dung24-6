@@ -104,3 +104,7 @@ H. Jackson Brown Jr.
 _**You can stand tall without standing on someone. You can be a victor without having victims.**_
 
 Harriet Woods
+
+_**A good decision is based on knowledge and not on numbers.**_
+
+Plato
