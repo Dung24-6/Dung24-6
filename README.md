@@ -108,3 +108,7 @@ Harriet Woods
 _**A good decision is based on knowledge and not on numbers.**_
 
 Plato
+
+_**To hell with circumstances, I create opportunities.**_
+
+Bruce Lee
