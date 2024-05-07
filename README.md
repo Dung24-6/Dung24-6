@@ -112,3 +112,7 @@ Plato
 _**To hell with circumstances, I create opportunities.**_
 
 Bruce Lee
+
+_**If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.**_
+
+Dalai Lama
