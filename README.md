@@ -116,3 +116,7 @@ Bruce Lee
 _**If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.**_
 
 Dalai Lama
+
+_**Love does not consist of gazing at each other, but in looking together in the same direction.**_
+
+Antoine de Saint-Exupéry
