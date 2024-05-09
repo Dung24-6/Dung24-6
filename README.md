@@ -120,3 +120,7 @@ Dalai Lama
 _**Love does not consist of gazing at each other, but in looking together in the same direction.**_
 
 Antoine de Saint-Exupéry
+
+_**You just can't beat the person who never gives up.**_
+
+Babe Ruth
