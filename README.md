@@ -124,3 +124,7 @@ Antoine de Saint-Exupéry
 _**You just can't beat the person who never gives up.**_
 
 Babe Ruth
+
+_**It's easy to make a buck. It's a lot tougher to make a difference.**_
+
+Tom Brokaw
