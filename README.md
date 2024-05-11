@@ -128,3 +128,7 @@ Babe Ruth
 _**It's easy to make a buck. It's a lot tougher to make a difference.**_
 
 Tom Brokaw
+
+_**What happens is not as important as how you react to what happens.**_
+
+Ellen Glasgow
