@@ -132,3 +132,7 @@ Tom Brokaw
 _**What happens is not as important as how you react to what happens.**_
 
 Ellen Glasgow
+
+_**The man of knowledge must be able not only to love his enemies but also to hate his friends.**_
+
+Friedrich Nietzsche
