@@ -136,3 +136,7 @@ Ellen Glasgow
 _**The man of knowledge must be able not only to love his enemies but also to hate his friends.**_
 
 Friedrich Nietzsche
+
+_**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
+
+Robert Graves
