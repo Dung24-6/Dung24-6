@@ -152,3 +152,7 @@ Franklin D. Roosevelt
 _**Don't compromise yourself. You are all you've got.**_
 
 Janis Joplin
+
+_**A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.**_
+
+Denis Waitley
