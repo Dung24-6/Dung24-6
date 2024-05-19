@@ -160,3 +160,7 @@ Denis Waitley
 _**Be content with your lot; one cannot be first in everything.**_
 
 Aesop
+
+_**Creativity comes from trust. Trust your instincts. And never hope more than you work.**_
+
+Rita Mae Brown
