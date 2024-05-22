@@ -172,3 +172,7 @@ Alice Walker
 _**The happiness that is genuinely satisfying is accompanied by the fullest exercise of our faculties and the fullest realization of the world in which we live.**_
 
 Bertrand Russell
+
+_**Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.**_
+
+Kahlil Gibran
