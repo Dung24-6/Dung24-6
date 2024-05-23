@@ -176,3 +176,7 @@ Bertrand Russell
 _**Wisdom ceases to be wisdom when it becomes too proud to weep, too grave to laugh, and too selfish to seek other than itself.**_
 
 Kahlil Gibran
+
+_**The only limit to our realization of tomorrow will be our doubts of today.**_
+
+Franklin D. Roosevelt
