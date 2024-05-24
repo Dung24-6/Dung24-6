@@ -180,3 +180,7 @@ Kahlil Gibran
 _**The only limit to our realization of tomorrow will be our doubts of today.**_
 
 Franklin D. Roosevelt
+
+_**Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.**_
+
+Benjamin Franklin
