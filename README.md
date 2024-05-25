@@ -184,3 +184,7 @@ Franklin D. Roosevelt
 _**Without freedom of thought, there can be no such thing as wisdom - and no such thing as public liberty without freedom of speech.**_
 
 Benjamin Franklin
+
+_**Experience is not what happens to a man. It is what a man does with what happens to him.**_
+
+Aldous Huxley
