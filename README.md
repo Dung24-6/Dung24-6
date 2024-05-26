@@ -188,3 +188,7 @@ Benjamin Franklin
 _**Experience is not what happens to a man. It is what a man does with what happens to him.**_
 
 Aldous Huxley
+
+_**Everything you are against weakens you. Everything you are for empowers you.**_
+
+Wayne Dyer
