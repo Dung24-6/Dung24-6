@@ -192,3 +192,7 @@ Aldous Huxley
 _**Everything you are against weakens you. Everything you are for empowers you.**_
 
 Wayne Dyer
+
+_**Think like a man of action; act like a man of thought.**_
+
+Henri Bergson
