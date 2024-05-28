@@ -196,3 +196,7 @@ Wayne Dyer
 _**Think like a man of action; act like a man of thought.**_
 
 Henri Bergson
+
+_**Where is the Life we have lost in living? Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?**_
+
+George Eliot
