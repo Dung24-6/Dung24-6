@@ -204,3 +204,7 @@ George Eliot
 _**Everything you are against weakens you. Everything you are for empowers you.**_
 
 Wayne Dyer
+
+_**Life is a learning experience, only if you learn.**_
+
+Yogi Berra
