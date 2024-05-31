@@ -208,3 +208,7 @@ Wayne Dyer
 _**Life is a learning experience, only if you learn.**_
 
 Yogi Berra
+
+_**But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.**_
+
+Alan Watts
