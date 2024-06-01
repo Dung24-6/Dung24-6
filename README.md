@@ -212,3 +212,7 @@ Yogi Berra
 _**But I'll tell you what hermits realize. If you go off into a far, far forest and get very quiet, you'll come to understand that you're connected with everything.**_
 
 Alan Watts
+
+_**When we seek to discover the best in others, we somehow bring out the best in ourselves.**_
+
+William Arthur Ward
