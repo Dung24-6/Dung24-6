@@ -216,3 +216,7 @@ Alan Watts
 _**When we seek to discover the best in others, we somehow bring out the best in ourselves.**_
 
 William Arthur Ward
+
+_**A wise person should be urgently moved on occasions that make for urgency.**_
+
+The Buddha
