@@ -220,3 +220,7 @@ William Arthur Ward
 _**A wise person should be urgently moved on occasions that make for urgency.**_
 
 The Buddha
+
+_**It is not so important to know everything as to appreciate what we learn.**_
+
+Hannah More
