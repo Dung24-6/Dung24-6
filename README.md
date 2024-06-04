@@ -224,3 +224,7 @@ The Buddha
 _**It is not so important to know everything as to appreciate what we learn.**_
 
 Hannah More
+
+_**Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.**_
+
+Henry Wadsworth Longfellow
