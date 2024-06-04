@@ -96,3 +96,7 @@ _**It is not uncommon for people to spend their whole life waiting to start livi
 Eckhart Tolle
 
 
+
+_**You always succeed in producing a result.**_
+
+Tony Robbins
