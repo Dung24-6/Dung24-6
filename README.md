@@ -100,3 +100,7 @@ Eckhart Tolle
 _**You always succeed in producing a result.**_
 
 Tony Robbins
+
+_**I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.**_
+
+Herbert Bayard Swope
