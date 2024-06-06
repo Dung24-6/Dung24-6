@@ -104,3 +104,7 @@ Tony Robbins
 _**I cannot give you the formula for success, but I can give you the formula for failure: which is: Try to please everybody.**_
 
 Herbert Bayard Swope
+
+_**Although there may be tragedy in your life, there's always a possibility to triumph. It doesn't matter who you are, where you come from. The ability to triumph begins with you. Always.**_
+
+Oprah Winfrey
