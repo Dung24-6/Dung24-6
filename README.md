@@ -112,3 +112,7 @@ Oprah Winfrey
 _**If it is not right do not do it; if it is not true do not say it.**_
 
 Marcus Aurelius
+
+_**Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more**_
+
+Tony Robbins
