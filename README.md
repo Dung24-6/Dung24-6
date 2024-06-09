@@ -116,3 +116,7 @@ Marcus Aurelius
 _**Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more**_
 
 Tony Robbins
+
+_**Love and compassion open our own inner life, reducing stress, distrust and loneliness.**_
+
+Dalai Lama
