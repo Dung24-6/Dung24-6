@@ -120,3 +120,7 @@ Tony Robbins
 _**Love and compassion open our own inner life, reducing stress, distrust and loneliness.**_
 
 Dalai Lama
+
+_**Be your own hero, it's cheaper than a movie ticket.**_
+
+Doug Horton
