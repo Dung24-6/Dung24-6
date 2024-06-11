@@ -124,3 +124,7 @@ Dalai Lama
 _**Be your own hero, it's cheaper than a movie ticket.**_
 
 Doug Horton
+
+_**Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.**_
+
+Ralph Waldo Emerson
