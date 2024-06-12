@@ -128,3 +128,7 @@ Doug Horton
 _**Do not be too timid and squeamish about your reactions. All life is an experiment. The more experiments you make the better.**_
 
 Ralph Waldo Emerson
+
+_**When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.**_
+
+Abraham Lincoln
