@@ -132,3 +132,7 @@ Ralph Waldo Emerson
 _**When you have got an elephant by the hind legs and he is trying to run away, it's best to let him run.**_
 
 Abraham Lincoln
+
+_**The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.**_
+
+Charles Lamb
