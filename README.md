@@ -136,3 +136,7 @@ Abraham Lincoln
 _**The greatest pleasure I know is to do a good action by stealth, and to have it found out by accident.**_
 
 Charles Lamb
+
+_**The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.**_
+
+Peter Abelard
