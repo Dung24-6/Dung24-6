@@ -144,3 +144,7 @@ Peter Abelard
 _**If your actions inspire others to dream more, learn more, do more and become more, you are a leader.**_
 
 John Quincy Adams
+
+_**Both formerly and now, it is only suffering that I describe, and the cessation of suffering.**_
+
+The Buddha
