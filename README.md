@@ -148,3 +148,7 @@ John Quincy Adams
 _**Both formerly and now, it is only suffering that I describe, and the cessation of suffering.**_
 
 The Buddha
+
+_**You cannot have what you do not want.**_
+
+John Acosta
