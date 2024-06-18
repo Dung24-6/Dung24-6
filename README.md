@@ -152,3 +152,7 @@ The Buddha
 _**You cannot have what you do not want.**_
 
 John Acosta
+
+_**Self-trust is the first secret of success.**_
+
+Ralph Waldo Emerson
