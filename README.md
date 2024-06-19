@@ -156,3 +156,7 @@ John Acosta
 _**Self-trust is the first secret of success.**_
 
 Ralph Waldo Emerson
+
+_**I want you to be everything that's you, deep at the center of your being.**_
+
+Confucius
