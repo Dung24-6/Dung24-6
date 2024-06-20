@@ -160,3 +160,7 @@ Ralph Waldo Emerson
 _**I want you to be everything that's you, deep at the center of your being.**_
 
 Confucius
+
+_**Decision is a risk rooted in the courage of being free.**_
+
+Paul Tillich
