@@ -164,3 +164,7 @@ Confucius
 _**Decision is a risk rooted in the courage of being free.**_
 
 Paul Tillich
+
+_**Aerodynamically the bumblebee shouldn't be able to fly, but the bumblebee doesn't know that, so it goes on flying anyway.**_
+
+Mary Kay Ash
