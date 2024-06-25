@@ -180,3 +180,7 @@ Bill Watterson
 _**He that respects himself is safe from others; he wears a coat of mail that none can pierce.**_
 
 Henry Wadsworth Longfellow
+
+_**In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.**_
+
+François de La Rochefoucauld
