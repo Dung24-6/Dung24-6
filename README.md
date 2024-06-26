@@ -184,3 +184,7 @@ Henry Wadsworth Longfellow
 _**In friendship as well as love, ignorance very often contributes more to our happiness than knowledge.**_
 
 François de La Rochefoucauld
+
+_**Goals are the fuel in the furnace of achievement.**_
+
+Brian Tracy
