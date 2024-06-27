@@ -188,3 +188,7 @@ François de La Rochefoucauld
 _**Goals are the fuel in the furnace of achievement.**_
 
 Brian Tracy
+
+_**Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.**_
+
+Horace
