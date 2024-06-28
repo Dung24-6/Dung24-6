@@ -192,3 +192,7 @@ Brian Tracy
 _**Adversity has the effect of eliciting talents, which in prosperous circumstances would have lain dormant.**_
 
 Horace
+
+_**Age does not protect you from love. But love, to some extent, protects you from age.**_
+
+Anaïs Nin
