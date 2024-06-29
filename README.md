@@ -196,3 +196,7 @@ Horace
 _**Age does not protect you from love. But love, to some extent, protects you from age.**_
 
 Anaïs Nin
+
+_**All that I am, or hope to be, I owe to my angel mother.**_
+
+Abraham Lincoln
