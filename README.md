@@ -204,3 +204,7 @@ Abraham Lincoln
 _**By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.**_
 
 Laozi
+
+_**I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.**_
+
+Marilyn Monroe
