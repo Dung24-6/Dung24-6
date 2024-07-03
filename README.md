@@ -212,3 +212,7 @@ Marilyn Monroe
 _**Friendship, like the immortality of the soul, is too good to be believed.**_
 
 Ralph Waldo Emerson
+
+_**To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.**_
+
+Kahlil Gibran
