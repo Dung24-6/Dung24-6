@@ -216,3 +216,7 @@ Ralph Waldo Emerson
 _**To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do.**_
 
 Kahlil Gibran
+
+_**The more sand that has escaped from the hourglass of our life, the clearer we should see through it.**_
+
+Jean-Paul Sartre
