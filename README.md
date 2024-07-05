@@ -220,3 +220,7 @@ Kahlil Gibran
 _**The more sand that has escaped from the hourglass of our life, the clearer we should see through it.**_
 
 Jean-Paul Sartre
+
+_**Never idealize others. They will never live up to your expectations.**_
+
+Leo Buscaglia
