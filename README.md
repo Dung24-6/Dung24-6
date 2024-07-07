@@ -228,3 +228,7 @@ Leo Buscaglia
 _**If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow.**_
 
 Rachel Carson
+
+_**Freedom is not worth having if it does not connote freedom to err.**_
+
+Mahatma Gandhi
