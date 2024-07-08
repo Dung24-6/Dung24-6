@@ -232,3 +232,7 @@ Rachel Carson
 _**Freedom is not worth having if it does not connote freedom to err.**_
 
 Mahatma Gandhi
+
+_**A prudent question is one half of wisdom.**_
+
+Francis Bacon
