@@ -240,3 +240,7 @@ Francis Bacon
 _**The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery.**_
 
 Anaïs Nin
+
+_**All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.**_
+
+Rudolf Arnheim
