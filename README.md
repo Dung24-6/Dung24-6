@@ -244,3 +244,7 @@ Anaïs Nin
 _**All perceiving is also thinking, all reasoning is also intuition, all observation is also invention.**_
 
 Rudolf Arnheim
+
+_**Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.**_
+
+Margaret Mead
