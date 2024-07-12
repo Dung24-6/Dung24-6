@@ -248,3 +248,7 @@ Rudolf Arnheim
 _**Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.**_
 
 Margaret Mead
+
+_**A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.**_
+
+Denis Waitley
