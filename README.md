@@ -260,3 +260,7 @@ Mike Ditka
 _**I'd rather regret the things that I have done than the things that I have not done.**_
 
 Lucille Ball
+
+_**Go for it now. The future is promised to no one.**_
+
+Wayne Dyer
