@@ -264,3 +264,7 @@ Lucille Ball
 _**Go for it now. The future is promised to no one.**_
 
 Wayne Dyer
+
+_**Wise men make more opportunities than they find.**_
+
+Francis Bacon
