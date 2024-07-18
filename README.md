@@ -272,3 +272,7 @@ Francis Bacon
 _**We may encounter many defeats, but we must not be defeated.**_
 
 Maya Angelou
+
+_**The pain passes, but the beauty remains.**_
+
+Pierre-Auguste Renoir
