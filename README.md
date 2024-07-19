@@ -276,3 +276,7 @@ Maya Angelou
 _**The pain passes, but the beauty remains.**_
 
 Pierre-Auguste Renoir
+
+_**To dare is to lose ones footing momentarily. To not dare is to lose oneself.**_
+
+Søren Kierkegaard
