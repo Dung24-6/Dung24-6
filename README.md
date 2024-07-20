@@ -280,3 +280,7 @@ Pierre-Auguste Renoir
 _**To dare is to lose ones footing momentarily. To not dare is to lose oneself.**_
 
 Søren Kierkegaard
+
+_**Finding good players is easy. Getting them to play as a team is another story.**_
+
+Casey Stengel
