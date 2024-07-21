@@ -284,3 +284,7 @@ Søren Kierkegaard
 _**Finding good players is easy. Getting them to play as a team is another story.**_
 
 Casey Stengel
+
+_**Make it your habit not to be critical about small things.**_
+
+Edward Everett Hale
