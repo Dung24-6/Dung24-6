@@ -296,3 +296,7 @@ Ralph Waldo Emerson
 _**Without some goals and some efforts to reach it, no man can live.**_
 
 John Dewey
+
+_**I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want.**_
+
+Muhammad Ali
