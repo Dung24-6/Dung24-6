@@ -304,3 +304,7 @@ Muhammad Ali
 _**Sadness flies away on the wings of time.**_
 
 Jean de La Fontaine
+
+_**The sincere friends of this world are as ship lights in the stormiest of nights.**_
+
+Giotto
