@@ -312,3 +312,7 @@ Giotto
 _**There is nothing in a caterpillar that tells you it's going to be a butterfly.**_
 
 Buckminster Fuller
+
+_**Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.**_
+
+Francis of Assisi
