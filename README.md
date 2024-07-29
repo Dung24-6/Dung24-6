@@ -316,3 +316,7 @@ Buckminster Fuller
 _**Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.**_
 
 Francis of Assisi
+
+_**He who lives in harmony with himself lives in harmony with the world.**_
+
+Marcus Aurelius
