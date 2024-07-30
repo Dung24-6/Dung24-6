@@ -320,3 +320,7 @@ Francis of Assisi
 _**He who lives in harmony with himself lives in harmony with the world.**_
 
 Marcus Aurelius
+
+_**The person born with a talent they are meant to use will find their greatest happiness in using it.**_
+
+Johann Wolfgang von Goethe
