@@ -96,3 +96,7 @@ _**It is not uncommon for people to spend their whole life waiting to start livi
 Eckhart Tolle
 
 
+
+_**How wonderful that we have met with a paradox. Now we have some hope of making progress.**_
+
+Niels Bohr
