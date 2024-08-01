@@ -100,3 +100,7 @@ Eckhart Tolle
 _**How wonderful that we have met with a paradox. Now we have some hope of making progress.**_
 
 Niels Bohr
+
+_**The art of progress is to preserve order amid change, and to preserve change amid order.**_
+
+Alfred North Whitehead
