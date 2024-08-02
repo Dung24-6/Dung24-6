@@ -104,3 +104,7 @@ Niels Bohr
 _**The art of progress is to preserve order amid change, and to preserve change amid order.**_
 
 Alfred North Whitehead
+
+_**Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.**_
+
+Franklin D. Roosevelt
