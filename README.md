@@ -108,3 +108,7 @@ Alfred North Whitehead
 _**Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort.**_
 
 Franklin D. Roosevelt
+
+_**Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom.**_
+
+Rumi
