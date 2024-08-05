@@ -116,3 +116,7 @@ Rumi
 _**There is no failure except in no longer trying.**_
 
 Elbert Hubbard
+
+_**Life shrinks or expands in proportion to one's courage.**_
+
+Anaïs Nin
