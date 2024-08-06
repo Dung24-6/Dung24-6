@@ -120,3 +120,7 @@ Elbert Hubbard
 _**Life shrinks or expands in proportion to one's courage.**_
 
 Anaïs Nin
+
+_**It is impossible to love and to be wise.**_
+
+Francis Bacon
