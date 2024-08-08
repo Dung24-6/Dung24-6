@@ -128,3 +128,7 @@ Francis Bacon
 _**Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.**_
 
 Anaïs Nin
+
+_**People grow through experience if they meet life honestly and courageously. This is how character is built.**_
+
+Eleanor Roosevelt
