@@ -132,3 +132,7 @@ Anaïs Nin
 _**People grow through experience if they meet life honestly and courageously. This is how character is built.**_
 
 Eleanor Roosevelt
+
+_**At the center of your being, you have the answer; you know who you are, and you know what you want.**_
+
+Laozi
