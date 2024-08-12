@@ -144,3 +144,7 @@ Mariella Frostrup
 _**Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!'**_
 
 Bill Bradley
+
+_**The awareness of our own strength makes us modest.**_
+
+Paul Cézanne
