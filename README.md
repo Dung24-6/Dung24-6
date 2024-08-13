@@ -148,3 +148,7 @@ Bill Bradley
 _**The awareness of our own strength makes us modest.**_
 
 Paul Cézanne
+
+_**Habit, if not resisted, soon becomes necessity.**_
+
+Augustine of Hippo
