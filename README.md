@@ -152,3 +152,7 @@ Paul Cézanne
 _**Habit, if not resisted, soon becomes necessity.**_
 
 Augustine of Hippo
+
+_**Eternal nothingness is fine if you happen to be dressed for it.**_
+
+Woody Allen
