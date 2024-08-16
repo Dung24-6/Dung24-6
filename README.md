@@ -160,3 +160,7 @@ Woody Allen
 _**Friendship is Love without his wings!**_
 
 Lord Byron
+
+_**You can always count on Americans to do the right thing - after they've tried everything else.**_
+
+Winston Churchill
