@@ -164,3 +164,7 @@ Lord Byron
 _**You can always count on Americans to do the right thing - after they've tried everything else.**_
 
 Winston Churchill
+
+_**If you do not change direction, you may end up where you are heading.**_
+
+Laozi
