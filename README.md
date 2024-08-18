@@ -168,3 +168,7 @@ Winston Churchill
 _**If you do not change direction, you may end up where you are heading.**_
 
 Laozi
+
+_**Start where you are. Use what you have. Do what you can.**_
+
+Arthur Ashe
