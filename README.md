@@ -172,3 +172,7 @@ Laozi
 _**Start where you are. Use what you have. Do what you can.**_
 
 Arthur Ashe
+
+_**The lure of the distant and the difficult is deceptive. The great opportunity is where you are.**_
+
+John Burroughs
