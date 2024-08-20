@@ -176,3 +176,7 @@ Arthur Ashe
 _**The lure of the distant and the difficult is deceptive. The great opportunity is where you are.**_
 
 John Burroughs
+
+_**Meaning is not what you start with but what you end up with.**_
+
+Peter Elbow
