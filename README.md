@@ -188,3 +188,7 @@ Audre Lorde
 _**Every problem has a gift for you in its hands.**_
 
 Richard Bach
+
+_**We must become the change we want to see.**_
+
+Mahatma Gandhi
