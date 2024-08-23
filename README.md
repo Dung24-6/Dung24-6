@@ -96,3 +96,7 @@ _**It is not uncommon for people to spend their whole life waiting to start livi
 Eckhart Tolle
 
 
+
+_**All action results from thought, so it is thoughts that matter.**_
+
+Sai Baba
