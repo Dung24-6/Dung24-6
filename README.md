@@ -100,3 +100,7 @@ Eckhart Tolle
 _**All action results from thought, so it is thoughts that matter.**_
 
 Sai Baba
+
+_**Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.**_
+
+Howard H. Aiken
