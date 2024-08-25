@@ -104,3 +104,7 @@ Sai Baba
 _**Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.**_
 
 Howard H. Aiken
+
+_**Formula for success: under promise and over deliver.**_
+
+Tom Peters
