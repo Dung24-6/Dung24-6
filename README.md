@@ -116,3 +116,7 @@ Thomas Edison
 _**It is fatal to enter any war without the will to win it.**_
 
 Douglas MacArthur
+
+_**Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!**_
+
+Charlotte Perkins Gilman
