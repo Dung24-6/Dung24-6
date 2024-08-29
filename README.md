@@ -120,3 +120,7 @@ Douglas MacArthur
 _**Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!**_
 
 Charlotte Perkins Gilman
+
+_**The best way to pay for a lovely moment is to enjoy it.**_
+
+Richard Bach
