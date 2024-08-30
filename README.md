@@ -124,3 +124,7 @@ Charlotte Perkins Gilman
 _**The best way to pay for a lovely moment is to enjoy it.**_
 
 Richard Bach
+
+_**What lies behind us and what lies before us are tiny matters compared to what lies within us.**_
+
+Ralph Waldo Emerson
