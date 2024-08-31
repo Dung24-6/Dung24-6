@@ -128,3 +128,7 @@ Richard Bach
 _**What lies behind us and what lies before us are tiny matters compared to what lies within us.**_
 
 Ralph Waldo Emerson
+
+_**The most successful people are those who are good at plan B.**_
+
+James A. Yorke
