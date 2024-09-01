@@ -132,3 +132,7 @@ Ralph Waldo Emerson
 _**The most successful people are those who are good at plan B.**_
 
 James A. Yorke
+
+_**All action results from thought, so it is thoughts that matter.**_
+
+Sai Baba
