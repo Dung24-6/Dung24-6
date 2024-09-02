@@ -136,3 +136,7 @@ James A. Yorke
 _**All action results from thought, so it is thoughts that matter.**_
 
 Sai Baba
+
+_**The sum of wisdom is that time is never lost that is devoted to work.**_
+
+Ralph Waldo Emerson
