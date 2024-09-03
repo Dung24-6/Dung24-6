@@ -140,3 +140,7 @@ Sai Baba
 _**The sum of wisdom is that time is never lost that is devoted to work.**_
 
 Ralph Waldo Emerson
+
+_**The two most powerful warriors are patience and time.**_
+
+Leo Tolstoy
