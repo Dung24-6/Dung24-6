@@ -144,3 +144,7 @@ Ralph Waldo Emerson
 _**The two most powerful warriors are patience and time.**_
 
 Leo Tolstoy
+
+_**Peace cannot be kept by force. It can only be achieved by understanding.**_
+
+Albert Einstein
