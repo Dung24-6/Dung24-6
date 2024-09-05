@@ -148,3 +148,7 @@ Leo Tolstoy
 _**Peace cannot be kept by force. It can only be achieved by understanding.**_
 
 Albert Einstein
+
+_**He who lives in harmony with himself lives in harmony with the universe.**_
+
+Marcus Aurelius
