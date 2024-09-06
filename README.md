@@ -152,3 +152,7 @@ Albert Einstein
 _**He who lives in harmony with himself lives in harmony with the universe.**_
 
 Marcus Aurelius
+
+_**I believe that every person is born with talent.**_
+
+Maya Angelou
