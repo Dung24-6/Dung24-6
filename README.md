@@ -156,3 +156,7 @@ Marcus Aurelius
 _**I believe that every person is born with talent.**_
 
 Maya Angelou
+
+_**Applause is a receipt, not a bill.**_
+
+Dale Carnegie
