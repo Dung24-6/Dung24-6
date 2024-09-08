@@ -160,3 +160,7 @@ Maya Angelou
 _**Applause is a receipt, not a bill.**_
 
 Dale Carnegie
+
+_**I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.**_
+
+Amy Tan
