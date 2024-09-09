@@ -164,3 +164,7 @@ Dale Carnegie
 _**I am like a falling star who has finally found her place next to another in a lovely constellation, where we will sparkle in the heavens forever.**_
 
 Amy Tan
+
+_**When you are content to be simply yourself and don't compare or compete, everybody will respect you.**_
+
+Laozi
