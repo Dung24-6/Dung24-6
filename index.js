@@ -3,7 +3,11 @@ const fs = require("fs");
 
 const getQuote = async () => {
   try {
-    const { data } = await axios.get("https://api.quotable.io/quotes/random");
+     const { data } = await axios.get("https://api.quotable.io/quotes/random", {
+      httpsAgent: new (require('https').Agent)({  
+        rejectUnauthorized: false
+      })
+    });
     let quote = "Do what you Love, Love what you do";
     let author = "Roy T. Bennett";
     if (data) {
