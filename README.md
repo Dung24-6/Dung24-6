@@ -45,6 +45,15 @@ Welcome to my Profile. I am Ha Van Quoc Dung , Now I am learning web programming
     <td align="center" width="96">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65"/>
     <br>MySQL
+    <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+    <br>Docker
+    <td align="center" width="96">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+    <br>React
+    <td align="center" width="96">
+    <img src="https://www.freecodecamp.org/news/content/images/2021/10/golang.png" alt="icon" width="65" height="65" />
+    <br>Go
   </tr>
   <tr>
     <td align="center" width="96"> 
