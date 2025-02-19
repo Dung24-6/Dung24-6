@@ -105,3 +105,7 @@ _**It is not uncommon for people to spend their whole life waiting to start livi
 Eckhart Tolle
 
 
+
+_**As you think, so shall you become.**_
+
+Bruce Lee
