@@ -113,3 +113,7 @@ Bruce Lee
 _**You may say I'm a dreamer, but I'm not the only one, I hope someday you will join us, and the world will live as one.**_
 
 John Lennon
+
+_**The greatest way to live with honor in this world is to be what we pretend to be.**_
+
+Socrates
