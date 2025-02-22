@@ -117,3 +117,7 @@ John Lennon
 _**The greatest way to live with honor in this world is to be what we pretend to be.**_
 
 Socrates
+
+_**The deepest craving of human nature is the need to be appreciated.**_
+
+William James
