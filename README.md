@@ -129,3 +129,7 @@ Confucius
 _**Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.**_
 
 William Saroyan
+
+_**I have an everyday religion that works for me. Love yourself first, and everything else falls into line.**_
+
+Lucille Ball
