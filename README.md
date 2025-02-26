@@ -133,3 +133,7 @@ William Saroyan
 _**I have an everyday religion that works for me. Love yourself first, and everything else falls into line.**_
 
 Lucille Ball
+
+_**Everything you can imagine is real.**_
+
+Pablo Picasso
