@@ -137,3 +137,7 @@ Lucille Ball
 _**Everything you can imagine is real.**_
 
 Pablo Picasso
+
+_**Friendship is almost always the union of a part of one mind with the part of another; people are friends in spots.**_
+
+George Santayana
