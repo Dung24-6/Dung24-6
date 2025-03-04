@@ -157,3 +157,7 @@ Yoko Ono
 _**Your sacred space is where you can find yourself again and again.**_
 
 Joseph Campbell
+
+_**There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.**_
+
+Sam Walton
