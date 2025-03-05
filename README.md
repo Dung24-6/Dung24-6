@@ -161,3 +161,7 @@ Joseph Campbell
 _**There is only one boss. The customer. And he can fire everybody in the company from the chairman on down, simply by spending his money somewhere else.**_
 
 Sam Walton
+
+_**Sadness flies away on the wings of time.**_
+
+Jean de La Fontaine
