@@ -165,3 +165,7 @@ Sam Walton
 _**Sadness flies away on the wings of time.**_
 
 Jean de La Fontaine
+
+_**Silence at the proper season is wisdom, and better than any speech.**_
+
+Plutarch
