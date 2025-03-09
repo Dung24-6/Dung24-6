@@ -177,3 +177,7 @@ Virgil
 _**Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!**_
 
 Charlotte Perkins Gilman
+
+_**If you surrender to the wind, you can ride it.**_
+
+Toni Morrison
