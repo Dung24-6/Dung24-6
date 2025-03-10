@@ -181,3 +181,7 @@ Charlotte Perkins Gilman
 _**If you surrender to the wind, you can ride it.**_
 
 Toni Morrison
+
+_**I will prepare and some day my chance will come.**_
+
+Abraham Lincoln
