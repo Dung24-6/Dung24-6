@@ -185,3 +185,7 @@ Toni Morrison
 _**I will prepare and some day my chance will come.**_
 
 Abraham Lincoln
+
+_**Whenever something negative happens to you, there is a deep lesson concealed within it.**_
+
+Eckhart Tolle
