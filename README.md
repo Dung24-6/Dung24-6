@@ -189,3 +189,7 @@ Abraham Lincoln
 _**Whenever something negative happens to you, there is a deep lesson concealed within it.**_
 
 Eckhart Tolle
+
+_**A little knowledge that acts is worth infinitely more than much knowledge that is idle.**_
+
+Kahlil Gibran
