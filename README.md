@@ -193,3 +193,7 @@ Eckhart Tolle
 _**A little knowledge that acts is worth infinitely more than much knowledge that is idle.**_
 
 Kahlil Gibran
+
+_**Our intention creates our reality.**_
+
+Wayne Dyer
