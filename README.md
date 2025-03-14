@@ -197,3 +197,7 @@ Kahlil Gibran
 _**Our intention creates our reality.**_
 
 Wayne Dyer
+
+_**Quick decisions are unsafe decisions.**_
+
+Sophocles
