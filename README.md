@@ -201,3 +201,7 @@ Wayne Dyer
 _**Quick decisions are unsafe decisions.**_
 
 Sophocles
+
+_**You must do the things you think you cannot do.**_
+
+Eleanor Roosevelt
