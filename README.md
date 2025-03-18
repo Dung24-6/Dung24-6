@@ -213,3 +213,7 @@ Len Wein
 _**Imagination is the living power and prime agent of all human perception.**_
 
 Samuel Taylor Coleridge
+
+_**Nature and books belong to the eyes that see them.**_
+
+Ralph Waldo Emerson
