@@ -217,3 +217,7 @@ Samuel Taylor Coleridge
 _**Nature and books belong to the eyes that see them.**_
 
 Ralph Waldo Emerson
+
+_**Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.**_
+
+George Foreman
