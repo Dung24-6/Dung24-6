@@ -221,3 +221,7 @@ Ralph Waldo Emerson
 _**Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day.**_
 
 George Foreman
+
+_**Setting goals is the first step in turning the invisible into the visible.**_
+
+Tony Robbins
