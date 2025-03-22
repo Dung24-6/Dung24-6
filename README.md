@@ -229,3 +229,7 @@ Tony Robbins
 _**Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.**_
 
 Richard Bach
+
+_**Wisdom is the right use of knowledge. To know is not to be wise. Many men know a great deal and are all the greater fools for it. There is no fool so great a fool as a knowing fool. But to know how to use knowledge is to have wisdom.**_
+
+Charles Spurgeon
