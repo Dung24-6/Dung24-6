@@ -237,3 +237,7 @@ Charles Spurgeon
 _**If I were two-faced, would I be wearing this one?**_
 
 Abraham Lincoln
+
+_**All of our technology is completely unnecessary to a happy life.**_
+
+Tom Hodgkinson
