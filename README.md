@@ -241,3 +241,7 @@ Abraham Lincoln
 _**All of our technology is completely unnecessary to a happy life.**_
 
 Tom Hodgkinson
+
+_**Wise men talk because they have something to say; fools, because they have to say something.**_
+
+Plato
