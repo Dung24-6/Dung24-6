@@ -245,3 +245,7 @@ Tom Hodgkinson
 _**Wise men talk because they have something to say; fools, because they have to say something.**_
 
 Plato
+
+_**Minds are like parachutes. They only function when open.**_
+
+Thomas Dewar
