@@ -249,3 +249,7 @@ Plato
 _**Minds are like parachutes. They only function when open.**_
 
 Thomas Dewar
+
+_**Keep yourself to the sunshine and you cannot see the shadow.**_
+
+Helen Keller
