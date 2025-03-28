@@ -253,3 +253,7 @@ Thomas Dewar
 _**Keep yourself to the sunshine and you cannot see the shadow.**_
 
 Helen Keller
+
+_**Belief consists in accepting the affirmations of the soul; Unbelief, in denying them.**_
+
+Ralph Waldo Emerson
