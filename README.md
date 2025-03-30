@@ -261,3 +261,7 @@ Ralph Waldo Emerson
 _**Accept the things to which fate binds you and love the people with whom fate brings you together but do so with all your heart.**_
 
 Marcus Aurelius
+
+_**We are all inclined to judge ourselves by our ideals; others, by their acts.**_
+
+Harold Nicolson
