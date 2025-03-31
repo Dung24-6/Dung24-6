@@ -265,3 +265,7 @@ Marcus Aurelius
 _**We are all inclined to judge ourselves by our ideals; others, by their acts.**_
 
 Harold Nicolson
+
+_**Divide each difficulty into as many parts as is feasible and necessary to resolve it.**_
+
+René Descartes
