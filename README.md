@@ -269,3 +269,7 @@ Harold Nicolson
 _**Divide each difficulty into as many parts as is feasible and necessary to resolve it.**_
 
 René Descartes
+
+_**It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.**_
+
+John Steinbeck
