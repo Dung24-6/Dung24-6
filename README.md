@@ -273,3 +273,7 @@ René Descartes
 _**It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.**_
 
 John Steinbeck
+
+_**I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.**_
+
+Albert Einstein
