@@ -277,3 +277,7 @@ John Steinbeck
 _**I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.**_
 
 Albert Einstein
+
+_**Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.**_
+
+Thomas à Kempis
