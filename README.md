@@ -281,3 +281,7 @@ Albert Einstein
 _**Be not angry that you cannot make others as you wish them to be, since you cannot make yourself as you wish to be.**_
 
 Thomas à Kempis
+
+_**If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.**_
+
+Henry David Thoreau
