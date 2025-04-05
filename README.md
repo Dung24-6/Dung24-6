@@ -285,3 +285,7 @@ Thomas à Kempis
 _**If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.**_
 
 Henry David Thoreau
+
+_**Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.**_
+
+The Buddha
