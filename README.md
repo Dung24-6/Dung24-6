@@ -289,3 +289,7 @@ Henry David Thoreau
 _**Better it is to live one day seeing the rise and fall of things than to live a hundred years without ever seeing the rise and fall of things.**_
 
 The Buddha
+
+_**A good head and a good heart are always a formidable combination.**_
+
+Nelson Mandela
