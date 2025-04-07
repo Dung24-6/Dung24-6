@@ -293,3 +293,7 @@ The Buddha
 _**A good head and a good heart are always a formidable combination.**_
 
 Nelson Mandela
+
+_**Wisdom is found only in truth.**_
+
+Johann Wolfgang von Goethe
