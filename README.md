@@ -297,3 +297,7 @@ Nelson Mandela
 _**Wisdom is found only in truth.**_
 
 Johann Wolfgang von Goethe
+
+_**A leader is one who knows the way, goes the way, and shows the way.**_
+
+John C. Maxwell
