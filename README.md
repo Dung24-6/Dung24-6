@@ -301,3 +301,7 @@ Johann Wolfgang von Goethe
 _**A leader is one who knows the way, goes the way, and shows the way.**_
 
 John C. Maxwell
+
+_**Trust your own instinct. Your mistakes might as well be your own, instead of someone else's.**_
+
+Billy Wilder
