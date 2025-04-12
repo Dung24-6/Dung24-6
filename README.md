@@ -313,3 +313,7 @@ Dalai Lama
 _**Don't be dismayed by good-byes. A farewell is necessary before you can meet again. And meeting again, after moments or lifetimes, is certain for those who are friends.**_
 
 Richard Bach
+
+_**Men are disturbed not by things, but by the view which they take of them.**_
+
+Epictetus
