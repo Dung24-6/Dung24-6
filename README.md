@@ -317,3 +317,7 @@ Richard Bach
 _**Men are disturbed not by things, but by the view which they take of them.**_
 
 Epictetus
+
+_**Good luck is another name for tenacity of purpose.**_
+
+Ralph Waldo Emerson
