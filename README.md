@@ -321,3 +321,7 @@ Epictetus
 _**Good luck is another name for tenacity of purpose.**_
 
 Ralph Waldo Emerson
+
+_**The mind unlearns with difficulty what it has long learned.**_
+
+Seneca the Younger
