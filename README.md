@@ -325,3 +325,7 @@ Ralph Waldo Emerson
 _**The mind unlearns with difficulty what it has long learned.**_
 
 Seneca the Younger
+
+_**If there is such a thing as a good marriage, it is because it resembles friendship rather than love.**_
+
+Michel de Montaigne
