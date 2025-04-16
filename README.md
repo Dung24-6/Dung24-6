@@ -329,3 +329,7 @@ Seneca the Younger
 _**If there is such a thing as a good marriage, it is because it resembles friendship rather than love.**_
 
 Michel de Montaigne
+
+_**It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.**_
+
+Franklin D. Roosevelt
