@@ -337,3 +337,7 @@ Franklin D. Roosevelt
 _**Freedom is not worth having if it does not connote freedom to err.**_
 
 Mahatma Gandhi
+
+_**Knowledge speaks, but wisdom listens.**_
+
+Jimi Hendrix
