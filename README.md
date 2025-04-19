@@ -341,3 +341,7 @@ Mahatma Gandhi
 _**Knowledge speaks, but wisdom listens.**_
 
 Jimi Hendrix
+
+_**The superior man blames himself. The inferior man blames others.**_
+
+Don Shula
