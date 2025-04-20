@@ -345,3 +345,7 @@ Jimi Hendrix
 _**The superior man blames himself. The inferior man blames others.**_
 
 Don Shula
+
+_**There is only one corner of the universe you can be certain of improving, and that's your own self.**_
+
+Aldous Huxley
