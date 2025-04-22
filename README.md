@@ -353,3 +353,7 @@ Aldous Huxley
 _**Time is the wisest counsellor of all.**_
 
 Pericles
+
+_**Life is really simple, but we insist on making it complicated.**_
+
+Confucius
