@@ -361,3 +361,7 @@ Confucius
 _**Each friend represents a world in us, a world not born until they arrive, and it is only by this meeting that a new world is born.**_
 
 Anaïs Nin
+
+_**Where there is great love, there are always miracles.**_
+
+Willa Cather
