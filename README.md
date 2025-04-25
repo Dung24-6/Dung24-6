@@ -365,3 +365,7 @@ Anaïs Nin
 _**Where there is great love, there are always miracles.**_
 
 Willa Cather
+
+_**The secret of success is constancy to purpose.**_
+
+Benjamin Disraeli
