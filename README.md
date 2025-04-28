@@ -377,3 +377,7 @@ Ralph Waldo Emerson
 _**Technology frightens me to death. It's designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.**_
 
 John Cleese
+
+_**The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.**_
+
+Peter Abelard
