@@ -385,3 +385,7 @@ Peter Abelard
 _**Don't compromise yourself. You are all you've got.**_
 
 Janis Joplin
+
+_**Opportunity does not knock, it presents itself when you beat down the door.**_
+
+Kyle Chandler
