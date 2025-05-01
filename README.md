@@ -389,3 +389,7 @@ Janis Joplin
 _**Opportunity does not knock, it presents itself when you beat down the door.**_
 
 Kyle Chandler
+
+_**If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.**_
+
+Dalai Lama
