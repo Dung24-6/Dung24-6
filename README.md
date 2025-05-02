@@ -393,3 +393,7 @@ Kyle Chandler
 _**If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.**_
 
 Dalai Lama
+
+_**People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge.**_
+
+Masayoshi Son
