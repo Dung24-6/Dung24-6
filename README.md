@@ -405,3 +405,7 @@ Hubert Humphrey
 _**The ultimate promise of technology is to make us master of a world that we command by the push of a button.**_
 
 Volker Grassmuck
+
+_**Your mind will answer most questions if you learn to relax and wait for the answer.**_
+
+William Burroughs
