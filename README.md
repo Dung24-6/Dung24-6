@@ -409,3 +409,7 @@ Volker Grassmuck
 _**Your mind will answer most questions if you learn to relax and wait for the answer.**_
 
 William Burroughs
+
+_**Feeling and longing are the motive forces behind all human endeavor and human creations.**_
+
+Albert Einstein
