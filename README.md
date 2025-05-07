@@ -413,3 +413,7 @@ William Burroughs
 _**Feeling and longing are the motive forces behind all human endeavor and human creations.**_
 
 Albert Einstein
+
+_**A good head and a good heart are always a formidable combination.**_
+
+Nelson Mandela
