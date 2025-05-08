@@ -417,3 +417,7 @@ Albert Einstein
 _**A good head and a good heart are always a formidable combination.**_
 
 Nelson Mandela
+
+_**True friendship is like sound health; the value of it is seldom known until it is lost.**_
+
+Charles Caleb Colton
