@@ -421,3 +421,7 @@ Nelson Mandela
 _**True friendship is like sound health; the value of it is seldom known until it is lost.**_
 
 Charles Caleb Colton
+
+_**You cannot be lonely if you like the person you're alone with.**_
+
+Wayne Dyer
