@@ -425,3 +425,7 @@ Charles Caleb Colton
 _**You cannot be lonely if you like the person you're alone with.**_
 
 Wayne Dyer
+
+_**Learn from yesterday, live for today, hope for tomorrow.**_
+
+Albert Einstein
