@@ -429,3 +429,7 @@ Wayne Dyer
 _**Learn from yesterday, live for today, hope for tomorrow.**_
 
 Albert Einstein
+
+_**No alibi will save you from accepting the responsibility.**_
+
+Napoleon Hill
