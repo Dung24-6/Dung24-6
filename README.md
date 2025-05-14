@@ -441,3 +441,7 @@ Tony Robbins
 _**He who angers you conquers you.**_
 
 Elizabeth Kenny
+
+_**Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!**_
+
+Richard Bach
