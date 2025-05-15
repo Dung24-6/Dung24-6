@@ -445,3 +445,7 @@ Elizabeth Kenny
 _**Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!**_
 
 Richard Bach
+
+_**First-rate people hire first-rate people; second-rate people hire third-rate people.**_
+
+Leo Rosten
