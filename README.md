@@ -457,3 +457,7 @@ Morihei Ueshiba
 _**I hear and I forget. I see and I remember. I do and I understand.**_
 
 Confucius
+
+_**Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.**_
+
+Warren Buffett
