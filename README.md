@@ -461,3 +461,7 @@ Confucius
 _**Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well.**_
 
 Warren Buffett
+
+_**Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.**_
+
+Joan Rivers
