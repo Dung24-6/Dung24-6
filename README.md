@@ -469,3 +469,7 @@ Joan Rivers
 _**If you are going to achieve excellence in big things, you develop the habit in little matters. Excellence is not an exception; it is a prevailing attitude.**_
 
 Colin Powell
+
+_**The superior man understands what is right; the inferior man understands what will sell.**_
+
+Confucius
