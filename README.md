@@ -473,3 +473,7 @@ Colin Powell
 _**The superior man understands what is right; the inferior man understands what will sell.**_
 
 Confucius
+
+_**Maxim for life: You get treated in life the way you teach people to treat you.**_
+
+Wayne Dyer
