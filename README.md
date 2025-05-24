@@ -481,3 +481,7 @@ Wayne Dyer
 _**Good luck is another name for tenacity of purpose.**_
 
 Ralph Waldo Emerson
+
+_**I have not failed. I've just found 10,000 ways that won't work.**_
+
+Thomas Edison
