@@ -485,3 +485,7 @@ Ralph Waldo Emerson
 _**I have not failed. I've just found 10,000 ways that won't work.**_
 
 Thomas Edison
+
+_**I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.**_
+
+Kurt Vonnegut
