@@ -489,3 +489,7 @@ Thomas Edison
 _**I think that novels that leave out technology misrepresent life as badly as Victorians misrepresented life by leaving out sex.**_
 
 Kurt Vonnegut
+
+_**Good people are good because they've come to wisdom through failure. We get very little wisdom from success, you know.**_
+
+William Saroyan
