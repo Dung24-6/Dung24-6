@@ -497,3 +497,7 @@ William Saroyan
 _**Real magic in relationships means an absence of judgement of others.**_
 
 Wayne Dyer
+
+_**If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.**_
+
+Sophocles
