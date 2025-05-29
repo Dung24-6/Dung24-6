@@ -501,3 +501,7 @@ Wayne Dyer
 _**If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink.**_
 
 Sophocles
+
+_**Failure will never overtake me if my determination to succeed is strong enough.**_
+
+Og Mandino
