@@ -505,3 +505,7 @@ Sophocles
 _**Failure will never overtake me if my determination to succeed is strong enough.**_
 
 Og Mandino
+
+_**That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.**_
+
+Lisa Alther
