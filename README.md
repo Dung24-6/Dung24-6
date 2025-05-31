@@ -509,3 +509,7 @@ Og Mandino
 _**That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along.**_
 
 Lisa Alther
+
+_**Don't cry because it's over. Smile because it happened.**_
+
+Dr. Seuss
