@@ -513,3 +513,7 @@ Lisa Alther
 _**Don't cry because it's over. Smile because it happened.**_
 
 Dr. Seuss
+
+_**You yourself must strive. The Buddhas only point the way.**_
+
+The Buddha
