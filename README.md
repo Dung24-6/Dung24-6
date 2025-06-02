@@ -517,3 +517,7 @@ Dr. Seuss
 _**You yourself must strive. The Buddhas only point the way.**_
 
 The Buddha
+
+_**Life is divided into the horrible and the miserable.**_
+
+Woody Allen
