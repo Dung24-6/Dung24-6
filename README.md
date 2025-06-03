@@ -521,3 +521,7 @@ The Buddha
 _**Life is divided into the horrible and the miserable.**_
 
 Woody Allen
+
+_**The road of excess leads to the palace of wisdom.**_
+
+William Blake
