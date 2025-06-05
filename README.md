@@ -529,3 +529,7 @@ William Blake
 _**With pride, there are many curses. With humility, there come many blessings.**_
 
 Ezra Taft Benson
+
+_**Change your life today. Don't gamble on the future, act now, without delay.**_
+
+Simone de Beauvoir
