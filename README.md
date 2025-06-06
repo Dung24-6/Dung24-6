@@ -533,3 +533,7 @@ Ezra Taft Benson
 _**Change your life today. Don't gamble on the future, act now, without delay.**_
 
 Simone de Beauvoir
+
+_**I'm not interested in age. People who tell me their age are silly. You're as old as you feel.**_
+
+Elizabeth Arden
