@@ -537,3 +537,7 @@ Simone de Beauvoir
 _**I'm not interested in age. People who tell me their age are silly. You're as old as you feel.**_
 
 Elizabeth Arden
+
+_**An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.**_
+
+Thomas Fuller
