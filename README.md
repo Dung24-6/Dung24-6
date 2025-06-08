@@ -541,3 +541,7 @@ Elizabeth Arden
 _**An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.**_
 
 Thomas Fuller
+
+_**Happiness can exist only in acceptance.**_
+
+George Orwell
