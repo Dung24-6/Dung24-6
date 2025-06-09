@@ -545,3 +545,7 @@ Thomas Fuller
 _**Happiness can exist only in acceptance.**_
 
 George Orwell
+
+_**Follow your instincts. That is where true wisdom manifests itself.**_
+
+Oprah Winfrey
