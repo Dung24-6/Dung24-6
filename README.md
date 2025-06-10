@@ -549,3 +549,7 @@ George Orwell
 _**Follow your instincts. That is where true wisdom manifests itself.**_
 
 Oprah Winfrey
+
+_**Rare as is true love, true friendship is rarer.**_
+
+Jean de La Fontaine
