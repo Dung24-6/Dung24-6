@@ -553,3 +553,7 @@ Oprah Winfrey
 _**Rare as is true love, true friendship is rarer.**_
 
 Jean de La Fontaine
+
+_**Things turn out best for those who make the best of the way things turn out.**_
+
+Jack Buck
