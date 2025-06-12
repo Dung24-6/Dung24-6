@@ -557,3 +557,7 @@ Jean de La Fontaine
 _**Things turn out best for those who make the best of the way things turn out.**_
 
 Jack Buck
+
+_**Love is rarer than genius itself. And friendship is rarer than love.**_
+
+Charles Péguy
