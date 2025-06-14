@@ -565,3 +565,7 @@ Charles Péguy
 _**Problems are only opportunities with thorns on them.**_
 
 Hugh Miller
+
+_**Happiness can exist only in acceptance.**_
+
+George Orwell
