@@ -569,3 +569,7 @@ Hugh Miller
 _**Happiness can exist only in acceptance.**_
 
 George Orwell
+
+_**Forgiveness is choosing to love. It is the first skill of self-giving love.**_
+
+Mahatma Gandhi
