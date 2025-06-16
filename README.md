@@ -573,3 +573,7 @@ George Orwell
 _**Forgiveness is choosing to love. It is the first skill of self-giving love.**_
 
 Mahatma Gandhi
+
+_**Friendship is like money, easier made than kept.**_
+
+Samuel Butler
