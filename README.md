@@ -581,3 +581,7 @@ Samuel Butler
 _**A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action.**_
 
 Jawaharlal Nehru
+
+_**One may say the eternal mystery of the world is its comprehensibility.**_
+
+Albert Einstein
