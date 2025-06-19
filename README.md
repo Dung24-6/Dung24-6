@@ -585,3 +585,7 @@ Jawaharlal Nehru
 _**One may say the eternal mystery of the world is its comprehensibility.**_
 
 Albert Einstein
+
+_**Along with success comes a reputation for wisdom.**_
+
+Euripides
