@@ -589,3 +589,7 @@ Albert Einstein
 _**Along with success comes a reputation for wisdom.**_
 
 Euripides
+
+_**The greatest way to live with honor in this world is to be what we pretend to be.**_
+
+Socrates
