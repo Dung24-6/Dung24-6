@@ -593,3 +593,7 @@ Euripides
 _**The greatest way to live with honor in this world is to be what we pretend to be.**_
 
 Socrates
+
+_**Begin, be bold, and venture to be wise.**_
+
+Horace
