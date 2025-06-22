@@ -597,3 +597,7 @@ Socrates
 _**Begin, be bold, and venture to be wise.**_
 
 Horace
+
+_**Start with what is right rather than what is acceptable.**_
+
+Franz Kafka
