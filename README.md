@@ -601,3 +601,7 @@ Horace
 _**Start with what is right rather than what is acceptable.**_
 
 Franz Kafka
+
+_**Don't cry because it's over. Smile because it happened.**_
+
+Dr. Seuss
