@@ -605,3 +605,7 @@ Franz Kafka
 _**Don't cry because it's over. Smile because it happened.**_
 
 Dr. Seuss
+
+_**Whenever something negative happens to you, there is a deep lesson concealed within it.**_
+
+Eckhart Tolle
