@@ -609,3 +609,7 @@ Dr. Seuss
 _**Whenever something negative happens to you, there is a deep lesson concealed within it.**_
 
 Eckhart Tolle
+
+_**Do not wait for leaders; do it alone, person to person.**_
+
+Mother Teresa
