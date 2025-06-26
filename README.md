@@ -613,3 +613,7 @@ Eckhart Tolle
 _**Do not wait for leaders; do it alone, person to person.**_
 
 Mother Teresa
+
+_**I have an everyday religion that works for me. Love yourself first, and everything else falls into line.**_
+
+Lucille Ball
