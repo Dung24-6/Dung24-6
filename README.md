@@ -617,3 +617,7 @@ Mother Teresa
 _**I have an everyday religion that works for me. Love yourself first, and everything else falls into line.**_
 
 Lucille Ball
+
+_**I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.**_
+
+Dalai Lama
