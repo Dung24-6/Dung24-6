@@ -621,3 +621,7 @@ Lucille Ball
 _**I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.**_
 
 Dalai Lama
+
+_**It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.**_
+
+Pema Chödrön
