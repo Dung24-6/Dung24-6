@@ -625,3 +625,7 @@ Dalai Lama
 _**It isn't what happens to us that causes us to suffer; it's what we say to ourselves about what happens.**_
 
 Pema Chödrön
+
+_**How is it possible to find meaning in a finite world, given my waist and shirt size?**_
+
+Woody Allen
