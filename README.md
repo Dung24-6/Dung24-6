@@ -629,3 +629,7 @@ Pema Chödrön
 _**How is it possible to find meaning in a finite world, given my waist and shirt size?**_
 
 Woody Allen
+
+_**Life is what happens to you while you're busy making other plans.**_
+
+John Lennon
