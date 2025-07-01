@@ -633,3 +633,7 @@ Woody Allen
 _**Life is what happens to you while you're busy making other plans.**_
 
 John Lennon
+
+_**The beginning of knowledge is the discovery of something we do not understand.**_
+
+Frank Herbert
