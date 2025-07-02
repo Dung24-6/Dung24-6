@@ -637,3 +637,7 @@ John Lennon
 _**The beginning of knowledge is the discovery of something we do not understand.**_
 
 Frank Herbert
+
+_**The superior man understands what is right; the inferior man understands what will sell.**_
+
+Confucius
