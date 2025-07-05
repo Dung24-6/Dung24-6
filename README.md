@@ -649,3 +649,7 @@ Hal Abelson
 _**Don't watch the clock; do what it does. Keep going.**_
 
 Sam Levenson
+
+_**When fate hands us a lemon, let's try to make lemonade.**_
+
+Dale Carnegie
