@@ -653,3 +653,7 @@ Sam Levenson
 _**When fate hands us a lemon, let's try to make lemonade.**_
 
 Dale Carnegie
+
+_**Without leaps of imagination, or dreaming, we lose the excitement of possibilities. Dreaming, after all, is a form of planning.**_
+
+Gloria Steinem
