@@ -661,3 +661,7 @@ Gloria Steinem
 _**We read the world wrong and say that it deceives us.**_
 
 Rabindranath Tagore
+
+_**Life is what happens while you are making other plans.**_
+
+John Lennon
