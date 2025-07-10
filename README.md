@@ -669,3 +669,7 @@ John Lennon
 _**The key to wisdom is this - constant and frequent questioning, for by doubting we are led to question and by questioning we arrive at the truth.**_
 
 Peter Abelard
+
+_**Were here for a reason. I believe a bit of the reason is to throw little torches out to lead people through the dark.**_
+
+Whoopi Goldberg
