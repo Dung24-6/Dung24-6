@@ -677,3 +677,7 @@ Whoopi Goldberg
 _**The doors of wisdom are never shut.**_
 
 Benjamin Franklin
+
+_**The universe is made of stories, not atoms.**_
+
+Muriel Rukeyser
