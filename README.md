@@ -689,3 +689,7 @@ Bernard Shaw
 _**Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others**_
 
 The Buddha
+
+_**If you focus on results, you will never change. If you focus on change, you will get results.**_
+
+Jack Dixon
