@@ -693,3 +693,7 @@ The Buddha
 _**If you focus on results, you will never change. If you focus on change, you will get results.**_
 
 Jack Dixon
+
+_**The two most powerful warriors are patience and time.**_
+
+Leo Tolstoy
