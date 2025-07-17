@@ -697,3 +697,7 @@ Jack Dixon
 _**The two most powerful warriors are patience and time.**_
 
 Leo Tolstoy
+
+_**When a friend is in trouble, don't annoy him by asking if there is anything you can do. Think up something appropriate and do it.**_
+
+A. Powell Davies
