@@ -705,3 +705,7 @@ A. Powell Davies
 _**Friendship multiplies the good of life and divides the evil.**_
 
 Baltasar Gracián
+
+_**Do all things with love.**_
+
+Og Mandino
