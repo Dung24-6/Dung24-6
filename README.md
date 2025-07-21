@@ -713,3 +713,7 @@ Og Mandino
 _**The less effort, the faster and more powerful you will be.**_
 
 Bruce Lee
+
+_**You were not born a winner, and you were not born a loser. You are what you make yourself be.**_
+
+Lou Holtz
