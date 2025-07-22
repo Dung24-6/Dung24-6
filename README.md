@@ -717,3 +717,7 @@ Bruce Lee
 _**You were not born a winner, and you were not born a loser. You are what you make yourself be.**_
 
 Lou Holtz
+
+_**The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.**_
+
+Mortimer J. Adler
