@@ -721,3 +721,7 @@ Lou Holtz
 _**The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.**_
 
 Mortimer J. Adler
+
+_**I'd rather regret the things I've done than regret the things I haven't done.**_
+
+Lucille Ball
