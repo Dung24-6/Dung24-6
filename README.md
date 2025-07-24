@@ -725,3 +725,7 @@ Mortimer J. Adler
 _**I'd rather regret the things I've done than regret the things I haven't done.**_
 
 Lucille Ball
+
+_**In the middle of every difficulty lies opportunity.**_
+
+Albert Einstein
