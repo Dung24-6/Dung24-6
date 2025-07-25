@@ -729,3 +729,7 @@ Lucille Ball
 _**In the middle of every difficulty lies opportunity.**_
 
 Albert Einstein
+
+_**The final proof of greatness lies in being able to endure criticism without resentment.**_
+
+Elbert Hubbard
