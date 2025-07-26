@@ -733,3 +733,7 @@ Albert Einstein
 _**The final proof of greatness lies in being able to endure criticism without resentment.**_
 
 Elbert Hubbard
+
+_**Our most intimate friend is not he to whom we show the worst, but the best of our nature.**_
+
+Nathaniel Hawthorne
