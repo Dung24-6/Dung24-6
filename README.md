@@ -737,3 +737,7 @@ Elbert Hubbard
 _**Our most intimate friend is not he to whom we show the worst, but the best of our nature.**_
 
 Nathaniel Hawthorne
+
+_**And as we let our own light shine, we unconsciously give other people permission to do the same.**_
+
+Nelson Mandela
