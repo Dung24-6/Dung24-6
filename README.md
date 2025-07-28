@@ -741,3 +741,7 @@ Nathaniel Hawthorne
 _**And as we let our own light shine, we unconsciously give other people permission to do the same.**_
 
 Nelson Mandela
+
+_**Remember that a gesture of friendship, no matter how small, is always appreciated.**_
+
+H. Jackson Brown Jr.
