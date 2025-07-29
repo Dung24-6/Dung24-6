@@ -745,3 +745,7 @@ Nelson Mandela
 _**Remember that a gesture of friendship, no matter how small, is always appreciated.**_
 
 H. Jackson Brown Jr.
+
+_**It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.**_
+
+Franklin D. Roosevelt
