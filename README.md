@@ -749,3 +749,7 @@ H. Jackson Brown Jr.
 _**It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.**_
 
 Franklin D. Roosevelt
+
+_**Rare as is true love, true friendship is rarer.**_
+
+Jean de La Fontaine
