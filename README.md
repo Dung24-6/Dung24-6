@@ -757,3 +757,7 @@ Jean de La Fontaine
 _**If one advances confidently in the direction of his dream, and endeavors to live the life which he had imagines, he will meet with a success unexpected in common hours.**_
 
 Henry David Thoreau
+
+_**Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.**_
+
+Avery Brooks
