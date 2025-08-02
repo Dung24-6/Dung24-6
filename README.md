@@ -761,3 +761,7 @@ Henry David Thoreau
 _**Knowledge is going to make you stronger. Knowledge is going to let you control your life. Knowledge is going to give you the wisdom to teach their children. Knowledge is the thing that makes you smile in the face of disaster.**_
 
 Avery Brooks
+
+_**Whatever you do in life, surround yourself with smart people who'll argue with you.**_
+
+John Wooden
