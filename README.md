@@ -777,3 +777,7 @@ Oprah Winfrey
 _**You have to do your own growing no matter how tall your grandfather was.**_
 
 Abraham Lincoln
+
+_**Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.**_
+
+Charles Lindbergh
