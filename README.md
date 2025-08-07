@@ -781,3 +781,7 @@ Abraham Lincoln
 _**Life a culmination of the past, an awareness of the present, an indication of the future beyond knowledge, the quality that gives a touch of divinity to matter.**_
 
 Charles Lindbergh
+
+_**One who is too insistent on his own views, finds few to agree with him.**_
+
+Laozi
