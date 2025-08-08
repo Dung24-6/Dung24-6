@@ -785,3 +785,7 @@ Charles Lindbergh
 _**One who is too insistent on his own views, finds few to agree with him.**_
 
 Laozi
+
+_**Conditions fall apart. Persist with diligence.**_
+
+The Buddha
