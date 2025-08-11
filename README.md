@@ -797,3 +797,7 @@ Seneca the Younger
 _**Silence is a source of great strength.**_
 
 Laozi
+
+_**I begin with an idea and then it becomes something else.**_
+
+Pablo Picasso
