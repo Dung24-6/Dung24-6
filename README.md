@@ -801,3 +801,7 @@ Laozi
 _**I begin with an idea and then it becomes something else.**_
 
 Pablo Picasso
+
+_**Difficulties increase the nearer we get to the goal.**_
+
+Johann Wolfgang von Goethe
