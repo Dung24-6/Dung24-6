@@ -805,3 +805,7 @@ Pablo Picasso
 _**Difficulties increase the nearer we get to the goal.**_
 
 Johann Wolfgang von Goethe
+
+_**Success is getting what you want. Happiness is wanting what you get.**_
+
+Dale Carnegie
