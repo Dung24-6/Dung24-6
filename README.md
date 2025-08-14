@@ -809,3 +809,7 @@ Johann Wolfgang von Goethe
 _**Success is getting what you want. Happiness is wanting what you get.**_
 
 Dale Carnegie
+
+_**Value your friendship. Value your relationships.**_
+
+Barbara Bush
