@@ -817,3 +817,7 @@ Barbara Bush
 _**If we are not given the chance to forget, we are also not given the chance to recover our memories, to alter them with time, perspective, and wisdom. Forgetting, we can be ourselves beyond what the past has told us we are; we can evolve. That is the possibility we want from the future.**_
 
 Caterina Fake
+
+_**You are never given a wish without also being given the power to make it come true. You may have to work for it, however.**_
+
+Richard Bach
