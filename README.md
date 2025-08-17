@@ -821,3 +821,7 @@ Caterina Fake
 _**You are never given a wish without also being given the power to make it come true. You may have to work for it, however.**_
 
 Richard Bach
+
+_**We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.**_
+
+Sam Keen
