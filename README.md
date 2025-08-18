@@ -825,3 +825,7 @@ Richard Bach
 _**We come to love not by finding a perfect person, but by learning to see an imperfect person perfectly.**_
 
 Sam Keen
+
+_**Our greatness lies not so much in being able to remake the world as being able to remake ourselves.**_
+
+Mahatma Gandhi
