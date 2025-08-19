@@ -829,3 +829,7 @@ Sam Keen
 _**Our greatness lies not so much in being able to remake the world as being able to remake ourselves.**_
 
 Mahatma Gandhi
+
+_**The greatest mistake you can make in life is to be continually fearing you will make one.**_
+
+Elbert Hubbard
