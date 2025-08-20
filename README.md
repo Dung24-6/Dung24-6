@@ -833,3 +833,7 @@ Mahatma Gandhi
 _**The greatest mistake you can make in life is to be continually fearing you will make one.**_
 
 Elbert Hubbard
+
+_**Strong beliefs win strong men, and then make them stronger.**_
+
+Richard Bach
