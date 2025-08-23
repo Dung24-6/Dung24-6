@@ -845,3 +845,7 @@ Akhenaten
 _**From error to error one discovers the entire truth.**_
 
 Sigmund Freud
+
+_**Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.**_
+
+The Buddha
