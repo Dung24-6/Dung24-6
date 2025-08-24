@@ -849,3 +849,7 @@ Sigmund Freud
 _**Whatever is not yours: let go of it. Your letting go of it will be for your long-term happiness & benefit.**_
 
 The Buddha
+
+_**Who sows virtue reaps honor.**_
+
+Leonardo da Vinci
