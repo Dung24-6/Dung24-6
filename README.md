@@ -853,3 +853,7 @@ The Buddha
 _**Who sows virtue reaps honor.**_
 
 Leonardo da Vinci
+
+_**Ethics change with technology.**_
+
+Larry Niven
