@@ -857,3 +857,7 @@ Leonardo da Vinci
 _**Ethics change with technology.**_
 
 Larry Niven
+
+_**To accomplish great things, we must not only act, but also dream; not only plan, but also believe.**_
+
+Anatole France
