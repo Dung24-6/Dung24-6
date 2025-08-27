@@ -861,3 +861,7 @@ Larry Niven
 _**To accomplish great things, we must not only act, but also dream; not only plan, but also believe.**_
 
 Anatole France
+
+_**If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.**_
+
+Epictetus
