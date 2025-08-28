@@ -865,3 +865,7 @@ Anatole France
 _**If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.**_
 
 Epictetus
+
+_**A man's growth is seen in the successive choirs of his friends**_
+
+Ralph Waldo Emerson
