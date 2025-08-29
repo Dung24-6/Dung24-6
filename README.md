@@ -869,3 +869,7 @@ Epictetus
 _**A man's growth is seen in the successive choirs of his friends**_
 
 Ralph Waldo Emerson
+
+_**All action results from thought, so it is thoughts that matter.**_
+
+Sai Baba
