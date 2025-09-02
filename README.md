@@ -885,3 +885,7 @@ Colin Powell
 _**Wrinkles should merely indicate where smiles have been.**_
 
 Mark Twain
+
+_**Nobody will believe in you unless you believe in yourself.**_
+
+Liberace
