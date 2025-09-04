@@ -893,3 +893,7 @@ Liberace
 _**Things are as they are. Looking out into it the universe at night, we make no comparisons between right and wrong stars, nor between well and badly arranged constellations.**_
 
 Alan Watts
+
+_**Follow your instincts. That is where true wisdom manifests itself.**_
+
+Oprah Winfrey
