@@ -897,3 +897,7 @@ Alan Watts
 _**Follow your instincts. That is where true wisdom manifests itself.**_
 
 Oprah Winfrey
+
+_**All this worldly wisdom was once the unamiable heresy of some wise man.**_
+
+Henry David Thoreau
