@@ -901,3 +901,7 @@ Oprah Winfrey
 _**All this worldly wisdom was once the unamiable heresy of some wise man.**_
 
 Henry David Thoreau
+
+_**We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.**_
+
+Marcia Fudge
