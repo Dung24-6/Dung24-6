@@ -905,3 +905,7 @@ Henry David Thoreau
 _**We respect our elders. There is wisdom that comes from experience, and I am not going to stop learning from wise counsel.**_
 
 Marcia Fudge
+
+_**Kind words do not cost much. Yet they accomplish much.**_
+
+Blaise Pascal
