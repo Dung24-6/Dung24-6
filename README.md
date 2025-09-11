@@ -921,3 +921,7 @@ Antoine de Saint-Exupéry
 _**Be content with your lot; one cannot be first in everything.**_
 
 Aesop
+
+_**It's supposed to be automatic, but actually you have to push this button.**_
+
+John Brunner
