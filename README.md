@@ -925,3 +925,7 @@ Aesop
 _**It's supposed to be automatic, but actually you have to push this button.**_
 
 John Brunner
+
+_**Happiness is when what you think, what you say, and what you do are in harmony.**_
+
+Mahatma Gandhi
