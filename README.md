@@ -929,3 +929,7 @@ John Brunner
 _**Happiness is when what you think, what you say, and what you do are in harmony.**_
 
 Mahatma Gandhi
+
+_**Beauty is not in the face; beauty is a light in the heart.**_
+
+Kahlil Gibran
