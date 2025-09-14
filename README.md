@@ -933,3 +933,7 @@ Mahatma Gandhi
 _**Beauty is not in the face; beauty is a light in the heart.**_
 
 Kahlil Gibran
+
+_**If we did the things we are capable of, we would astound ourselves.**_
+
+Thomas Edison
