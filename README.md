@@ -937,3 +937,7 @@ Kahlil Gibran
 _**If we did the things we are capable of, we would astound ourselves.**_
 
 Thomas Edison
+
+_**Make the best use of what is in your power and take the rest as it happens.**_
+
+Epictetus
