@@ -945,3 +945,7 @@ Epictetus
 _**The smallest act of kindness is worth more than the grandest intention.**_
 
 Oscar Wilde
+
+_**A man is not old as long as he is seeking something.**_
+
+Edmond Rostand
