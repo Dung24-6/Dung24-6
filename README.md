@@ -953,3 +953,7 @@ Edmond Rostand
 _**Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it.**_
 
 Johann Wolfgang von Goethe
+
+_**We must learn our limits. We are all something, but none of us are everything.**_
+
+Blaise Pascal
