@@ -957,3 +957,7 @@ Johann Wolfgang von Goethe
 _**We must learn our limits. We are all something, but none of us are everything.**_
 
 Blaise Pascal
+
+_**I am always doing that which I cannot do, in order that I may learn how to do it.**_
+
+Pablo Picasso
