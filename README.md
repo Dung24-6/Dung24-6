@@ -969,3 +969,7 @@ John C. Maxwell
 _**Life is just a chance to grow a soul.**_
 
 A. Powell Davies
+
+_**Happiness resides not in possessions, and not in gold, happiness dwells in the soul.**_
+
+Democritus
