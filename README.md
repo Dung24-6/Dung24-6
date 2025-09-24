@@ -973,3 +973,7 @@ A. Powell Davies
 _**Happiness resides not in possessions, and not in gold, happiness dwells in the soul.**_
 
 Democritus
+
+_**Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.**_
+
+Carl Jung
