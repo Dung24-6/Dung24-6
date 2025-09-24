@@ -115,3 +115,7 @@ Bruce Lee
 _**Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.**_
 
 Carl Jung
+
+_**Friendship is like money, easier made than kept.**_
+
+Samuel Butler
