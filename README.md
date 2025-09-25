@@ -119,3 +119,7 @@ Carl Jung
 _**Friendship is like money, easier made than kept.**_
 
 Samuel Butler
+
+_**Wisdom comes alone through suffering.**_
+
+Aeschylus
