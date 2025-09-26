@@ -123,3 +123,7 @@ Samuel Butler
 _**Wisdom comes alone through suffering.**_
 
 Aeschylus
+
+_**You might well remember that nothing can bring you success but yourself.**_
+
+Napoleon Hill
