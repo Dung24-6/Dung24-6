@@ -131,3 +131,7 @@ Napoleon Hill
 _**Your sacred space is where you can find yourself again and again.**_
 
 Joseph Campbell
+
+_**All truths are easy to understand once they are discovered; the point is to discover them.**_
+
+Galileo Galilei
