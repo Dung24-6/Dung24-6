@@ -135,3 +135,7 @@ Joseph Campbell
 _**All truths are easy to understand once they are discovered; the point is to discover them.**_
 
 Galileo Galilei
+
+_**I can't listen to that much Wagner. I start getting the urge to conquer Poland.**_
+
+Woody Allen
