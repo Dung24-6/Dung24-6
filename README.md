@@ -139,3 +139,7 @@ Galileo Galilei
 _**I can't listen to that much Wagner. I start getting the urge to conquer Poland.**_
 
 Woody Allen
+
+_**The most precious gift we can offer anyone is our attention. When mindfulness embraces those we love, they will bloom like flowers.**_
+
+Thích Nhất Hạnh
