@@ -147,3 +147,7 @@ Thích Nhất Hạnh
 _**Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.**_
 
 Henry van Dyke Jr.
+
+_**The gambling known as business looks with austere disfavor upon the business known as gambling.**_
+
+Ambrose Bierce
