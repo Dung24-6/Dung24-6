@@ -151,3 +151,7 @@ Henry van Dyke Jr.
 _**The gambling known as business looks with austere disfavor upon the business known as gambling.**_
 
 Ambrose Bierce
+
+_**Ask yourself the secret of your success. Listen to your answer and practice it.**_
+
+Richard Bach
