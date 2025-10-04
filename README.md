@@ -155,3 +155,7 @@ Ambrose Bierce
 _**Ask yourself the secret of your success. Listen to your answer and practice it.**_
 
 Richard Bach
+
+_**Life is like a sewer. What you get out of it depends on what you put into it.**_
+
+Tom Lehrer
