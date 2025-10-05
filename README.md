@@ -159,3 +159,7 @@ Richard Bach
 _**Life is like a sewer. What you get out of it depends on what you put into it.**_
 
 Tom Lehrer
+
+_**You are the only person on earth who can use your ability.**_
+
+Zig Ziglar
