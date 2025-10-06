@@ -163,3 +163,7 @@ Tom Lehrer
 _**You are the only person on earth who can use your ability.**_
 
 Zig Ziglar
+
+_**Be less curious about people and more curious about ideas.**_
+
+Marie Curie
