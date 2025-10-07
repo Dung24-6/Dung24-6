@@ -167,3 +167,7 @@ Zig Ziglar
 _**Be less curious about people and more curious about ideas.**_
 
 Marie Curie
+
+_**No one can make you feel inferior without your consent.**_
+
+Eleanor Roosevelt
