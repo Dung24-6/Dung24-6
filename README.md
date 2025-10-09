@@ -175,3 +175,7 @@ Eleanor Roosevelt
 _**It is good even for old men to learn wisdom.**_
 
 Aeschylus
+
+_**Wishing to be friends is quick work, but friendship is a slow ripening fruit.**_
+
+Aristotle
