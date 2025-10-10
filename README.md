@@ -179,3 +179,7 @@ Aeschylus
 _**Wishing to be friends is quick work, but friendship is a slow ripening fruit.**_
 
 Aristotle
+
+_**Happiness is not something ready-made. It comes from your own actions.**_
+
+Dalai Lama
