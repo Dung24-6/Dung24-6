@@ -183,3 +183,7 @@ Aristotle
 _**Happiness is not something ready-made. It comes from your own actions.**_
 
 Dalai Lama
+
+_**Today you are you! That is truer than true! There is no one alive who is you-er than you!**_
+
+Dr. Seuss
