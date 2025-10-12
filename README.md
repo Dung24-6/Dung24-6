@@ -187,3 +187,7 @@ Dalai Lama
 _**Today you are you! That is truer than true! There is no one alive who is you-er than you!**_
 
 Dr. Seuss
+
+_**A rolling stone gathers no moss.**_
+
+Publilius Syrus
