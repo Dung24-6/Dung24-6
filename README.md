@@ -191,3 +191,7 @@ Dr. Seuss
 _**A rolling stone gathers no moss.**_
 
 Publilius Syrus
+
+_**Those who will play with cats must expect to be scratched.**_
+
+Miguel de Cervantes
