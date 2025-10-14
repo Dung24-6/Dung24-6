@@ -195,3 +195,7 @@ Publilius Syrus
 _**Those who will play with cats must expect to be scratched.**_
 
 Miguel de Cervantes
+
+_**The greatest remedy for anger is delay.**_
+
+Seneca the Younger
