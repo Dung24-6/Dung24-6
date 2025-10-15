@@ -199,3 +199,7 @@ Miguel de Cervantes
 _**The greatest remedy for anger is delay.**_
 
 Seneca the Younger
+
+_**Accept challenges, so that you may feel the exhilaration of victory.**_
+
+George S. Patton
