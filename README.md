@@ -215,3 +215,7 @@ Richard Bach
 _**The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts.**_
 
 Booker T. Washington
+
+_**Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.**_
+
+Eleanor Roosevelt
