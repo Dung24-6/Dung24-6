@@ -227,3 +227,7 @@ Woodrow Wilson
 _**The day of fortune is like a harvest day, we must be busy when the corn is ripe.**_
 
 Torquato Tasso
+
+_**Be the change that you want to see in the world.**_
+
+Mahatma Gandhi
