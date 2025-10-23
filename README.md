@@ -231,3 +231,7 @@ Torquato Tasso
 _**Be the change that you want to see in the world.**_
 
 Mahatma Gandhi
+
+_**God made me fast. And when I run, I feel His pleasure.**_
+
+Eric Liddell
