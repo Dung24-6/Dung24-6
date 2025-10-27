@@ -247,3 +247,7 @@ Confucius
 _**Don't judge each day by the harvest you reap but by the seeds that you plant.**_
 
 Robert Louis Stevenson
+
+_**Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.**_
+
+Amy Bloom
