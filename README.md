@@ -251,3 +251,7 @@ Robert Louis Stevenson
 _**Love at first sight is easy to understand; it's when two people have been looking at each other for a lifetime that it becomes a miracle.**_
 
 Amy Bloom
+
+_**Let the beauty of what you love be what you do.**_
+
+Rumi
