@@ -255,3 +255,7 @@ Amy Bloom
 _**Let the beauty of what you love be what you do.**_
 
 Rumi
+
+_**Peace cannot be kept by force. It can only be achieved by understanding.**_
+
+Albert Einstein
