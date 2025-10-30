@@ -259,3 +259,7 @@ Rumi
 _**Peace cannot be kept by force. It can only be achieved by understanding.**_
 
 Albert Einstein
+
+_**I had three chairs in my house; one for solitude, two for friendship, three for society.**_
+
+Henry David Thoreau
