@@ -263,3 +263,7 @@ Albert Einstein
 _**I had three chairs in my house; one for solitude, two for friendship, three for society.**_
 
 Henry David Thoreau
+
+_**My friends are my estate.**_
+
+Emily Dickinson
