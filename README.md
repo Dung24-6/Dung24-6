@@ -267,3 +267,7 @@ Henry David Thoreau
 _**My friends are my estate.**_
 
 Emily Dickinson
+
+_**I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.**_
+
+Albert Einstein
