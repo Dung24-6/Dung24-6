@@ -275,3 +275,7 @@ Albert Einstein
 _**Action is the foundational key to all success.**_
 
 Pablo Picasso
+
+_**Friendship needs no words - it is solitude delivered from the anguish of loneliness.**_
+
+Dag Hammarskjöld
