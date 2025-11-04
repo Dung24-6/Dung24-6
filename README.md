@@ -279,3 +279,7 @@ Pablo Picasso
 _**Friendship needs no words - it is solitude delivered from the anguish of loneliness.**_
 
 Dag Hammarskjöld
+
+_**The final wisdom of life requires not the annulment of incongruity but the achievement of serenity within and above it.**_
+
+Reinhold Niebuhr
