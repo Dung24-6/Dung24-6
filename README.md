@@ -291,3 +291,7 @@ George Orwell
 _**A single lamp may light hundreds of thousands of lamps without itself being diminished.**_
 
 The Buddha
+
+_**If you can't explain it simply, you don't understand it well enough.**_
+
+Albert Einstein
