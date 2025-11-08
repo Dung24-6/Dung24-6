@@ -295,3 +295,7 @@ The Buddha
 _**If you can't explain it simply, you don't understand it well enough.**_
 
 Albert Einstein
+
+_**Time changes everything except something within us which is always surprised by change.**_
+
+Thomas Hardy
