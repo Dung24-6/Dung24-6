@@ -299,3 +299,7 @@ Albert Einstein
 _**Time changes everything except something within us which is always surprised by change.**_
 
 Thomas Hardy
+
+_**The less effort, the faster and more powerful you will be.**_
+
+Bruce Lee
