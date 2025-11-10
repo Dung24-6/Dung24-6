@@ -303,3 +303,7 @@ Thomas Hardy
 _**The less effort, the faster and more powerful you will be.**_
 
 Bruce Lee
+
+_**Be great in act, as you have been in thought.**_
+
+William Shakespeare
