@@ -307,3 +307,7 @@ Bruce Lee
 _**Be great in act, as you have been in thought.**_
 
 William Shakespeare
+
+_**The world is but a canvas to the imagination.**_
+
+Henry David Thoreau
