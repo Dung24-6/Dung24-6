@@ -311,3 +311,7 @@ William Shakespeare
 _**The world is but a canvas to the imagination.**_
 
 Henry David Thoreau
+
+_**Adopt the pace of nature: her secret is patience.**_
+
+Ralph Waldo Emerson
