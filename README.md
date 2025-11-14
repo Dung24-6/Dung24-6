@@ -319,3 +319,7 @@ Ralph Waldo Emerson
 _**I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars.**_
 
 Og Mandino
+
+_**Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.**_
+
+Martin Luther King Jr.
