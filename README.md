@@ -323,3 +323,7 @@ Og Mandino
 _**Science investigates; religion interprets. Science gives man knowledge which is power; religion gives man wisdom which is control.**_
 
 Martin Luther King Jr.
+
+_**It has never been my object to record my dreams, just to realize them.**_
+
+Man Ray
