@@ -110,3 +110,7 @@ Eckhart Tolle
 _**There surely is in human nature an inherent propensity to extract all the good out of all the evil.**_
 
 Benjamin Haydon
+
+_**Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.**_
+
+Marie Curie
