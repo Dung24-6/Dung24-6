@@ -122,3 +122,7 @@ Paramahansa Yogananda
 _**If you surrender to the wind, you can ride it.**_
 
 Toni Morrison
+
+_**The hours of folly are measured by the clock; but of wisdom, no clock can measure.**_
+
+William Blake
