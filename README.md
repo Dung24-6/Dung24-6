@@ -126,3 +126,7 @@ Toni Morrison
 _**The hours of folly are measured by the clock; but of wisdom, no clock can measure.**_
 
 William Blake
+
+_**I gave my life to become the person I am right now. Was it worth it?**_
+
+Richard Bach
