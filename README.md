@@ -130,3 +130,7 @@ William Blake
 _**I gave my life to become the person I am right now. Was it worth it?**_
 
 Richard Bach
+
+_**If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?**_
+
+Rabbi Hillel
