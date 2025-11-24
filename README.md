@@ -142,3 +142,7 @@ Euripides
 _**You were not born a winner, and you were not born a loser. You are what you make yourself be.**_
 
 Lou Holtz
+
+_**A true friend is someone who is there for you when he'd rather be anywhere else.**_
+
+Len Wein
