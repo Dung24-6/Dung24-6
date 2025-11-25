@@ -146,3 +146,7 @@ Lou Holtz
 _**A true friend is someone who is there for you when he'd rather be anywhere else.**_
 
 Len Wein
+
+_**I hear and I forget. I see and I remember. I do and I understand.**_
+
+Confucius
