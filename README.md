@@ -150,3 +150,7 @@ Len Wein
 _**I hear and I forget. I see and I remember. I do and I understand.**_
 
 Confucius
+
+_**Imagination is the highest kite one can fly.**_
+
+Lauren Bacall
