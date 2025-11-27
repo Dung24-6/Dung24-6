@@ -154,3 +154,7 @@ Confucius
 _**Imagination is the highest kite one can fly.**_
 
 Lauren Bacall
+
+_**Opportunity often comes disguised in the form of misfortune, or temporary defeat.**_
+
+Napoleon Hill
