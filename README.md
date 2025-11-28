@@ -158,3 +158,7 @@ Lauren Bacall
 _**Opportunity often comes disguised in the form of misfortune, or temporary defeat.**_
 
 Napoleon Hill
+
+_**The past has no power to stop you from being present now. Only your grievance about the past can do that.**_
+
+Eckhart Tolle
