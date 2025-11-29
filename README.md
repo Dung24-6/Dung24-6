@@ -162,3 +162,7 @@ Napoleon Hill
 _**The past has no power to stop you from being present now. Only your grievance about the past can do that.**_
 
 Eckhart Tolle
+
+_**A true friend is the greatest of all blessings, and that which we take the least care of all to acquire.**_
+
+François de La Rochefoucauld
