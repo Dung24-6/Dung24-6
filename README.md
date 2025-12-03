@@ -178,3 +178,7 @@ Napoleon Hill
 _**Pick battles big enough to matter, small enough to win.**_
 
 Jonathan Kozol
+
+_**Winners never quit and quitters never win.**_
+
+Vince Lombardi
