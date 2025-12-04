@@ -182,3 +182,7 @@ Jonathan Kozol
 _**Winners never quit and quitters never win.**_
 
 Vince Lombardi
+
+_**Most powerful is he who has himself in his own power.**_
+
+Seneca the Younger
