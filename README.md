@@ -190,3 +190,7 @@ Seneca the Younger
 _**As you think, so shall you become.**_
 
 Bruce Lee
+
+_**Winners never quit and quitters never win.**_
+
+Vince Lombardi
