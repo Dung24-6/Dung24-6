@@ -194,3 +194,7 @@ Bruce Lee
 _**Winners never quit and quitters never win.**_
 
 Vince Lombardi
+
+_**To change one's life, start immediately, do it flamboyantly, no exceptions.**_
+
+William James
