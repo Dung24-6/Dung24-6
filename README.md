@@ -198,3 +198,7 @@ Vince Lombardi
 _**To change one's life, start immediately, do it flamboyantly, no exceptions.**_
 
 William James
+
+_**The best argument against democracy is a five-minute conversation with the average voter.**_
+
+Winston Churchill
