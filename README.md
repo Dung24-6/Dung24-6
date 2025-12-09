@@ -202,3 +202,7 @@ William James
 _**The best argument against democracy is a five-minute conversation with the average voter.**_
 
 Winston Churchill
+
+_**Joy is the best makeup.**_
+
+Anne Lamott
