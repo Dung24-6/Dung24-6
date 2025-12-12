@@ -214,3 +214,7 @@ Robert Griffin III
 _**I believe in one thing only, the power of human will.**_
 
 Joseph Stalin
+
+_**Never complain and never explain.**_
+
+Benjamin Disraeli
