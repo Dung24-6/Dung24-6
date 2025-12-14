@@ -222,3 +222,7 @@ Benjamin Disraeli
 _**Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.**_
 
 Abraham Lincoln
+
+_**It all depends on how we look at things, and not how they are in themselves.**_
+
+Carl Jung
