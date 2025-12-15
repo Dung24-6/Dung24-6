@@ -226,3 +226,7 @@ Abraham Lincoln
 _**It all depends on how we look at things, and not how they are in themselves.**_
 
 Carl Jung
+
+_**If you do not change direction, you may end up where you are heading.**_
+
+Laozi
