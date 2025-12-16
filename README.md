@@ -230,3 +230,7 @@ Carl Jung
 _**If you do not change direction, you may end up where you are heading.**_
 
 Laozi
+
+_**The greatest healing therapy is friendship and love.**_
+
+Hubert Humphrey
