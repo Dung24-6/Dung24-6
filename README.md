@@ -238,3 +238,7 @@ Hubert Humphrey
 _**Be glad of life because it gives you the chance to love, to work, to play, and to look up at the stars.**_
 
 Henry van Dyke Jr.
+
+_**We never live; we are always in the expectation of living.**_
+
+Voltaire
