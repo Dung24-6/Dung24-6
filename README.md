@@ -242,3 +242,7 @@ Henry van Dyke Jr.
 _**We never live; we are always in the expectation of living.**_
 
 Voltaire
+
+_**Experience keeps a dear school, but fools will learn in no other.**_
+
+Benjamin Franklin
