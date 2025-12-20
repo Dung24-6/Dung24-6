@@ -246,3 +246,7 @@ Voltaire
 _**Experience keeps a dear school, but fools will learn in no other.**_
 
 Benjamin Franklin
+
+_**All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.**_
+
+Immanuel Kant
