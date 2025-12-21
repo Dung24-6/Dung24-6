@@ -250,3 +250,7 @@ Benjamin Franklin
 _**All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.**_
 
 Immanuel Kant
+
+_**Be great in act, as you have been in thought.**_
+
+William Shakespeare
