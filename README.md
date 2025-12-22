@@ -254,3 +254,7 @@ Immanuel Kant
 _**Be great in act, as you have been in thought.**_
 
 William Shakespeare
+
+_**It is not so important to know everything as to appreciate what we learn.**_
+
+Hannah More
