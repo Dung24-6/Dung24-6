@@ -258,3 +258,7 @@ William Shakespeare
 _**It is not so important to know everything as to appreciate what we learn.**_
 
 Hannah More
+
+_**I want you to be everything that's you, deep at the center of your being.**_
+
+Confucius
