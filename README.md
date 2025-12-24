@@ -262,3 +262,7 @@ Hannah More
 _**I want you to be everything that's you, deep at the center of your being.**_
 
 Confucius
+
+_**Mistakes are always forgivable, if one has the courage to admit them.**_
+
+Bruce Lee
