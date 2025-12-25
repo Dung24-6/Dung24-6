@@ -266,3 +266,7 @@ Confucius
 _**Mistakes are always forgivable, if one has the courage to admit them.**_
 
 Bruce Lee
+
+_**Never mistake motion for action.**_
+
+Ernest Hemingway
