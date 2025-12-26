@@ -270,3 +270,7 @@ Bruce Lee
 _**Never mistake motion for action.**_
 
 Ernest Hemingway
+
+_**I never teach my pupils. I only attempt to provide the conditions in which they can learn.**_
+
+Albert Einstein
