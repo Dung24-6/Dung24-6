@@ -274,3 +274,7 @@ Ernest Hemingway
 _**I never teach my pupils. I only attempt to provide the conditions in which they can learn.**_
 
 Albert Einstein
+
+_**The greatest part of our happiness depends on our dispositions, not our circumstances.**_
+
+Martha Washington
