@@ -278,3 +278,7 @@ Albert Einstein
 _**The greatest part of our happiness depends on our dispositions, not our circumstances.**_
 
 Martha Washington
+
+_**Know, first, who you are, and then adorn yourself accordingly.**_
+
+Epictetus
