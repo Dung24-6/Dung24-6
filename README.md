@@ -282,3 +282,7 @@ Martha Washington
 _**Know, first, who you are, and then adorn yourself accordingly.**_
 
 Epictetus
+
+_**A man is not old as long as he is seeking something.**_
+
+Edmond Rostand
