@@ -286,3 +286,7 @@ Epictetus
 _**A man is not old as long as he is seeking something.**_
 
 Edmond Rostand
+
+_**Remember that a gesture of friendship, no matter how small, is always appreciated.**_
+
+H. Jackson Brown Jr.
