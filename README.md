@@ -290,3 +290,7 @@ Edmond Rostand
 _**Remember that a gesture of friendship, no matter how small, is always appreciated.**_
 
 H. Jackson Brown Jr.
+
+_**If you think you can, you can. And if you think you can't, you're right.**_
+
+Henry Ford
