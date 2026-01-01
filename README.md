@@ -294,3 +294,7 @@ H. Jackson Brown Jr.
 _**If you think you can, you can. And if you think you can't, you're right.**_
 
 Henry Ford
+
+_**Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.**_
+
+Carl Jung
