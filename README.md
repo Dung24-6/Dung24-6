@@ -298,3 +298,7 @@ Henry Ford
 _**Your vision will become clear only when you look into your heart. Who looks outside, dreams. Who looks inside, awakens.**_
 
 Carl Jung
+
+_**A man should look for what is, and not for what he thinks should be.**_
+
+Albert Einstein
