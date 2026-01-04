@@ -306,3 +306,7 @@ Albert Einstein
 _**I took a speed-reading course and read 'War and Peace' in twenty minutes. It involves Russia.**_
 
 Woody Allen
+
+_**History is written by the victors.**_
+
+Winston Churchill
