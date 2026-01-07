@@ -318,3 +318,7 @@ Ralph Waldo Emerson
 _**All I can say about life is, Oh God, enjoy it!**_
 
 Bob Newhart
+
+_**I always wanted to be somebody, but I should have been more specific.**_
+
+Lily Tomlin
