@@ -326,3 +326,7 @@ Lily Tomlin
 _**If you love life, don't waste time, for time is what life is made up of.**_
 
 Bruce Lee
+
+_**It is only the great hearted who can be true friends. The mean and cowardly, can never know what true friendship means.**_
+
+Charles Kingsley
