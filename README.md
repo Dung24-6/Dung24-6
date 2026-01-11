@@ -334,3 +334,7 @@ Charles Kingsley
 _**The moment one gives close attention to anything, it becomes a mysterious, awesome, indescribably magnificent world in itself.**_
 
 Henry Miller
+
+_**The two most powerful warriors are patience and time.**_
+
+Leo Tolstoy
