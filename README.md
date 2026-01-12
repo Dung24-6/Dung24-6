@@ -338,3 +338,7 @@ Henry Miller
 _**The two most powerful warriors are patience and time.**_
 
 Leo Tolstoy
+
+_**Knowledge speaks, but wisdom listens.**_
+
+Jimi Hendrix
