@@ -350,3 +350,7 @@ Honoré de Balzac
 _**If I were two-faced, would I be wearing this one?**_
 
 Abraham Lincoln
+
+_**I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.**_
+
+Og Mandino
