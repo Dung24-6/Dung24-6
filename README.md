@@ -354,3 +354,7 @@ Abraham Lincoln
 _**I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.**_
 
 Og Mandino
+
+_**If we open a quarrel between past and present, we shall find that we have lost the future.**_
+
+Winston Churchill
