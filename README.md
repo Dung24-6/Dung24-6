@@ -358,3 +358,7 @@ Og Mandino
 _**If we open a quarrel between past and present, we shall find that we have lost the future.**_
 
 Winston Churchill
+
+_**Happiness mainly comes from our own attitude, rather than from external factors.**_
+
+Dalai Lama
