@@ -362,3 +362,7 @@ Winston Churchill
 _**Happiness mainly comes from our own attitude, rather than from external factors.**_
 
 Dalai Lama
+
+_**Friendship may, and often does, grow into love, but love never subsides into friendship.**_
+
+Lord Byron
