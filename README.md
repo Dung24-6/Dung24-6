@@ -366,3 +366,7 @@ Dalai Lama
 _**Friendship may, and often does, grow into love, but love never subsides into friendship.**_
 
 Lord Byron
+
+_**A quarrel between friends, when made up, adds a new tie to friendship.**_
+
+Francis de Sales
