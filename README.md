@@ -374,3 +374,7 @@ Francis de Sales
 _**Perseverance is a great element of success. If you only knock long enough and loud enough at the gate, you are sure to wake up somebody.**_
 
 Henry Wadsworth Longfellow
+
+_**A prudent question is one half of wisdom.**_
+
+Francis Bacon
