@@ -382,3 +382,7 @@ Francis Bacon
 _**Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.**_
 
 The Buddha
+
+_**Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.**_
+
+Charles Eastman
