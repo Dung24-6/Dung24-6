@@ -386,3 +386,7 @@ The Buddha
 _**Friendship is held to be the severest test of character. It is easy, we think, to be loyal to a family and clan, whose blood is in your own veins.**_
 
 Charles Eastman
+
+_**Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.**_
+
+Laozi
