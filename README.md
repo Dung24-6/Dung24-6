@@ -390,3 +390,7 @@ Charles Eastman
 _**Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven.**_
 
 Laozi
+
+_**Everything you are against weakens you. Everything you are for empowers you.**_
+
+Wayne Dyer
