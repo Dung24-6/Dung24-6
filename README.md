@@ -394,3 +394,7 @@ Laozi
 _**Everything you are against weakens you. Everything you are for empowers you.**_
 
 Wayne Dyer
+
+_**Our character is what we do when we think no one is looking.**_
+
+H. Jackson Brown Jr.
