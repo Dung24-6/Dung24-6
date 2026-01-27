@@ -398,3 +398,7 @@ Wayne Dyer
 _**Our character is what we do when we think no one is looking.**_
 
 H. Jackson Brown Jr.
+
+_**Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.**_
+
+H. Jackson Brown Jr.
