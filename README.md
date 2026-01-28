@@ -402,3 +402,7 @@ H. Jackson Brown Jr.
 _**Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots.**_
 
 H. Jackson Brown Jr.
+
+_**It's easier to resist at the beginning than at the end.**_
+
+Leonardo da Vinci
