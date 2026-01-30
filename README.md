@@ -410,3 +410,7 @@ Leonardo da Vinci
 _**He who knows, does not speak. He who speaks, does not know.**_
 
 Laozi
+
+_**Honesty is the best policy.**_
+
+Benjamin Franklin
