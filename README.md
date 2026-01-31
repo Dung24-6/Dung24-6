@@ -414,3 +414,7 @@ Laozi
 _**Honesty is the best policy.**_
 
 Benjamin Franklin
+
+_**The exercise of an extraordinary gift is the supremist pleasure in life.**_
+
+Mark Twain
