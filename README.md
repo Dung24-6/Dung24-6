@@ -426,3 +426,7 @@ Laurence J. Peter
 _**I have done my best: that is about all the philosophy of living one needs.**_
 
 Lin Yutang
+
+_**Difficulties are things that show a person what they are.**_
+
+Epictetus
