@@ -430,3 +430,7 @@ Lin Yutang
 _**Difficulties are things that show a person what they are.**_
 
 Epictetus
+
+_**Happiness mainly comes from our own attitude, rather than from external factors.**_
+
+Dalai Lama
