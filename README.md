@@ -434,3 +434,7 @@ Epictetus
 _**Happiness mainly comes from our own attitude, rather than from external factors.**_
 
 Dalai Lama
+
+_**There are no strangers here; Only friends you haven't yet met.**_
+
+William Butler Yeats
