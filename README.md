@@ -438,3 +438,7 @@ Dalai Lama
 _**There are no strangers here; Only friends you haven't yet met.**_
 
 William Butler Yeats
+
+_**Whenever you find yourself on the side of the majority, it is time to pause and reflect.**_
+
+Mark Twain
