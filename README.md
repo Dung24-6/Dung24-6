@@ -442,3 +442,7 @@ William Butler Yeats
 _**Whenever you find yourself on the side of the majority, it is time to pause and reflect.**_
 
 Mark Twain
+
+_**This is why I loved technology: if you used it right, it could give you power and privacy.**_
+
+Cory Doctorow
