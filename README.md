@@ -446,3 +446,7 @@ Mark Twain
 _**This is why I loved technology: if you used it right, it could give you power and privacy.**_
 
 Cory Doctorow
+
+_**Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.**_
+
+Niccolò Machiavelli
