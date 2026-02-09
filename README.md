@@ -450,3 +450,7 @@ Cory Doctorow
 _**Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration.**_
 
 Niccolò Machiavelli
+
+_**When you come to the end of your rope, tie a knot and hang on.**_
+
+Franklin D. Roosevelt
