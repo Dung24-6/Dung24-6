@@ -466,3 +466,7 @@ Epictetus
 _**Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.**_
 
 Swami Vivekananda
+
+_**Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.**_
+
+Margaret Mead
