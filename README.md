@@ -470,3 +470,7 @@ Swami Vivekananda
 _**Never doubt that a small group of thoughtful, committed people can change the world. Indeed. It is the only thing that ever has.**_
 
 Margaret Mead
+
+_**To improve is to change; to be perfect is to change often.**_
+
+Winston Churchill
