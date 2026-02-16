@@ -478,3 +478,7 @@ Winston Churchill
 _**A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.**_
 
 Denis Waitley
+
+_**You can only learn so much from books. You can only learn so much from education. Ultimately, it is the wisdom of God that will carry you through in the toughest situations of life.**_
+
+Ravi Zacharias
