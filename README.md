@@ -486,3 +486,7 @@ Ravi Zacharias
 _**There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will.**_
 
 Epictetus
+
+_**The world makes way for the man who knows where he is going.**_
+
+Ralph Waldo Emerson
