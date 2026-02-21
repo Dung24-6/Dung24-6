@@ -498,3 +498,7 @@ Kahlil Gibran
 _**Gratitude is riches. Complaint is poverty.**_
 
 Doris Day
+
+_**So much technology, so little talent.**_
+
+Vernor Vinge
