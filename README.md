@@ -502,3 +502,7 @@ Doris Day
 _**So much technology, so little talent.**_
 
 Vernor Vinge
+
+_**Time changes everything except something within us which is always surprised by change.**_
+
+Thomas Hardy
