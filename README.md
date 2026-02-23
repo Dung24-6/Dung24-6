@@ -506,3 +506,7 @@ Vernor Vinge
 _**Time changes everything except something within us which is always surprised by change.**_
 
 Thomas Hardy
+
+_**To lead people walk behind them.**_
+
+Laozi
