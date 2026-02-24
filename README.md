@@ -510,3 +510,7 @@ Thomas Hardy
 _**To lead people walk behind them.**_
 
 Laozi
+
+_**Setting goals is the first step in turning the invisible into the visible.**_
+
+Tony Robbins
