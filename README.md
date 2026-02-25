@@ -514,3 +514,7 @@ Laozi
 _**Setting goals is the first step in turning the invisible into the visible.**_
 
 Tony Robbins
+
+_**Action is eloquence.**_
+
+William Shakespeare
