@@ -518,3 +518,7 @@ Tony Robbins
 _**Action is eloquence.**_
 
 William Shakespeare
+
+_**We gain the strength of the temptation we resist.**_
+
+Ralph Waldo Emerson
