@@ -526,3 +526,7 @@ Ralph Waldo Emerson
 _**If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.**_
 
 Dalai Lama
+
+_**The world is round and the place which may seem like the end may also be the beginning.**_
+
+Ivy Baker Priest
