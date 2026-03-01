@@ -530,3 +530,7 @@ Dalai Lama
 _**The world is round and the place which may seem like the end may also be the beginning.**_
 
 Ivy Baker Priest
+
+_**History is written by the victors.**_
+
+Winston Churchill
