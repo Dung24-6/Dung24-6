@@ -542,3 +542,7 @@ Carl Jung
 _**Love is the master key that opens the gates of happiness.**_
 
 Oliver Wendell Holmes Jr.
+
+_**It is not so much our friends' help that helps us, as the confidence of their help.**_
+
+Epicurus
