@@ -546,3 +546,7 @@ Oliver Wendell Holmes Jr.
 _**It is not so much our friends' help that helps us, as the confidence of their help.**_
 
 Epicurus
+
+_**Argue for your limitations, and sure enough they're yours.**_
+
+Richard Bach
