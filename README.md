@@ -550,3 +550,7 @@ Epicurus
 _**Argue for your limitations, and sure enough they're yours.**_
 
 Richard Bach
+
+_**Never, never, never give up.**_
+
+Winston Churchill
