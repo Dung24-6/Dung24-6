@@ -554,3 +554,7 @@ Richard Bach
 _**Never, never, never give up.**_
 
 Winston Churchill
+
+_**Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.**_
+
+Wayne Dyer
