@@ -558,3 +558,7 @@ Winston Churchill
 _**Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.**_
 
 Wayne Dyer
+
+_**However rare true love may be, it is less so than true friendship.**_
+
+François de La Rochefoucauld
