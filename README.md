@@ -562,3 +562,7 @@ Wayne Dyer
 _**However rare true love may be, it is less so than true friendship.**_
 
 François de La Rochefoucauld
+
+_**Most great people have attained their greatest success just one step beyond their greatest failure.**_
+
+Napoleon Hill
