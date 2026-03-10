@@ -566,3 +566,7 @@ François de La Rochefoucauld
 _**Most great people have attained their greatest success just one step beyond their greatest failure.**_
 
 Napoleon Hill
+
+_**Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.**_
+
+Ralph Waldo Emerson
