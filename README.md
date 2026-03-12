@@ -574,3 +574,7 @@ Ralph Waldo Emerson
 _**Time you enjoyed wasting was not wasted.**_
 
 John Lennon
+
+_**Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.**_
+
+Louis Pasteur
