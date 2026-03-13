@@ -578,3 +578,7 @@ John Lennon
 _**Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity.**_
 
 Louis Pasteur
+
+_**It is one of the blessings of old friends that you can afford to be stupid with them.**_
+
+Ralph Waldo Emerson
