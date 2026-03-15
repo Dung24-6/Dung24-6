@@ -586,3 +586,7 @@ Ralph Waldo Emerson
 _**Always keep an open mind and a compassionate heart.**_
 
 Phil Jackson
+
+_**What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.**_
+
+The Buddha
