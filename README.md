@@ -590,3 +590,7 @@ Phil Jackson
 _**What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.**_
 
 The Buddha
+
+_**I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.**_
+
+Thomas Edison
