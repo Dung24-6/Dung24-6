@@ -594,3 +594,7 @@ The Buddha
 _**I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.**_
 
 Thomas Edison
+
+_**The real problem is not whether machines think but whether men do.**_
+
+B. F. Skinner
