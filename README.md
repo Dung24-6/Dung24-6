@@ -598,3 +598,7 @@ Thomas Edison
 _**The real problem is not whether machines think but whether men do.**_
 
 B. F. Skinner
+
+_**Thought is the blossom; language the bud; action the fruit behind it.**_
+
+Ralph Waldo Emerson
