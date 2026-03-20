@@ -606,3 +606,7 @@ Ralph Waldo Emerson
 _**The least of things with a meaning is worth more in life than the greatest of things without it.**_
 
 Carl Jung
+
+_**All know the way; few actually walk it.**_
+
+Bodhidharma
