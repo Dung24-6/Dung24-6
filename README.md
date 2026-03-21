@@ -610,3 +610,7 @@ Carl Jung
 _**All know the way; few actually walk it.**_
 
 Bodhidharma
+
+_**The wisdom of the wise, and the experience of ages, may be preserved by quotation.**_
+
+Isaac D'Israeli
