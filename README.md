@@ -618,3 +618,7 @@ Isaac D'Israeli
 _**Study the past, if you would divine the future.**_
 
 Confucius
+
+_**When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.**_
+
+Helen Keller
