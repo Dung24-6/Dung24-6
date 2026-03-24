@@ -622,3 +622,7 @@ Confucius
 _**When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.**_
 
 Helen Keller
+
+_**Life is a succession of lessons, which must be lived to be understood.**_
+
+Ralph Waldo Emerson
