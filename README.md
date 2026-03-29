@@ -642,3 +642,7 @@ Victoria Osteen
 _**Step with care and great tact and remember that Life's a Great Balancing Act.**_
 
 Dr. Seuss
+
+_**Know, first, who you are, and then adorn yourself accordingly.**_
+
+Epictetus
