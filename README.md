@@ -654,3 +654,7 @@ Steve Jobs
 _**Life is 10% what happens to you and 90% how you react to it.**_
 
 Chuck Swindoll
+
+_**What do we live for, if it is not to make life less difficult for each other?**_
+
+George Eliot
