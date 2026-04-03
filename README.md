@@ -662,3 +662,7 @@ George Eliot
 _**Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one.**_
 
 Oscar Wilde
+
+_**I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.**_
+
+G. K. Chesterton
