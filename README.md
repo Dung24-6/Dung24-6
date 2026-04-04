@@ -666,3 +666,7 @@ Oscar Wilde
 _**I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on them unless they act.**_
 
 G. K. Chesterton
+
+_**The grand essentials of happiness are: something to do, something to love, and something to hope for.**_
+
+Alexander Chalmers
