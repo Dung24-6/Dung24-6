@@ -674,3 +674,7 @@ Alexander Chalmers
 _**If you don't go after what you want, you'll never have it. If you don't ask, the answer is always no. If you don't step forward, you're always in the same place.**_
 
 Nora Roberts
+
+_**Always keep your mind as bright and clear as the vast sky, the great ocean, and the highest peak, empty of all thoughts. Always keep your body filled with light and heat. Fill yourself with the power of wisdom and enlightenment.**_
+
+Morihei Ueshiba
