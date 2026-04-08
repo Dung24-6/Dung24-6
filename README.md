@@ -682,3 +682,7 @@ Morihei Ueshiba
 _**When I let go of what I am, I become what I might be.**_
 
 Laozi
+
+_**Gratitude is riches. Complaint is poverty.**_
+
+Doris Day
