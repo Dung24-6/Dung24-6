@@ -690,3 +690,7 @@ Doris Day
 _**The right way is not always the popular and easy way. Standing for right when it is unpopular is a true test of moral character.**_
 
 Margaret Chase Smith
+
+_**In skating over thin ice our safety is in our speed.**_
+
+Ralph Waldo Emerson
