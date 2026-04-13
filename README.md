@@ -702,3 +702,7 @@ Marilyn Monroe
 _**Gold medals aren't really made of gold. They're made of sweat, determination, and a hard-to-find alloy called guts.**_
 
 Dan Gable
+
+_**Success is not final; failure is not fatal: it is the courage to continue that counts.**_
+
+Winston Churchill
