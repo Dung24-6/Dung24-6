@@ -706,3 +706,7 @@ Dan Gable
 _**Success is not final; failure is not fatal: it is the courage to continue that counts.**_
 
 Winston Churchill
+
+_**Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.**_
+
+Doug Larson
