@@ -710,3 +710,7 @@ Winston Churchill
 _**Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.**_
 
 Doug Larson
+
+_**To fly as fast as thought, you must begin by knowing that you have already arrived.**_
+
+Richard Bach
