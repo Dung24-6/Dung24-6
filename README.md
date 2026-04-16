@@ -714,3 +714,7 @@ Doug Larson
 _**To fly as fast as thought, you must begin by knowing that you have already arrived.**_
 
 Richard Bach
+
+_**A little knowledge that acts is worth infinitely more than much knowledge that is idle.**_
+
+Kahlil Gibran
