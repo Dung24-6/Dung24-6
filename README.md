@@ -726,3 +726,7 @@ Winston Churchill
 _**What worries you masters you.**_
 
 Haddon Robinson
+
+_**If one does not know to which port one is sailing, no wind is favorable.**_
+
+Seneca the Younger
