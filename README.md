@@ -734,3 +734,7 @@ Seneca the Younger
 _**One's philosophy is not best expressed in words; it is expressed in the choices one makes... and the choices we make are ultimately our responsibility.**_
 
 Eleanor Roosevelt
+
+_**If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.**_
+
+John Steinbeck
