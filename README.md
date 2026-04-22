@@ -738,3 +738,7 @@ Eleanor Roosevelt
 _**If we could learn to like ourselves, even a little, maybe our cruelties and angers might melt away.**_
 
 John Steinbeck
+
+_**Life is really simple, but we insist on making it complicated.**_
+
+Confucius
