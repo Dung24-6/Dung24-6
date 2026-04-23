@@ -742,3 +742,7 @@ John Steinbeck
 _**Life is really simple, but we insist on making it complicated.**_
 
 Confucius
+
+_**There is nothing happens to any person but what was in his power to go through with.**_
+
+Marcus Aurelius
