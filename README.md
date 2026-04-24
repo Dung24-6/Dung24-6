@@ -746,3 +746,7 @@ Confucius
 _**There is nothing happens to any person but what was in his power to go through with.**_
 
 Marcus Aurelius
+
+_**Bad things are not the worst things that can happen to us. Nothing is the worst thing that can happen to us!**_
+
+Richard Bach
