@@ -758,3 +758,7 @@ Abraham Lincoln
 _**The world is a book, and those who do not travel read only a page.**_
 
 Augustine of Hippo
+
+_**To accomplish great things, we must not only act, but also dream; not only plan, but also believe.**_
+
+Anatole France
