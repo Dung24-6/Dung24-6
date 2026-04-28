@@ -762,3 +762,7 @@ Augustine of Hippo
 _**To accomplish great things, we must not only act, but also dream; not only plan, but also believe.**_
 
 Anatole France
+
+_**Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.**_
+
+Barack Obama
