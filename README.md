@@ -766,3 +766,7 @@ Anatole France
 _**Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.**_
 
 Barack Obama
+
+_**The extreme limit of wisdom, that's what the public calls madness.**_
+
+Jean Cocteau
