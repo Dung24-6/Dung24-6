@@ -770,3 +770,7 @@ Barack Obama
 _**The extreme limit of wisdom, that's what the public calls madness.**_
 
 Jean Cocteau
+
+_**There is no charm equal to tenderness of heart.**_
+
+Jane Austen
