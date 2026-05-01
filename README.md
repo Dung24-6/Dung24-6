@@ -774,3 +774,7 @@ Jean Cocteau
 _**There is no charm equal to tenderness of heart.**_
 
 Jane Austen
+
+_**Anybody can make history. Only a great man can write it.**_
+
+Oscar Wilde
