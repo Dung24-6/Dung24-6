@@ -778,3 +778,7 @@ Jane Austen
 _**Anybody can make history. Only a great man can write it.**_
 
 Oscar Wilde
+
+_**Never find fault with the absent.**_
+
+Alexander Pope
