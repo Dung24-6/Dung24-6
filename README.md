@@ -782,3 +782,7 @@ Oscar Wilde
 _**Never find fault with the absent.**_
 
 Alexander Pope
+
+_**Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.**_
+
+Carl Jung
