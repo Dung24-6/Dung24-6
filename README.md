@@ -786,3 +786,7 @@ Alexander Pope
 _**Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.**_
 
 Carl Jung
+
+_**So then, the relationship of self to other is the complete realization that loving yourself is impossible without loving everything defined as other than yourself.**_
+
+Alan Watts
