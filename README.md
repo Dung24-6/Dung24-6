@@ -798,3 +798,7 @@ Audre Lorde
 _**Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes.**_
 
 Dalai Lama
+
+_**The path to success is to take massive, determined action.**_
+
+Tony Robbins
