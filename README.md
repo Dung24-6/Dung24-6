@@ -802,3 +802,7 @@ Dalai Lama
 _**The path to success is to take massive, determined action.**_
 
 Tony Robbins
+
+_**Experience is simply the name we give our mistakes.**_
+
+Oscar Wilde
