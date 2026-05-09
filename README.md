@@ -806,3 +806,7 @@ Tony Robbins
 _**Experience is simply the name we give our mistakes.**_
 
 Oscar Wilde
+
+_**The more sand that has escaped from the hourglass of our life, the clearer we should see through it.**_
+
+Jean-Paul Sartre
