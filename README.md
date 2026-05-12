@@ -818,3 +818,7 @@ Oliver Wendell Holmes Jr.
 _**Science gives us knowledge, but only philosophy can give us wisdom.**_
 
 Will Durant
+
+_**Anticipate the difficult by managing the easy.**_
+
+Laozi
