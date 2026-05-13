@@ -822,3 +822,7 @@ Will Durant
 _**Anticipate the difficult by managing the easy.**_
 
 Laozi
+
+_**Speak low, if you speak love.**_
+
+William Shakespeare
