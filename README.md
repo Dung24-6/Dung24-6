@@ -826,3 +826,7 @@ Laozi
 _**Speak low, if you speak love.**_
 
 William Shakespeare
+
+_**A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.**_
+
+Joseph Roux
