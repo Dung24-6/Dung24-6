@@ -838,3 +838,7 @@ Emily Dickinson
 _**A dream is your creative vision for your life in the future. You must break out of your current comfort zone and become comfortable with the unfamiliar and the unknown.**_
 
 Denis Waitley
+
+_**I want you to be everything that's you, deep at the center of your being.**_
+
+Confucius
