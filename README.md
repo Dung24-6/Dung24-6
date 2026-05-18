@@ -842,3 +842,7 @@ Denis Waitley
 _**I want you to be everything that's you, deep at the center of your being.**_
 
 Confucius
+
+_**The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.**_
+
+Ralph Abernathy
