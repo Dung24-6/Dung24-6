@@ -846,3 +846,7 @@ Confucius
 _**The industrial landscape is already littered with remains of once successful companies that could not adapt their strategic vision to altered conditions of competition.**_
 
 Ralph Abernathy
+
+_**All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.**_
+
+Winston Churchill
