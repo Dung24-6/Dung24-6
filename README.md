@@ -850,3 +850,7 @@ Ralph Abernathy
 _**All the great things are simple, and many can be expressed in a single word: freedom, justice, honor, duty, mercy, hope.**_
 
 Winston Churchill
+
+_**When we seek to discover the best in others, we somehow bring out the best in ourselves.**_
+
+William Arthur Ward
