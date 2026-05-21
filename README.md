@@ -854,3 +854,7 @@ Winston Churchill
 _**When we seek to discover the best in others, we somehow bring out the best in ourselves.**_
 
 William Arthur Ward
+
+_**I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.**_
+
+Yolanda Hadid
