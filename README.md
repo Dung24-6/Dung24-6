@@ -858,3 +858,7 @@ William Arthur Ward
 _**I have learned that friendship isn't about who you've known the longest, it's about who came and never left your side.**_
 
 Yolanda Hadid
+
+_**You don't play against opponents, you play against the game of basketball.**_
+
+Bob Knight
