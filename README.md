@@ -862,3 +862,7 @@ Yolanda Hadid
 _**You don't play against opponents, you play against the game of basketball.**_
 
 Bob Knight
+
+_**Let yourself be silently drawn by the stronger pull of what you really love.**_
+
+Rumi
