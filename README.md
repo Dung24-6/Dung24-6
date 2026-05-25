@@ -870,3 +870,7 @@ Rumi
 _**Happiness can exist only in acceptance.**_
 
 George Orwell
+
+_**If I were two-faced, would I be wearing this one?**_
+
+Abraham Lincoln
