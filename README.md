@@ -874,3 +874,7 @@ George Orwell
 _**If I were two-faced, would I be wearing this one?**_
 
 Abraham Lincoln
+
+_**Friendship without self-interest is one of the rare and beautiful things of life.**_
+
+James F. Byrnes
