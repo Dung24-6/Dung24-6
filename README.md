@@ -890,3 +890,7 @@ George Orwell
 _**There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.**_
 
 Albert Einstein
+
+_**All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.**_
+
+Immanuel Kant
