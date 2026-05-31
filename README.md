@@ -894,3 +894,7 @@ Albert Einstein
 _**All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.**_
 
 Immanuel Kant
+
+_**Action is the foundational key to all success.**_
+
+Pablo Picasso
