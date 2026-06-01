@@ -898,3 +898,7 @@ Immanuel Kant
 _**Action is the foundational key to all success.**_
 
 Pablo Picasso
+
+_**Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.**_
+
+Abraham Lincoln
