@@ -902,3 +902,7 @@ Pablo Picasso
 _**Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing.**_
 
 Abraham Lincoln
+
+_**Life is movement-we breathe, we eat, we walk, we move!**_
+
+John Pierrakos
