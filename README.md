@@ -906,3 +906,7 @@ Abraham Lincoln
 _**Life is movement-we breathe, we eat, we walk, we move!**_
 
 John Pierrakos
+
+_**He who hath many friends hath none.**_
+
+Aristotle
