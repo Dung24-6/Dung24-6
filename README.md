@@ -910,3 +910,7 @@ John Pierrakos
 _**He who hath many friends hath none.**_
 
 Aristotle
+
+_**The smallest deed is better than the greatest intention.**_
+
+John Burroughs
