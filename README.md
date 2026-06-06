@@ -918,3 +918,7 @@ John Burroughs
 _**Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.**_
 
 Samuel Beckett
+
+_**Tragedy is a tool for the living to gain wisdom, not a guide by which to live.**_
+
+Robert F. Kennedy
