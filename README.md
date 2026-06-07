@@ -922,3 +922,7 @@ Samuel Beckett
 _**Tragedy is a tool for the living to gain wisdom, not a guide by which to live.**_
 
 Robert F. Kennedy
+
+_**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
+
+Robert Graves
