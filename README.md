@@ -926,3 +926,7 @@ Robert F. Kennedy
 _**Intuition is the supra-logic that cuts out all the routine processes of thought and leaps straight from the problem to the answer.**_
 
 Robert Graves
+
+_**Can you imagine what I would do if I could do all I can?**_
+
+Sun Tzu
