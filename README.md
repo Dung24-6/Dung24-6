@@ -930,3 +930,7 @@ Robert Graves
 _**Can you imagine what I would do if I could do all I can?**_
 
 Sun Tzu
+
+_**Success is getting what you want. Happiness is wanting what you get.**_
+
+Dale Carnegie
