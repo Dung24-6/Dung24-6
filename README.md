@@ -934,3 +934,7 @@ Sun Tzu
 _**Success is getting what you want. Happiness is wanting what you get.**_
 
 Dale Carnegie
+
+_**Happiness resides not in possessions, and not in gold, happiness dwells in the soul.**_
+
+Democritus
