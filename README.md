@@ -938,3 +938,7 @@ Dale Carnegie
 _**Happiness resides not in possessions, and not in gold, happiness dwells in the soul.**_
 
 Democritus
+
+_**The beginning is always today.**_
+
+Mary Wollstonecraft
