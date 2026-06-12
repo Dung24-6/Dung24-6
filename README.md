@@ -942,3 +942,7 @@ Democritus
 _**The beginning is always today.**_
 
 Mary Wollstonecraft
+
+_**It is the neglect of timely repair that makes rebuilding necessary.**_
+
+Richard Whately
