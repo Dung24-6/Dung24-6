@@ -946,3 +946,7 @@ Mary Wollstonecraft
 _**It is the neglect of timely repair that makes rebuilding necessary.**_
 
 Richard Whately
+
+_**In all things of nature there is something of the marvelous.**_
+
+Aristotle
