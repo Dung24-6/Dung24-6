@@ -950,3 +950,7 @@ Richard Whately
 _**In all things of nature there is something of the marvelous.**_
 
 Aristotle
+
+_**It is only with the heart that one can see rightly, what is essential is invisible to the eye.**_
+
+Antoine de Saint-Exupéry
