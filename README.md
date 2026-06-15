@@ -954,3 +954,7 @@ Aristotle
 _**It is only with the heart that one can see rightly, what is essential is invisible to the eye.**_
 
 Antoine de Saint-Exupéry
+
+_**You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.**_
+
+Naguib Mahfouz
