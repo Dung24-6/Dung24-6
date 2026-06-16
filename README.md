@@ -958,3 +958,7 @@ Antoine de Saint-Exupéry
 _**You can tell whether a man is clever by his answers. You can tell whether a man is wise by his questions.**_
 
 Naguib Mahfouz
+
+_**Where there is great love, there are always miracles.**_
+
+Willa Cather
