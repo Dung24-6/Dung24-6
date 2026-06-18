@@ -966,3 +966,7 @@ Willa Cather
 _**Things turn out best for those who make the best of the way things turn out.**_
 
 Jack Buck
+
+_**Divide each difficulty into as many parts as is feasible and necessary to resolve it.**_
+
+René Descartes
