@@ -970,3 +970,7 @@ Jack Buck
 _**Divide each difficulty into as many parts as is feasible and necessary to resolve it.**_
 
 René Descartes
+
+_**Everything that irritates us about others can lead us to a better understanding of ourselves.**_
+
+Carl Jung
