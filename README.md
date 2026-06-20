@@ -974,3 +974,7 @@ René Descartes
 _**Everything that irritates us about others can lead us to a better understanding of ourselves.**_
 
 Carl Jung
+
+_**I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.**_
+
+G. K. Chesterton
