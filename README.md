@@ -978,3 +978,7 @@ Carl Jung
 _**I do not believe in a fate that falls on men however they act; but I do believe in a fate that falls on man unless they act.**_
 
 G. K. Chesterton
+
+_**Ignorant men don't know what good they hold in their hands until they've flung it away.**_
+
+Sophocles
