@@ -990,3 +990,7 @@ Ralph Marston
 _**The opportunity for brotherhood presents itself every time you meet a human being.**_
 
 Jane Wyman
+
+_**Fears are nothing more than a state of mind.**_
+
+Napoleon Hill
