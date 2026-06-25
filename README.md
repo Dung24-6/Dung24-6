@@ -994,3 +994,7 @@ Jane Wyman
 _**Fears are nothing more than a state of mind.**_
 
 Napoleon Hill
+
+_**Sports do not build character. They reveal it.**_
+
+Heywood Broun
