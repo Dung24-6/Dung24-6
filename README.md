@@ -998,3 +998,7 @@ Napoleon Hill
 _**Sports do not build character. They reveal it.**_
 
 Heywood Broun
+
+_**It does not matter how slowly you go as long as you do not stop.**_
+
+Confucius
