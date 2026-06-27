@@ -1002,3 +1002,7 @@ Heywood Broun
 _**It does not matter how slowly you go as long as you do not stop.**_
 
 Confucius
+
+_**The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.**_
+
+Mortimer J. Adler
