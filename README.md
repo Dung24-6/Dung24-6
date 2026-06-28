@@ -1006,3 +1006,7 @@ Confucius
 _**The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.**_
 
 Mortimer J. Adler
+
+_**Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.**_
+
+Mary Kay Ash
