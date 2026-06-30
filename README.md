@@ -1014,3 +1014,7 @@ Mary Kay Ash
 _**What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.**_
 
 Cicero
+
+_**A friendship founded on business is better than a business founded on friendship.**_
+
+John Locke
