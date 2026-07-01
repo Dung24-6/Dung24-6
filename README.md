@@ -1018,3 +1018,7 @@ Cicero
 _**A friendship founded on business is better than a business founded on friendship.**_
 
 John Locke
+
+_**If you want things to be different, perhaps the answer is to become different yourself.**_
+
+Norman Vincent Peale
