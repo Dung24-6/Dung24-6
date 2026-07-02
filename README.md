@@ -1022,3 +1022,7 @@ John Locke
 _**If you want things to be different, perhaps the answer is to become different yourself.**_
 
 Norman Vincent Peale
+
+_**By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.**_
+
+The Buddha
