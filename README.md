@@ -1026,3 +1026,7 @@ Norman Vincent Peale
 _**By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.**_
 
 The Buddha
+
+_**Every great advance in science has issued from a new audacity of the imagination.**_
+
+John Dewey
