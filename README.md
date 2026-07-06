@@ -1038,3 +1038,7 @@ Virgil
 _**Do not scorn what you have received, nor envy the gains of others. He who envies others does not obtain peace of mind.**_
 
 The Buddha
+
+_**Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.**_
+
+Napoleon Hill
