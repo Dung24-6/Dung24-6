@@ -1046,3 +1046,7 @@ Napoleon Hill
 _**Age does not protect you from love. But love, to some extent, protects you from age.**_
 
 Anaïs Nin
+
+_**All I can say about life is, Oh God, enjoy it!**_
+
+Bob Newhart
