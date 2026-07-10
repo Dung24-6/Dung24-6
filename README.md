@@ -1054,3 +1054,7 @@ Bob Newhart
 _**We've got to have a dream if we are going to make a dream come true.**_
 
 Walt Disney
+
+_**Where there is love there is life.**_
+
+Mahatma Gandhi
