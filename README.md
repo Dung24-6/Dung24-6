@@ -1058,3 +1058,7 @@ Walt Disney
 _**Where there is love there is life.**_
 
 Mahatma Gandhi
+
+_**God gave us the gift of life; it is up to us to give ourselves the gift of living well.**_
+
+Voltaire
