@@ -1062,3 +1062,7 @@ Mahatma Gandhi
 _**God gave us the gift of life; it is up to us to give ourselves the gift of living well.**_
 
 Voltaire
+
+_**Always seek out the seed of triumph in every adversity.**_
+
+Og Mandino
