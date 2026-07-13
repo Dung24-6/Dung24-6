@@ -1066,3 +1066,7 @@ Voltaire
 _**Always seek out the seed of triumph in every adversity.**_
 
 Og Mandino
+
+_**Every great advance in science has issued from a new audacity of the imagination.**_
+
+John Dewey
