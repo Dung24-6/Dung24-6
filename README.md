@@ -1070,3 +1070,7 @@ Og Mandino
 _**Every great advance in science has issued from a new audacity of the imagination.**_
 
 John Dewey
+
+_**Love is composed of a single soul inhabiting two bodies.**_
+
+Aristotle
