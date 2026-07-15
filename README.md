@@ -1074,3 +1074,7 @@ John Dewey
 _**Love is composed of a single soul inhabiting two bodies.**_
 
 Aristotle
+
+_**Skill to do comes of doing.**_
+
+Ralph Waldo Emerson
