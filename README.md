@@ -1078,3 +1078,7 @@ Aristotle
 _**Skill to do comes of doing.**_
 
 Ralph Waldo Emerson
+
+_**Prejudice is a burden that confuses the past, threatens the future and renders the present inaccessible.**_
+
+Maya Angelou
