@@ -1086,3 +1086,7 @@ Maya Angelou
 _**The fall of dropping water wears away the Stone.**_
 
 Lucretius
+
+_**Start with what is right rather than what is acceptable.**_
+
+Franz Kafka
