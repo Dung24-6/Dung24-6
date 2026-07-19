@@ -1090,3 +1090,7 @@ Lucretius
 _**Start with what is right rather than what is acceptable.**_
 
 Franz Kafka
+
+_**You can stand tall without standing on someone. You can be a victor without having victims.**_
+
+Harriet Woods
