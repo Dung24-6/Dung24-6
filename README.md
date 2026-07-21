@@ -1098,3 +1098,7 @@ Harriet Woods
 _**Practice yourself, for heaven's sake in little things, and then proceed to greater.**_
 
 Epictetus
+
+_**Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.**_
+
+Margaret Cousins
