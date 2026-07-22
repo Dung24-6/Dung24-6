@@ -1102,3 +1102,7 @@ Epictetus
 _**Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.**_
 
 Margaret Cousins
+
+_**False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.**_
+
+Richard Burton
