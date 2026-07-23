@@ -1106,3 +1106,7 @@ Margaret Cousins
 _**False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports.**_
 
 Richard Burton
+
+_**Do not wait for leaders; do it alone, person to person.**_
+
+Mother Teresa
