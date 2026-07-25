@@ -1114,3 +1114,7 @@ Mother Teresa
 _**Don't smother each other. No one can grow in the shade.**_
 
 Leo Buscaglia
+
+_**The superior man is satisfied and composed; the mean man is always full of distress.**_
+
+Confucius
