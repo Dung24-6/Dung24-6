@@ -1118,3 +1118,7 @@ Leo Buscaglia
 _**The superior man is satisfied and composed; the mean man is always full of distress.**_
 
 Confucius
+
+_**Beware of missing chances; otherwise it may be altogether too late someday.**_
+
+Franz Liszt
