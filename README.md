@@ -1122,3 +1122,7 @@ Confucius
 _**Beware of missing chances; otherwise it may be altogether too late someday.**_
 
 Franz Liszt
+
+_**Some people go to priests; others to poetry; I to my friends.**_
+
+Virginia Woolf
