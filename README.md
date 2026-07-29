@@ -1130,3 +1130,7 @@ Virginia Woolf
 _**Life is a succession of lessons, which must be lived to be understood.**_
 
 Ralph Waldo Emerson
+
+_**A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.**_
+
+Laozi
