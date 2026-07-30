@@ -1134,3 +1134,7 @@ Ralph Waldo Emerson
 _**A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.**_
 
 Laozi
+
+_**For everything that lives is holy, life delights in life.**_
+
+William Blake
