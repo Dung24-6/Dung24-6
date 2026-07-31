@@ -1138,3 +1138,7 @@ Laozi
 _**For everything that lives is holy, life delights in life.**_
 
 William Blake
+
+_**Take rest; a field that has rested gives a bountiful crop.**_
+
+Ovid
