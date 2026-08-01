@@ -1142,3 +1142,7 @@ William Blake
 _**Take rest; a field that has rested gives a bountiful crop.**_
 
 Ovid
+
+_**Friendship needs no words - it is solitude delivered from the anguish of loneliness.**_
+
+Dag Hammarskjöld
