@@ -1146,3 +1146,7 @@ Ovid
 _**Friendship needs no words - it is solitude delivered from the anguish of loneliness.**_
 
 Dag Hammarskjöld
+
+_**By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.**_
+
+The Buddha
