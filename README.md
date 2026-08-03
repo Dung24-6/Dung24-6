@@ -1150,3 +1150,7 @@ Dag Hammarskjöld
 _**By oneself is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one made pure.**_
 
 The Buddha
+
+_**The winds and waves are always on the side of the ablest navigators.**_
+
+Edward Gibbon
