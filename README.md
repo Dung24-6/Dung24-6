@@ -1154,3 +1154,7 @@ The Buddha
 _**The winds and waves are always on the side of the ablest navigators.**_
 
 Edward Gibbon
+
+_**Begin at once to live and count each separate day as a separate life.**_
+
+Seneca the Younger
