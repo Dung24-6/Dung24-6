@@ -1158,3 +1158,7 @@ Edward Gibbon
 _**Begin at once to live and count each separate day as a separate life.**_
 
 Seneca the Younger
+
+_**Our work is the presentation of our capabilities.**_
+
+Edward Gibbon
