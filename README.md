@@ -1162,3 +1162,7 @@ Seneca the Younger
 _**Our work is the presentation of our capabilities.**_
 
 Edward Gibbon
+
+_**Life is a learning experience, only if you learn.**_
+
+Yogi Berra
