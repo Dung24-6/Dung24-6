@@ -1166,3 +1166,7 @@ Edward Gibbon
 _**Life is a learning experience, only if you learn.**_
 
 Yogi Berra
+
+_**You really can change the world if you care enough.**_
+
+Marian Wright Edelman
