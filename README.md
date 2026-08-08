@@ -1170,3 +1170,7 @@ Yogi Berra
 _**You really can change the world if you care enough.**_
 
 Marian Wright Edelman
+
+_**Better than a thousand hollow words, is one word that brings peace.**_
+
+The Buddha
