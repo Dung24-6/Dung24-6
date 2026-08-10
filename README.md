@@ -1178,3 +1178,7 @@ The Buddha
 _**I, too, do not envision a doctrine of self the clinging to which there would not arise sorrow, lamentation, pain, grief, and despair.**_
 
 The Buddha
+
+_**I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.**_
+
+Woody Allen
