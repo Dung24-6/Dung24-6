@@ -1182,3 +1182,7 @@ The Buddha
 _**I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown.**_
 
 Woody Allen
+
+_**The language of friendship is not words but meanings.**_
+
+Henry David Thoreau
