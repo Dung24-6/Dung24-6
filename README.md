@@ -1190,3 +1190,7 @@ Henry David Thoreau
 _**I hope we shall crush in its birth the aristocracy of our monied corporations which dare already to challenge our government to a trial by strength, and bid defiance to the laws of our country.**_
 
 Thomas Jefferson
+
+_**Let your hook always be cast; in the pool where you least expect it, there will be a fish.**_
+
+Ovid
