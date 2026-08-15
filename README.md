@@ -1198,3 +1198,7 @@ Ovid
 _**We do not quit playing because we grow old, we grow old because we quit playing.**_
 
 Oliver Wendell Holmes Jr.
+
+_**Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.**_
+
+Tony Robbins
