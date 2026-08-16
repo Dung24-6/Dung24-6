@@ -1202,3 +1202,7 @@ Oliver Wendell Holmes Jr.
 _**Using the power of decision gives you the capacity to get past any excuse to change any and every part of your life in an instant.**_
 
 Tony Robbins
+
+_**A day of worry is more exhausting than a day of work.**_
+
+John Lubbock
