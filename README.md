@@ -1206,3 +1206,7 @@ Tony Robbins
 _**A day of worry is more exhausting than a day of work.**_
 
 John Lubbock
+
+_**What sweetness is left in life, if you take away friendship? Robbing life of friendship is like robbing the world of the sun. A true friend is more to be esteemed than kinsfolk.**_
+
+Cicero
