@@ -1214,3 +1214,7 @@ Cicero
 _**Friendship, like the immortality of the soul, is too good to be believed.**_
 
 Ralph Waldo Emerson
+
+_**You cannot find yourself by going into the past. You can find yourself by coming into the present.**_
+
+Eckhart Tolle
