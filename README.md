@@ -1226,3 +1226,7 @@ Don Miguel Ruiz
 _**The truth you believe and cling to makes you unavailable to hear anything new.**_
 
 Pema Chödrön
+
+_**What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.**_
+
+Wayne Dyer
