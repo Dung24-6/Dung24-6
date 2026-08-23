@@ -1230,3 +1230,7 @@ Pema Chödrön
 _**What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds.**_
 
 Wayne Dyer
+
+_**Our greatness lies not so much in being able to remake the world as being able to remake ourselves.**_
+
+Mahatma Gandhi
