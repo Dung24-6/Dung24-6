@@ -1234,3 +1234,7 @@ Wayne Dyer
 _**Our greatness lies not so much in being able to remake the world as being able to remake ourselves.**_
 
 Mahatma Gandhi
+
+_**Doing what you love is the cornerstone of having abundance in your life.**_
+
+Wayne Dyer
