@@ -1238,3 +1238,7 @@ Mahatma Gandhi
 _**Doing what you love is the cornerstone of having abundance in your life.**_
 
 Wayne Dyer
+
+_**A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.**_
+
+Elbert Hubbard
