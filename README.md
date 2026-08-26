@@ -1242,3 +1242,7 @@ Wayne Dyer
 _**A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.**_
 
 Elbert Hubbard
+
+_**The greatest gift of life is friendship, and I have received it.**_
+
+Hubert Humphrey
