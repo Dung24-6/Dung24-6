@@ -1246,3 +1246,7 @@ Elbert Hubbard
 _**The greatest gift of life is friendship, and I have received it.**_
 
 Hubert Humphrey
+
+_**The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.**_
+
+Babe Ruth
