@@ -1250,3 +1250,7 @@ Hubert Humphrey
 _**The way a team plays as a whole determines its success. You may have the greatest bunch of individual stars in the world, but if they don't play together, the club won't be worth a dime.**_
 
 Babe Ruth
+
+_**Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.**_
+
+Ralph Waldo Emerson
