@@ -1254,3 +1254,7 @@ Babe Ruth
 _**Great are they who see that spiritual is stronger than any material force, that thoughts rule the world.**_
 
 Ralph Waldo Emerson
+
+_**Human beings, who are almost unique in having the ability to learn from the experience of others, are also remarkable for their apparent disinclination to do so.**_
+
+Douglas Adams
