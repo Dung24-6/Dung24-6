@@ -1262,3 +1262,7 @@ Douglas Adams
 _**You cannot step twice into the same river, for other waters are continually flowing in.**_
 
 Heraclitus
+
+_**Imagination is more important than knowledge...**_
+
+Albert Einstein
