@@ -1266,3 +1266,7 @@ Heraclitus
 _**Imagination is more important than knowledge...**_
 
 Albert Einstein
+
+_**I never think of the future. It comes soon enough.**_
+
+Albert Einstein
