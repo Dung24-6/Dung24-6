@@ -1270,3 +1270,7 @@ Albert Einstein
 _**I never think of the future. It comes soon enough.**_
 
 Albert Einstein
+
+_**If you don't know where you are going, any road will get you there.**_
+
+Lewis Carroll
