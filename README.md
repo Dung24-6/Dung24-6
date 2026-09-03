@@ -1274,3 +1274,7 @@ Albert Einstein
 _**If you don't know where you are going, any road will get you there.**_
 
 Lewis Carroll
+
+_**Be kind whenever possible. It is always possible.**_
+
+Dalai Lama
