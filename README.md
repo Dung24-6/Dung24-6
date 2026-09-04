@@ -1278,3 +1278,7 @@ Lewis Carroll
 _**Be kind whenever possible. It is always possible.**_
 
 Dalai Lama
+
+_**Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.**_
+
+Chanakya
