@@ -1282,3 +1282,7 @@ Dalai Lama
 _**Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.**_
 
 Chanakya
+
+_**A thing well said will be wit in all languages.**_
+
+John Dryden
