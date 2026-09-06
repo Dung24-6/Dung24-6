@@ -1286,3 +1286,7 @@ Chanakya
 _**A thing well said will be wit in all languages.**_
 
 John Dryden
+
+_**Things do not happen. Things are made to happen.**_
+
+John F. Kennedy
