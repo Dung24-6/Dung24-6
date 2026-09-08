@@ -1294,3 +1294,7 @@ John F. Kennedy
 _**Two of man's basic needs are to love and to share. Both of these needs are satisfied in greater or lesser degree by friendship.**_
 
 Mother Angelica
+
+_**Miracles come in moments. Be ready and willing.**_
+
+Wayne Dyer
