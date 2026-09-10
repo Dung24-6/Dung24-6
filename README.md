@@ -1302,3 +1302,7 @@ Wayne Dyer
 _**Never make friends with people who are above or below you in status. Such friendships will never give you any happiness.**_
 
 Chanakya
+
+_**Life is like a sewer. What you get out of it depends on what you put into it.**_
+
+Tom Lehrer
