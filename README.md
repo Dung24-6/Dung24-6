@@ -1306,3 +1306,7 @@ Chanakya
 _**Life is like a sewer. What you get out of it depends on what you put into it.**_
 
 Tom Lehrer
+
+_**We gain the strength of the temptation we resist.**_
+
+Ralph Waldo Emerson
