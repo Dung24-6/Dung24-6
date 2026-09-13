@@ -1314,3 +1314,7 @@ Ralph Waldo Emerson
 _**Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.**_
 
 Samuel Beckett
+
+_**Trouble is only opportunity in work clothes.**_
+
+Henry J. Kaiser
