@@ -1318,3 +1318,7 @@ Samuel Beckett
 _**Trouble is only opportunity in work clothes.**_
 
 Henry J. Kaiser
+
+_**No one is useless in this world who lightens the burdens of another.**_
+
+Charles Dickens
