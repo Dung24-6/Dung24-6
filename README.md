@@ -1322,3 +1322,7 @@ Henry J. Kaiser
 _**No one is useless in this world who lightens the burdens of another.**_
 
 Charles Dickens
+
+_**You can observe a lot just by watching.**_
+
+Yogi Berra
