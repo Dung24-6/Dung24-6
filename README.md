@@ -1330,3 +1330,7 @@ Yogi Berra
 _**How many cares one loses when one decides not to be something but to be someone.**_
 
 Coco Chanel
+
+_**Never deny a diagnosis but do deny the negative verdict that may go with it.**_
+
+Norman Cousins
