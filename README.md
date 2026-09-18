@@ -1334,3 +1334,7 @@ Coco Chanel
 _**Never deny a diagnosis but do deny the negative verdict that may go with it.**_
 
 Norman Cousins
+
+_**We must not allow ourselves to become like the system we oppose.**_
+
+Desmond Tutu
