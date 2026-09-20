@@ -1342,3 +1342,7 @@ Desmond Tutu
 _**Nature gave us one tongue and two ears so we could hear twice as much as we speak.**_
 
 Epictetus
+
+_**If one does not know to which port is sailing, no wind is favorable.**_
+
+Seneca the Younger
