@@ -1358,3 +1358,7 @@ Bruce Lee
 _**I hope our wisdom will grow with our power, and teach us, that the less we use our power the greater it will be.**_
 
 Thomas Jefferson
+
+_**The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.**_
+
+Isaac Asimov
