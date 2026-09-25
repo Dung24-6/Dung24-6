@@ -1362,3 +1362,7 @@ Thomas Jefferson
 _**The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom.**_
 
 Isaac Asimov
+
+_**There are no failures. Just experiences and your reactions to them.**_
+
+Tom Krause
