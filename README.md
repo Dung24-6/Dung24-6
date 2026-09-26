@@ -1366,3 +1366,7 @@ Isaac Asimov
 _**There are no failures. Just experiences and your reactions to them.**_
 
 Tom Krause
+
+_**Sometimes the most important thing in a whole day is the rest we take between two deep breaths.**_
+
+Etty Hillesum
