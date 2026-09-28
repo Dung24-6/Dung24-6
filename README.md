@@ -1374,3 +1374,7 @@ Etty Hillesum
 _**Love is composed of a single soul inhabiting two bodies.**_
 
 Aristotle
+
+_**When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.**_
+
+Morihei Ueshiba
