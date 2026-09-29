@@ -1378,3 +1378,7 @@ Aristotle
 _**When an opponent comes forward, move in and greet him; if he wants to pull back, send him on his way.**_
 
 Morihei Ueshiba
+
+_**The ego is nothing other than the focus of conscious attention.**_
+
+Alan Watts
