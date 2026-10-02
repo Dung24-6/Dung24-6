@@ -1390,3 +1390,7 @@ Cicero
 _**Speak when you are angry, and you will make the best speech you will ever regret.**_
 
 Ambrose Bierce
+
+_**I can't imagine a person becoming a success who doesn't give this game of life everything he's got.**_
+
+Walter Cronkite
