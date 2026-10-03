@@ -1394,3 +1394,7 @@ Ambrose Bierce
 _**I can't imagine a person becoming a success who doesn't give this game of life everything he's got.**_
 
 Walter Cronkite
+
+_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
+
+Barack Obama
