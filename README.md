@@ -1398,3 +1398,7 @@ Walter Cronkite
 _**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
 
 Barack Obama
+
+_**All this worldly wisdom was once the unamiable heresy of some wise man.**_
+
+Henry David Thoreau
