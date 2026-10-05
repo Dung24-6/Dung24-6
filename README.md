@@ -1402,3 +1402,7 @@ Barack Obama
 _**All this worldly wisdom was once the unamiable heresy of some wise man.**_
 
 Henry David Thoreau
+
+_**To get the full value of joy you must have someone to divide it with.**_
+
+Mark Twain
