@@ -1406,3 +1406,7 @@ Henry David Thoreau
 _**To get the full value of joy you must have someone to divide it with.**_
 
 Mark Twain
+
+_**The bird of paradise alights only upon the hand that does not grasp.**_
+
+John Berry
