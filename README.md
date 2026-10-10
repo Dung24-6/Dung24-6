@@ -1422,3 +1422,7 @@ Jerome
 _**Habit, if not resisted, soon becomes necessity.**_
 
 Augustine of Hippo
+
+_**Champions keep playing until they get it right.**_
+
+Billie Jean King
