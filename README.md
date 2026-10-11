@@ -1426,3 +1426,7 @@ Augustine of Hippo
 _**Champions keep playing until they get it right.**_
 
 Billie Jean King
+
+_**Genuine sincerity opens people's hearts, while manipulation causes them to close.**_
+
+Daisaku Ikeda
