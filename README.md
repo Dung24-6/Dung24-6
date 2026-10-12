@@ -1430,3 +1430,7 @@ Billie Jean King
 _**Genuine sincerity opens people's hearts, while manipulation causes them to close.**_
 
 Daisaku Ikeda
+
+_**We cannot solve our problems with the same thinking we used when we created them.**_
+
+Albert Einstein
