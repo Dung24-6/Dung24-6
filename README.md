@@ -1434,3 +1434,7 @@ Daisaku Ikeda
 _**We cannot solve our problems with the same thinking we used when we created them.**_
 
 Albert Einstein
+
+_**If one does not know to which port is sailing, no wind is favorable.**_
+
+Seneca the Younger
