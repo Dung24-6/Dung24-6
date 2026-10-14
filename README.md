@@ -1438,3 +1438,7 @@ Albert Einstein
 _**If one does not know to which port is sailing, no wind is favorable.**_
 
 Seneca the Younger
+
+_**Our work is the presentation of our capabilities.**_
+
+Edward Gibbon
