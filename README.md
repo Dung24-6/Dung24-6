@@ -1442,3 +1442,7 @@ Seneca the Younger
 _**Our work is the presentation of our capabilities.**_
 
 Edward Gibbon
+
+_**Logic is the beginning of wisdom, not the end.**_
+
+Leonard Nimoy
