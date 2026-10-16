@@ -1446,3 +1446,7 @@ Edward Gibbon
 _**Logic is the beginning of wisdom, not the end.**_
 
 Leonard Nimoy
+
+_**Life is a succession of moments. To live each one is to succeed.**_
+
+Corita Kent
