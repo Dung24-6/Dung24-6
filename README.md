@@ -1450,3 +1450,7 @@ Leonard Nimoy
 _**Life is a succession of moments. To live each one is to succeed.**_
 
 Corita Kent
+
+_**Life's most persistent and urgent question is, 'What are you doing for others?'**_
+
+Martin Luther King Jr.
