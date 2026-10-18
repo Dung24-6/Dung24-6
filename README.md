@@ -1454,3 +1454,7 @@ Corita Kent
 _**Life's most persistent and urgent question is, 'What are you doing for others?'**_
 
 Martin Luther King Jr.
+
+_**I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.**_
+
+Oprah Winfrey
