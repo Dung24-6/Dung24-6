@@ -1458,3 +1458,7 @@ Martin Luther King Jr.
 _**I know that inner wisdom is more precious than wealth. The more you spend it, the more you gain.**_
 
 Oprah Winfrey
+
+_**Eternal nothingness is fine if you happen to be dressed for it.**_
+
+Woody Allen
