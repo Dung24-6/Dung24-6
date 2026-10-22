@@ -1470,3 +1470,7 @@ Woody Allen
 _**Joy is the best makeup.**_
 
 Anne Lamott
+
+_**Truth is powerful and it prevails.**_
+
+Sojourner Truth
