@@ -1474,3 +1474,7 @@ Anne Lamott
 _**Truth is powerful and it prevails.**_
 
 Sojourner Truth
+
+_**One who is too insistent on his own views, finds few to agree with him.**_
+
+Laozi
