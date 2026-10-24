@@ -1478,3 +1478,7 @@ Sojourner Truth
 _**One who is too insistent on his own views, finds few to agree with him.**_
 
 Laozi
+
+_**Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.**_
+
+Harvey Mackay
