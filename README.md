@@ -1482,3 +1482,7 @@ Laozi
 _**Talent is God-given; be humble. Fame is man-given; be thankful. Conceit is self-given; be careful.**_
 
 Harvey Mackay
+
+_**The biggest adventure you can ever take is to live the life of your dreams.**_
+
+Oprah Winfrey
