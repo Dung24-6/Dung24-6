@@ -1494,3 +1494,7 @@ Douglas Adams
 _**A business that makes nothing but money is a poor business.**_
 
 Henry Ford
+
+_**Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.**_
+
+Satchel Paige
