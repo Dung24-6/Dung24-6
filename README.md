@@ -1498,3 +1498,7 @@ Henry Ford
 _**Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.**_
 
 Satchel Paige
+
+_**No alibi will save you from accepting the responsibility.**_
+
+Napoleon Hill
