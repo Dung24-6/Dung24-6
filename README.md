@@ -1510,3 +1510,7 @@ Peter Abelard
 _**If you seek truth, you will not seek victory by dishonorable means, and if you find truth you will become invincible.**_
 
 Epictetus
+
+_**You cannot find yourself by going into the past. You can find yourself by coming into the present.**_
+
+Eckhart Tolle
