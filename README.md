@@ -1514,3 +1514,7 @@ Epictetus
 _**You cannot find yourself by going into the past. You can find yourself by coming into the present.**_
 
 Eckhart Tolle
+
+_**Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?**_
+
+Friedrich Nietzsche
