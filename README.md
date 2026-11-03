@@ -1518,3 +1518,7 @@ Eckhart Tolle
 _**Does wisdom perhaps appear on the earth as a raven which is inspired by the smell of carrion?**_
 
 Friedrich Nietzsche
+
+_**Whenever something negative happens to you, there is a deep lesson concealed within it.**_
+
+Eckhart Tolle
