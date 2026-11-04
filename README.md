@@ -1522,3 +1522,7 @@ Friedrich Nietzsche
 _**Whenever something negative happens to you, there is a deep lesson concealed within it.**_
 
 Eckhart Tolle
+
+_**The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.**_
+
+Thomas Edison
