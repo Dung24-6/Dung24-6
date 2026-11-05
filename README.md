@@ -1526,3 +1526,7 @@ Eckhart Tolle
 _**The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.**_
 
 Thomas Edison
+
+_**To avoid criticism, do nothing, say nothing, be nothing.**_
+
+Elbert Hubbard
