@@ -1530,3 +1530,7 @@ Thomas Edison
 _**To avoid criticism, do nothing, say nothing, be nothing.**_
 
 Elbert Hubbard
+
+_**I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.**_
+
+Plutarch
