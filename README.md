@@ -1534,3 +1534,7 @@ Elbert Hubbard
 _**I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.**_
 
 Plutarch
+
+_**We know the truth, not only by the reason, but by the heart.**_
+
+Blaise Pascal
