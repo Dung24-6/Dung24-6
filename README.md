@@ -1538,3 +1538,7 @@ Plutarch
 _**We know the truth, not only by the reason, but by the heart.**_
 
 Blaise Pascal
+
+_**Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!**_
+
+Charlotte Perkins Gilman
