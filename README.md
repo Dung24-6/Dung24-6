@@ -1542,3 +1542,7 @@ Blaise Pascal
 _**Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!**_
 
 Charlotte Perkins Gilman
+
+_**Courage is not the absence of fear, but simply moving on with dignity despite that fear.**_
+
+Pat Riley
