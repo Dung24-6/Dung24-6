@@ -1546,3 +1546,7 @@ Charlotte Perkins Gilman
 _**Courage is not the absence of fear, but simply moving on with dignity despite that fear.**_
 
 Pat Riley
+
+_**Each man has his own vocation; his talent is his call. There is one direction in which all space is open to him.**_
+
+Ralph Waldo Emerson
