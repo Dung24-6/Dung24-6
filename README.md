@@ -1554,3 +1554,7 @@ Ralph Waldo Emerson
 _**Science gives us knowledge, but only philosophy can give us wisdom.**_
 
 Will Durant
+
+_**What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.**_
+
+The Buddha
