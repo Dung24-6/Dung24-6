@@ -1558,3 +1558,7 @@ Will Durant
 _**What is past is left behind. The future is yet unreached. Whatever quality is present, clearly see it right there.**_
 
 The Buddha
+
+_**We are all something, but none of us are everything.**_
+
+Blaise Pascal
