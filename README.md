@@ -1562,3 +1562,7 @@ The Buddha
 _**We are all something, but none of us are everything.**_
 
 Blaise Pascal
+
+_**Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.**_
+
+Peter Drucker
