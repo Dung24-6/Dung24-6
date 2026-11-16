@@ -1570,3 +1570,7 @@ Peter Drucker
 _**Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius.**_
 
 Wolfgang Amadeus Mozart
+
+_**The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.**_
+
+Johann Wolfgang von Goethe
