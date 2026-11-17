@@ -1574,3 +1574,7 @@ Wolfgang Amadeus Mozart
 _**The really unhappy person is the one who leaves undone what they can do, and starts doing what they don't understand; no wonder they come to grief.**_
 
 Johann Wolfgang von Goethe
+
+_**What we see depends mainly on what we look for.**_
+
+John Lubbock
