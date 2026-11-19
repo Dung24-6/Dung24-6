@@ -1582,3 +1582,7 @@ John Lubbock
 _**Don’t sacrifice your own welfare for that of another, no matter how great. Realizing your own true welfare, be intent on just that.**_
 
 The Buddha
+
+_**Pitching is the art of instilling fear.**_
+
+Sandy Koufax
