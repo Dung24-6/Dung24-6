@@ -1586,3 +1586,7 @@ The Buddha
 _**Pitching is the art of instilling fear.**_
 
 Sandy Koufax
+
+_**The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.**_
+
+Dalai Lama
