@@ -1590,3 +1590,7 @@ Sandy Koufax
 _**The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.**_
 
 Dalai Lama
+
+_**One today is worth two tomorrows.**_
+
+Benjamin Franklin
