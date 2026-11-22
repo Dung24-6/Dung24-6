@@ -1594,3 +1594,7 @@ Dalai Lama
 _**One today is worth two tomorrows.**_
 
 Benjamin Franklin
+
+_**Men are disturbed not by things, but by the view which they take of them.**_
+
+Epictetus
