@@ -1598,3 +1598,7 @@ Benjamin Franklin
 _**Men are disturbed not by things, but by the view which they take of them.**_
 
 Epictetus
+
+_**Freedom is the right to live as we wish.**_
+
+Epictetus
