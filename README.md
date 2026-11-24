@@ -1602,3 +1602,7 @@ Epictetus
 _**Freedom is the right to live as we wish.**_
 
 Epictetus
+
+_**Technology is a word that describes something that doesn't work yet.**_
+
+Douglas Adams
