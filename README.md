@@ -1606,3 +1606,7 @@ Epictetus
 _**Technology is a word that describes something that doesn't work yet.**_
 
 Douglas Adams
+
+_**Life shrinks or expands in proportion to one's courage.**_
+
+Anaïs Nin
