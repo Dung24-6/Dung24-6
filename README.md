@@ -1610,3 +1610,7 @@ Douglas Adams
 _**Life shrinks or expands in proportion to one's courage.**_
 
 Anaïs Nin
+
+_**I never think of the future - it comes soon enough.**_
+
+Albert Einstein
